@@ -1,0 +1,69 @@
+Title: Netclan20241077
+Source URL: https://insights.blackcoffer.com/advanced-ai-for-road-cam-threat-detection/
+==================================================
+
+Home
+Our Success Stories
+Advanced AI for Road Cam Threat Detection
+Client Background
+Client:
+A leading tech firm in the Middle East
+Industry Type:
+Security
+Services:
+Security services
+Organization Size:
+100+
+The Problem
+Detect the threat level of accidents between a Pedestrian and a Car.
+Our Solution
+Use Deeplearning Computer vision and logic to detect the threat level as defined by the Client.
+Solution Architecture
+Linux 22.04
+Deliverables
+Program which detects the threat level.
+Pretrained model.
+Tools used
+Yolov7
+DEEPSORT
+Opencv
+Language/techniques used
+Python
+Models used
+Yolov7
+Skills used
+Programming
+Computer Vision
+Deep learning
+What are the technical Challenges Faced during Project Execution
+Integration of Object tracking algorithm with Object detection algorithm.
+Writing of logic to detect the threat level.
+How the Technical Challenges were Solved
+The technical challenge was sorted by testing, experimenting and later on finding and modifying an already existing repository to use as a baseline for our code for integration.
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Rise of Cyber Crime and its Effects
+August 17, 2023
+Data Integration, ELT with Neo4j Graph Database
+April 8, 2021
+React Native Apps in the Development Portfolio
+September 6, 2021
+Python Automation tool, API, Cronjob
+May 14, 2021
+Load more
+RECOMMENDED INSIGHTS
+Website Tracking and Insights using Google Analytics, & Google Tag Manager
+Centrality Measures & Their Meaning from the Network Graphs
+How does Big Data Help in Finance and the Growth of...
+Political Intelligence Database

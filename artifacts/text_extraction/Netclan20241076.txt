@@ -1,0 +1,64 @@
+Title: Netclan20241076
+Source URL: https://insights.blackcoffer.com/advanced-ai-for-thermal-person-detection/
+==================================================
+
+Home
+Our Success Stories
+Advanced AI for Thermal Person Detection
+Client Background
+Client:
+A leading tech firm in the Middle East
+Industry Type:
+Security
+Services:
+Security services
+Organization Size:
+100+
+The Problem
+Detect a Person from thermal image and videos. Why this model was created was not told to us by the client.
+Our Solution
+Use Deeplearning Computer Vision to train the model on custom dataset and get the results.
+Solution Architecture
+Linux 22.04
+Nvidiva RTX 3080
+Deliverables
+Trained model
+Tools used
+Labelimg
+Yolov7
+COCO2JSON
+Language/techniques used
+Python
+Models used
+Yolov7
+Skills used
+Deeplearning
+Computer vision
+Programming
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Advanced Textual Analytics – Financial Analysis Industry
+June 6, 2019
+An ETL Solution for Currency Data to Google Big Query
+September 16, 2022
+Building a Real-Time Log File Visualization Dashboard in Kibana
+August 25, 2024
+Bank Risk Management in India
+June 1, 2019
+Load more
+RECOMMENDED INSIGHTS
+Should celebrities be allowed to join politics?
+Fitting Piecewise Growth Models in R
+How Small Business can survive the Coronavirus Crisis
+Android Mobile Apps Portfolio

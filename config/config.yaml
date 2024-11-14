@@ -1,0 +1,18 @@
+artifacts_root: artifacts
+text_extraction:
+  destination_folder: artifacts/text_extraction
+  input_file: assets/Input.xlsx
+  root_dir: artifacts/text_extraction
+  
+text_processing:  
+  stop_words_folder_path: assets/StopWords
+  merged_stop_words_path: artifacts/text_processing
+  extracted_files_folder_path: artifacts/text_extraction
+  root_dir: artifacts/text_processing
+
+text_analysis:
+  positive_words_path: assets/MasterDictionary/positive-words.txt
+  negative_words_path: assets/MasterDictionary/negative-words.txt
+  data_path: artifacts/text_extraction
+  output_file: artifacts/text_analysis/text_analysis.xlsx
+  root_dir: artifacts/text_analysis

@@ -1,0 +1,60 @@
+Title: Netclan20241090
+Source URL: https://insights.blackcoffer.com/trading-bot-for-forex/
+==================================================
+
+Home
+Our Success Stories
+Trading Bot for FOREX
+Client Background
+Client:
+A Leading Trading Firm in the USA
+Industry Type:
+Finance
+Services:
+Trading, Consulting
+Organization Size:
+100+
+The Problem
+Automate trading on the MT4 terminal for forex when certain conditions are met, and end trade at the best exit point.
+Save mt4 forex data for a instrument live for every tick.
+Our Solution
+Use PyTrader to log into trading system (mt4) for 2 brokers.
+Use live prices to identify when prices diverge.
+Buy one currency on broker 1, sell currency on broker 2.
+Hold until prices come back together.
+Coded a MQL4 script that will save tick data (bid, ask, open, high, low, close) for any instrument when active
+Solution Architecture
+Deliverables
+Python Script to Automate the two Meta Trader 4 terminals, and trade when some conditions are true and break the trade at a exit point.
+A MQL4 Sript that will Save the Live tick data (Bid, Ask, Spread, Open, High, Low, Close) in a CSV file.
+Tools used
+PyTrader
+numpy
+pandas
+Language/techniques used
+Python
+(Automation)
+Mql4
+(To save tick data)
+Business Impact
+Client requirements were  to automate his forex trading strategy  on Meta Trader4 terminal, so that he doesn’t have to bother trading anymore, the Python script we designed to not only do it, plus it offers a safe exit point for Ongoing Trades, that saved the client’s money and time.
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Cloud-Based Web Application for Financial Data Processing and Visualization of S&P...
+August 25, 2024
+React Native Apps in the Development Portfolio
+September 6, 2021
+AI-Driven Backend for Audio-to-Text Conversion and Analytical Assessment in Pharmaceutical Practice
+August 25, 2024
+Online Barometer Dashboard for Smart Schools System
+February 20, 2019
+Load more
+RECOMMENDED INSIGHTS
+How marketers can start integrating AI in their work
+Rise of Cybercrime and its Effect by the Year 2040.
+Rise of electric vehicle and its impact on livelihood by the...
+Creating a custom report and dashboard using the data got from...

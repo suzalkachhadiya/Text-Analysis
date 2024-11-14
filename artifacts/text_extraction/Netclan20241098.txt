@@ -1,0 +1,64 @@
+Title: Netclan20241098
+Source URL: https://insights.blackcoffer.com/transform-api-into-sdk-library-and-widget/
+==================================================
+
+Home
+Our Success Stories
+Transform API into SDK library and widget
+Client Background
+Client:
+A Leading Tech Firm in the USA
+Industry Type:
+IT
+Services:
+Consulting, Marketing, Healthtech
+Organization Size:
+500+
+Project Objective
+Convert API documentation into SDK library and widget. Expected deliverables are SDK library and widgets for
+Web apps
+iOS apps
+Android Apps
+Project Description
+API documentation is available for a tool that allows customers to type in their medication and find the cheapest price near them. For partners who want to have it on their own site, currently using the API documentation but would like to ultimately be able to send them an embeddable widget that incorporates the tool on their site
+Our Solution
+We created a flutter widget that uses  SDK libraries that allows the customer to type their medication and find the cheapest price near them.
+This widget can be embedded in their web, android and IOS applications
+Project Deliverables
+1)SDK Library/Widget
+2)Sample flutter application
+Tools used
+Flutter
+Language/techniques used
+Dart
+Skills used
+1)Knowledge of dart language
+2)flutter app developing
+What are the technical Challenges Faced during Project Execution
+1 )Problems while fetching details of drugs and pharmacies
+2) Showing details of drugs and pharmacies in the widget
+How the Technical Challenges were Solved
+All technical challenges are solved by proper communication with the client and by logical analyzing of data
+Project Snapshots
+Project Video
+https://www.youtube.com/watch?v=MyNK_DPtsKA&ab_channel=Blackcoffer
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data
+February 18, 2019
+Marketing Tool to Notify Leads to Clients over Email and Phone
+August 30, 2021
+Impact of COVID-19 pandemic on public transportation industries.
+June 23, 2020
+Future of Work: How AI Has Entered the Workplace
+May 28, 2021
+Load more
+RECOMMENDED INSIGHTS
+Rise of telemedicine and its Impact on Livelihood by 2040
+What if the Creation is Taking Over the Creator?
+AI-Based Algorithmic Trading Bot for Forex
+Datawarehouse, and Recommendations Engine for AirBNB

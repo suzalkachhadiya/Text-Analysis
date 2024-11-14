@@ -1,0 +1,51 @@
+Title: Netclan20241162
+Source URL: https://insights.blackcoffer.com/budget-sales-kpi-dashboard-using-power-bi/
+==================================================
+
+Home
+Our Success Stories
+Budget, Sales KPI Dashboard using Power BI
+Project Description
+Weekly Data – clustered bar chart for weekly Budget & Actual value , weekly Total Budget & Actual value (completed)
+YTD Data – clustered bar chart for monthly Budget & Actual value , monthly Total Budget & Actual value (completed)
+Sales History – stacked chart for yearly sales with each month sales , total yearly sale (completed)
+Dashlet – weekly data – Total weekly Budget , Total weekly Actual , % weekly Budget (completed)
+Dashlet – YTD data – Total YTD Budget , Total YTD Actual , % YTD Budget (completed)
+Dashlet – Sales History – Total Sales (completed)
+Filters – select Area , select City , select Years (completed)
+Data Visualization Deliverables
+Presentation
+Map
+Dashboard
+API Integration
+Data Visualization Tools
+Kibana
+Google Data Studio
+Microsoft Excel
+Microsoft Power BI
+Data Visualization Languages
+JavaScript
+SQL
+Python
+DAX
+Demo
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Oil prices by the year 2040, and how it will impact...
+August 20, 2022
+Problems faced by students in online classes during COVID-19
+December 7, 2021
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+July 26, 2023
+How Python became the first choice for Data Science.
+March 4, 2021
+Load more
+RECOMMENDED INSIGHTS
+Can robots tackle late-life loneliness?
+Portfolio: Website, Dashboard, SaaS Applications, Web Apps
+The impact of the Metaverse on financial services
+Advance Analytics for Refocusing Profits

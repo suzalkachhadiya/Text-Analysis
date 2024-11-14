@@ -1,0 +1,73 @@
+Title: Netclan20241075
+Source URL: https://insights.blackcoffer.com/create-a-knowledge-graph-to-provide-real-time-analytics-recommendations-and-a-single-source-of-truth/
+==================================================
+
+Home
+Our Success Stories
+Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single...
+Client Background
+Client:
+A leading tech firm in the USA
+Industry Type:
+Retail
+Services:
+Retail Business
+Organization Size:
+100+
+The Problem
+The Client was using NoSql Database which was slow and did not provide real-time response for complex queries. The data had many Connections and it was difficult to represent them in NoSQL or Relational Databases.
+Our Solution
+Create a Knowledge Graph and Provide Real-time Analytics and Recommendations using Machine Learning.
+Solution Architecture
+Neo4j was Installed on a Cloud VM based on Linodes.
+Deliverables
+Knowledge graphs and Data Pipelines are used to Populate the Graph.
+API’s to Perform CRUD operations in real-time.
+Tools used
+Neo4j
+Postman
+Language/techniques used
+Python
+JSON
+Models used
+Node-Relationship model
+Skills used
+Programming
+Data Engineering
+Data Analytics
+Databases used
+Neo4j
+Web Cloud Servers used
+Linode
+What are the technical Challenges Faced during Project Execution
+Integration of Firestore with Neo4j without any native integration method or driver.
+How the Technical Challenges were Solved
+The challenge was solved by using api to retrieve data from Firestore.
+Project Snapshots
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Impacts of COVID 19 on Vegetable Vendors
+November 6, 2021
+Google Data Studio Pipeline with GCP/MySQL
+September 18, 2021
+Electric Vehicles (EV) Load Management System to Forecast Energy Demand
+February 26, 2022
+Embedding care robots into society and practice: Socio-technical considerations
+December 2, 2020
+Load more
+RECOMMENDED INSIGHTS
+Deep learning impact on areas of e-learning?
+Marbles Stimulation using python
+Meta-Analysis in Healthcare Research
+How Python became the first choice for Data Science.

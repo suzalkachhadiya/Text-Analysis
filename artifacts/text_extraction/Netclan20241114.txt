@@ -1,0 +1,59 @@
+Title: Netclan20241114
+Source URL: https://insights.blackcoffer.com/incident-duration-prediction-infrastructure-and-real-estate/
+==================================================
+
+Home
+Our Success Stories
+Incident Duration Prediction – Infrastructure and Real Estate
+Client Background
+Client:
+A leading research institution in the middle east
+Industry Type:
+Research
+Services:
+R&D
+Organization Size:
+1000+
+Project Objective
+To complete a Research Paper draft by training various Machine Learning models which can predict the Incident Duration based on various parameters given in the dataset and summarising the results.
+Project Description
+Given a set of researches, need to analyse and compare various machine learning and deep learning models to predict the Incident Duration for the given dataset. The dataset contained Short durations as well as Long durations. Build models for each set of durations, compare and get the best out of all.
+Our Solution
+Here, we had to predict the traffic incident duration with some machine learning tools and techniques i.e. XGBoost, SVR and Deep Learning algorithm using tensor flow. First two models were run on Python Interpreter whereas Deep learning model was run on R studio, all the three with the same dataset and then we had compared these models based on their MAE (mean absolute error). Initially, we had done a preliminary analysis of the collected incident duration data, to collect the statistical characteristics of all the variables used in our research.
+Project Deliverables
+Python Script for each model.
+Documentation for Research Work.
+Tools used
+Python Interpreter
+Language/techniques used
+Language Used: Python
+Libraries Used: pandas, sklearn, numpy, keras, pickle
+Models used
+XGBRegressor
+SVR
+SGDRegressor
+Sequential
+DecisionTreeRegressor
+Skills used
+Programming, Statistical Analysis
+Project Snapshots
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Oil prices by the year 2040, and how it will impact...
+August 20, 2022
+How the COVID-19 crisis is redefining jobs and services?
+August 15, 2020
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance...
+January 22, 2020
+OCR (Optical Character Recognition)
+September 24, 2019
+Load more
+RECOMMENDED INSIGHTS
+Why scams like Nirav Modi Happen with Indian banks?
+All you need to know about online marketing
+Role of Big Data in Healthcare
+Data Management for a Political SaaS Application

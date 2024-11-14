@@ -1,0 +1,67 @@
+Title: Netclan20241079
+Source URL: https://insights.blackcoffer.com/handgun-detection-using-yolo/
+==================================================
+
+Home
+Our Success Stories
+Advanced AI for Handgun Detection
+Client Background
+Client:
+A leading tech firm in the Middle East
+Industry Type:
+Security
+Services:
+Security services
+Organization Size:
+100+
+The Problem
+Detecting Handguns in images and videos.
+Our Solution
+We use Yolov7 instance segmentation model to detect and provide coordinates for handguns.
+Solution Architecture
+Linux 22.04
+Yolo
+Deliverables
+Trained model of yolov7 instance segmentation
+Tools used
+Openimages
+Roboflow
+Yolov7
+Language/techniques used
+Python
+Models used
+Yolov7_mask
+Skills used
+Deeplearning
+Programming
+What are the technical Challenges Faced during Project Execution
+Retrieving handgun images in bulk from opensource.
+How the Technical Challenges were Solved
+Found Openimages dataset with good amount of required images
+Contact Details
+Here are my contact details:
+Email: ajay@blackcoffer.com
+Skype: asbidyarthy
+WhatsApp: +91 9717367468
+Telegram: @asbidyarthy
+For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Due to the COVID-19 the repercussion of the environment
+June 18, 2020
+How we forecast future technologies?
+January 13, 2021
+Contribution of handicrafts (Visual Arts & Literature) in the Indian economy
+June 22, 2020
+Grafana Dashboard – Oscar Awards
+July 8, 2023
+Load more
+RECOMMENDED INSIGHTS
+Deep learning impact on areas of e-learning?
+Solution to quadratic assignment problems (QAP) using Ant Colony System
+The impact of the Metaverse on financial services
+How robots can help in e-learning platforms?

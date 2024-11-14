@@ -1,0 +1,66 @@
+Title: Netclan20241142
+Source URL: https://insights.blackcoffer.com/lipsync-automation-for-celebrities-and-influencers/
+==================================================
+
+Home
+Our Success Stories
+Lipsync Automation for Celebrities and Influencers
+Client Background
+Client:
+A leading tech firm in India
+Industry Type:
+Entertainment
+Services:
+B2C
+Organization Size:
+100+
+Project Objective
+To change the lipsing of the original video with the new replaced audio.
+Project Description
+We needed to create an output video that will have the new lipsing according to the new replaced audio. Also we will have to change the actual audio with the new audio with automated editing.
+Our Solution
+We have created two different files which will perform 2 different operations 1
+st
+will replace the original audio with new and extract only video from original. 2
+nd
+will take the muted video and replaced audio and we will get the output of the new replaced audio lipsync. This is done by pre-defined model Wav2Lip on github.
+Project Deliverables
+2  google colab notebooks
+Tools used
+github
+Google drive
+Language/techniques used
+Python 3.6
+moviepy
+ffmpeg
+Models used
+Wav2lip
+Skills used
+Python programming
+Data science
+Databases used
+Provided by the company (Hrithik Roshan video files)
+Project Snapshots
+Project website url
+https://colab.research.google.com/drive/18mlREpLmV9hj-uDfufkGJ_-m_E37Hct9?usp=sharing
+https://colab.research.google.com/drive/1FZHvcVKyJxOUkUFI2auPt3vTOu4jh09K?usp=sharing
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Interpret the Coefficients in Regression Models
+April 4, 2019
+AWS Lex Voice and Chatbot
+January 29, 2022
+Optimize the data scraper program to easily accommodate large files and...
+May 13, 2022
+How does marketing influence businesses and consumers?
+November 20, 2022
+Load more
+RECOMMENDED INSIGHTS
+Rise of telemedicine and its Impact on Livelihood by 2040
+Securing Sensitive Financial Data with Privacy-Preserving Machine Learning for Predictive Analytics
+How Metaverse will change your life?
+Future of Work: Robot, AI and Automation

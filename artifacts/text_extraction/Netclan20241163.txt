@@ -1,0 +1,53 @@
+Title: Netclan20241163
+Source URL: https://insights.blackcoffer.com/amazon-buy-bot-an-automation-ai-tool-to-auto-checkouts/
+==================================================
+
+Home
+Our Success Stories
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+Client Background
+Client:
+A leading consulting firm in the USA
+Industry Type:
+Consulting
+Services:
+Management consultant
+Organization Size:
+100+
+Project Objective
+The main objective of this project is to build the automation tool to buy product on amazon.
+Project Description
+This project is basically completed using selenium and Python. All we have done is write a python script for automation using Selenium.
+Make some clicks use logics to check item is in stock or not. If the item is in stock then it buys the product otherwise repeat the process again.
+Our Solution
+A simple python code which uses selenium web driver to do all work.
+Project Deliverables
+Python Code
+Tools used
+Selenium Webdriver
+Language/techniques used
+Python
+Skills used
+Web Scraping
+Selenium
+Project Snapshots
+RELATED ARTICLES
+MORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Cloud-Based Web Application for Financial Data Processing and Visualization of S&P...
+August 25, 2024
+Sports Prediction Model for Multiple Sports Leagues
+August 25, 2024
+Stocktwits Data Structurization
+August 30, 2021
+A Leading Hospitality Firm in the USA, Website SEO & Optimization
+September 5, 2021
+Load more
+RECOMMENDED INSIGHTS
+Streamlined Trading Operations Interface for MetaTrader 4: Empowering Efficient Management and...
+How will COVID-19 affect the world of work?
+Student Database Management System
+An app for updating the email id of the user and...
