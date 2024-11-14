@@ -1,0 +1,61 @@
+itle netclan
+source url httpsinsightsblackcoffercomaisolutionsforforeignexchangeanautomatedalgotradingtool
+
+
+home
+our success stories
+ai solutions for foreign exchange  an automated algo trading tool
+client background
+client
+a leading tech firm in the usa
+industry type
+financial services
+services
+trading consulting financial serivices
+organization size
+
+the problem
+our main objective in this project was to help with setting up with given broker api using mt and extracting historical data from it and solving different tasks which are related to extracting important values from the data and tasks assigned by the client were related to working around the data ie formatting connecting with the ig trade broker automating the python script and scheduling the script accordingly
+our solution
+during the initial phase we were assigned to set up an mt with given broker api access to extract historical prices which was delivered to the client in the second phase the client requested to implement profitloss spread direction and time in trade there were minute tasks related to the r script which was duly completed in the third phase the client was assigned a task related to distinguishing the tickers according to cluster types which he provided and implemented code to distinguish the sell and buy spread for the given std in the fourth phase i implemented the logic profitloss   of st currency   of nd currency into the existing code and worked on retrieving historical prices from another broker api and retrieving watchlist given attributes by the client automated the python script to retrieve yesterdays market price of the given list
+deliverables
+successfully delivered setup in mt for retrieving historical prices created logic for automating the profit and loss implemented code to distinguish the tickers according to the cluster type implemented code for distinguish the sell and buy spread for the given std implemented the logic profitloss   of st currency   of nd currency into the existing code automated the python script to retrieve yesterdays market price
+tools used
+mt jupyter notebook excel ig trade remote desktop setup
+languagetechniques used
+mql python r
+skills used
+critical thinking logical thinking
+what are the technical challenges faced during project execution
+while setting up mt platform and its configurations
+how the technical challenges were solved
+the abovementioned challenges were resolved after many hours of effort and understanding
+project snapshots
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+credit scoring model
+january  
+how covid is impacting payment preferences
+june  
+what do you think is the lesson or lessons to be
+march  
+design and develop jenkins shared library
+august  
+load more
+recommended insights
+rise of ehealth and its impact on humans by the year
+how robots can help in elearning platforms
+algorithmic trading for multiple commodities markets like forex metals energy etc
+endtoend tool to predict biofuel prices using ieso data

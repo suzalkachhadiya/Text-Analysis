@@ -1,0 +1,67 @@
+itle netclan
+source url httpsinsightsblackcoffercomadvancedaifortradingautomation
+
+
+home
+our success stories
+advanced ai for trading automation
+client background
+client
+a leading tech firm in europe
+industry type
+banking  finance
+services
+trading and financial services
+organization size
+
+the problem
+create an automated trading application with fully automated trading capabilities from selecting pair of assets to buyingselling assets this application uses ai to decide what action to take while trading
+our solution
+we have integrated coinapi with the application from which data is extracted we have created the homepage for this application we have changed the code structure of the front end to make it more fast and efficient
+solution architecture
+an application where the first automated top asset pair selection happens if the coins are cointegrated then only one indicator must be executed else trading starts based on  indicators
+the ai agent will take specific action to trade based on the algorithm
+deliverables
+we have removed the old api and integrated the new api with the application
+we have altered the code structure of the front end to make the code faster and more efficient
+tools used
+visual studio code
+languagetechniques used
+python
+skills used
+django
+databases used
+sqlite
+web cloud servers used
+digital ocean
+what are the technical challenges faced during project execution
+we faced an issue while integrating coin api with the application while retrieving the data to retrieve the data using the coin api we need to input a symbol id this symbol id is a combination of exchangename symboltype currencywewanttotrade and quotecurrency there are n coins that can be retrieved using coin api there are more than multiple exchanges multiple symbol types and multiple quote currencies for one single coin this makes there is a huge no of combinations for one single coin this made the execution of the api integration very slow
+how the technical challenges were solved
+we created one dropdown for exchange selection one dropdown for symbol type selection one drop for coin and one dropdown for quote currency selection the user selects these and in the backend a combination is created and is sent as input to the coin api code and the data is retrieved without slowing down the process
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rise of cybercrime and its effect by the year 
+august  
+new jersey based micro business sentiment analysis
+august  
+aws lex voice and chatbot
+january  
+playstore  appstore to google analytics ga or firebase to google
+september  
+load more
+recommended insights
+the emergence of data analytics
+negative effects of marketing on society
+impact of covid coronavirus on the indian economy
+sentimental analysis on shareholder letter of companies

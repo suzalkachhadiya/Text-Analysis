@@ -1,0 +1,78 @@
+itle netclan
+source url httpsinsightsblackcoffercompowerbidashboardonoperationstransactionsandmarketingembeddingthedashboardtowebapp
+
+
+home
+our success stories
+power bi dashboard on operations transactions and marketing data embedding the dashboard
+client background
+client
+a leading tech firm in the usa
+industry type
+it services
+services
+consulting software marketing solutions
+organization size
+
+project objective
+create a dashboard with assets performance with react app so users can evaluate with key metrics from data analytics and forecasting
+project description
+the client requires two pages
+screening asset performance
+portfolio investing
+according to criteria and sectorbased
+our solution
+by using power bi we can achieve this requirement without any additional stack it requires a subscription to enhance the report
+using page navigation and bookmarks to create reports like web application with react app
+project deliverables
+asset report page
+investor page
+tools used
+power bi
+azure aad
+mongo db bi connector
+odbc connector
+dax studio
+languagetechniques used
+star schema
+skills used
+data modelling
+performance analyser
+vertipaq analyser
+databases used
+mongo db
+web cloud servers used
+azure
+what are the technical challenges faced during project execution
+time for loading pages is increased due to raw data
+cold start of report taking more time than usual
+how the technical challenges were solved
+from snowflake to star schema  achieved performance of report
+by using performance analyser debugging resolved many glitches and where it is happening
+extraction transformation makes data less complex and removing unwanted data from a website perspective makes data shrink and achieved  of data reduction
+business impact
+less coding with power bi speeds the development process and achieves best ux with less time
+project snapshots
+project website url
+httpsdigitalbctrianglecom
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+are initial big data efforts focused on gaining insights from existing
+august  
+impacts of covid  on streets sides food stalls
+november  
+how ai will change the world
+may  
+face recognition using deepface
+october  
+load more
+recommended insights
+how does metaverse work in the financial sector
+big data  analytics to bring transparency and good governance
+metaanalysis in healthcare research
+statistical data analysis of reinforced concrete

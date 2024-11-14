@@ -1,0 +1,72 @@
+itle netclan
+source url httpsinsightsblackcoffercomhealthcaredataanalysis
+
+
+home
+our success stories
+healthcare data analysis
+client background
+client
+a leading healthcare tech firm in the usa
+industry type
+healthcare consulting
+services
+management consultant
+organization size
+
+project objective
+the main objective of this project is to find the pattern in the vital signs of patients who were admitted to the hospital in past and from this pattern we get some ranges that help us to give early warnings
+project description
+we are more interested in nonsurvivor patients vital signs as compare to survivor patients we find patterns in
+vital signs
+that could better determine that patient died ex if sp is below  patient in  of cases died if sp is below  the death rate is  or we can take correlations which can help us to find better patterns to define death cases
+data the dataset which was used for analysis here is taken from the mimic website but the dataset is not in the correct format which we want after some manipulation we get the data ready for the analysis
+our solution
+approach
+to protect patient confidentiality date and time is shifted to future thats not the actual time so from shifted time column we create an extra column hour which tells us the time passed in hours since first observation in icu
+after all manipulation our final dataset contain vital signs values for each observation of patients with time in separate column and also the label fo death  or  in another column
+there are two options to deal with missing values
+drop all rows which contain null values
+fill the missing values by some method using pandas
+i cant go with st option because a major part of the data has missing values so i decided to go with the second option and fill missing values with the average of upper and lower values but before that i filtered the data and take only those patients data who died in a hospital or survive
+project deliverables
+after performing eda which also include the removal of some impossible outliers we come up with a result of analysis
+this result helps to build an early warning system which predict the condition of patients on the basis of their score calculated on their condition using vital sign values
+tools used
+google colab notebook
+languagetechniques used
+python
+skills used
+data visualization
+data analysis
+pandas
+numpy
+seaborn
+databases used
+sql
+mongodb
+web cloud servers used
+google cloud
+project snapshots
+project website url
+httpscolabresearchgooglecomdrivemoiboevbaccwwjdhvbliktxuspsharing
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how to setup custom domain for google app engine application
+february  
+data transformation
+july  
+what is the chance homo sapiens will survive for the next
+october  
+power bi datadriven map dashboard
+february  
+load more
+recommended insights
+future of ai and machine roles in the medical sector
+digital transformation in oil and gas
+role of big data in cyber security a shotgun against rising
+database normalization  segmentation with google data studio dashboard insights

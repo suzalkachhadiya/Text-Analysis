@@ -1,0 +1,89 @@
+itle netclan
+source url httpsinsightsblackcoffercomstatisticaldataanalysisofreinforcedconcrete
+
+
+home
+our success stories
+statistical data analysis of reinforced concrete
+client background
+client
+a leading research institution in the middle east
+industry type
+research
+services
+rd
+organization size
+
+project objective
+conducting statistical data analysis on the data provided for different types of reinforced concrete using  different fibers  steel date palm and polypropylene fibers and also helping in preparing good research paper based on laboratory data
+project description
+the project had two phase
+phase 
+in this phase we had to do a comprehensive analysis on the data given and finally build statistical models for the variables present the main motive was to understand the behaviour of concrete based on various parameters  compressive strength flexural strength water absorption capabilities of the concrete and many more the analysis should include but was not limited to
+comparison of mo control mix with all mixes at  days for each parameter test
+comparing all parameters for all specimens all concrete mixes with  days and also  months heatcool and wetdry
+all other expected analysis we could see you and do
+phase 
+in this phase we had to develop a structure for the research paper based on the results and analysis the paper included sections  abstract introduction  literature background and objective experimental program  materials and methods results and discussion  analysis and interpretation and conclusion  summary insights and remarks
+our solution
+providing a comprehensive analysis for the concrete data  showcasing the key insights from it based on the parameters compressive strength etc on the basis of results from the analysis research paper was drafted which included all the deliverable
+project deliverable
+a manuscript drafted article with the following
+abstract
+introduction  literature background and objective
+experimental program  materials and methods
+results and discussion  analysis and interpretation
+conclusion  summary insights and remarks
+references
+tools used
+tools used
+jupyter  notbebook python
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+ms excel
+google spreadsheets
+languagetechniques used
+python
+statistical modelling
+statistical inference
+models used
+statistical models  linear polynomial exponential and logarithmic models build for showcasing behavior of concrete mixes due to mixing of different fiber content and its effect on different parameters specified above
+skills used
+coding  python
+performing statistical analysis  extracting inferences
+building statistical models  through python or through excel and its counterparts
+databases used
+no database was used
+web cloud servers used
+no cloud server was used
+what are the technical challenges faced during project execution
+the challenges faced during project execution are
+getting statistical models from seaborn libraries there is no direct way to get the models from the graphs created from data
+building models in excel and validating it didnt know how had to learn it before applying it
+how the technical challenges were solved
+i had to use different libraries for building the models later on turned to ms excel and spreadsheet because they were building models and were also able to showcase it on the data itself for this i learned how to build models on the aforementioned software through youtube and blogs
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how to overcome your fear of making mistakes
+august  
+design and develop a product recommendation engine based on the features
+february  
+big data and analytics to help form political leaders win election
+april  
+rise of ott platform and its impact on entertainment industry by
+october  
+load more
+recommended insights
+oil prices by the year  and how it will impact
+crm mondaycom via zapier to power bi dashboard
+big data analytic in construction  real estate
+rise of telemedicine and its impact on livelihood by 

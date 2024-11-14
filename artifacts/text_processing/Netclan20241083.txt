@@ -1,0 +1,63 @@
+itle netclan
+source url httpsinsightsblackcoffercomconnectingmongodbdatabasetopowerbidashboarddashboardautomation
+
+
+home
+our success stories
+connecting mongodb database to power bi dashboard dashboard automation
+client background
+client
+a leading tech firm in newzealand
+industry type
+retail
+services
+retail business
+organization size
+
+project objective
+brodie johnco had a mongodb database that he wanted to connect to a power bi dashboard however odbc connectors were not working for his level of subscription so he needed a cheaper workaround
+project description
+brodie johnco had a mongodb database containing a large amount of data that he wanted to visualize in a power bi dashboard he initially tried to use odbc connectors to connect his database to power bi but ran into issues due to his level of subscription we were brought in to help find a cheaper workaround
+our solution involved using python to extract the relevant data from brodies mongodb database we used the pandas library to create dataframes which we then uploaded to azure blob storage as tables we set up an azure pipeline that ran a python script every  minutes to update the tables with new data from the database
+our solution
+we used brodies mongodb database keys to extract relevant data clusters as pandas dataframes we then added them as tables to azure blob storage and set up a python script to an azure pipeline that refreshed every  minutes this allowed us to keep the data in sync and provide brodie with uptodate information for his power bi dashboard
+project deliverables
+the final deliverable was a readable csv file that contained the converted data from the original json format
+tools used
+jupyter notebook google colab power bi mongodb compass microsoft excel azure blob storage
+languagetechniques used
+python pandas azure cloud storage
+skills used
+python programming azure cloud storage data extraction and manipulation
+databases used
+mongodb database
+web cloud servers used
+azure blob storage
+what are the technical challenges faced during project execution
+the main challenge we faced was finding a way to connect brodies mongodb database to his power bi dashboard without using odbc connectors we overcame this challenge by using python and azure blob storage to extract and store the relevant data
+how the technical challenges were solved
+we solved the issue by using the clients mongodb database keys to extract relevant data clusters as pandas dataframes we then added these dataframes as tables to azure blob storage and set the python script to an azure pipeline that refreshed every  minutes this allowed the client to access the data in power bi without the need for odbc connectors
+business impact
+our solution allowed brodie to visualize his data in a power bi dashboard without having to pay for expensive odbc connectors the azure blob storage solution we implemented was much more costeffective and provided him with uptodate information every  minutes
+project website url
+httpsgithubcomajaybidyarthybrodiejohnco
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+bertbased classification of individuals and organizations into two categories using natural
+august  
+industrial revolution   pros and cons
+april  
+transalta migration of servers from vmware to aws client
+january  
+ai solutions for foreign exchange  an automated algo trading tool
+july  
+load more
+recommended insights
+a webbased dashboard for the filtered data retrieval of land records
+building custom tflite models and benchmarking on voxl chips
+digital transformation in oil and gas
+blockchain in fintech

@@ -1,0 +1,71 @@
+itle netclan
+source url httpsinsightsblackcoffercomrealtimedashboardtomonitorinfrastructureactivityandmachines
+
+
+home
+our success stories
+realtime dashboard to monitor infrastructure activity and machines
+client background
+client
+a leading tech firm in europe
+industry type
+it
+services
+software services
+organization size
+
+project objective
+for the current project we hope to develop a realtime dashboard  it updates every several minutes currently we have multiple ubuntu machines that are sending messages every minute to apache pulsar
+project description
+developing a realtime updating dashboard to display the metadata of various machines on a server from pandio queue
+the dahboard must display the count of inactive  active and down servers with a table displaying the details of all the machines in different color scheme for each type of servermachine
+our solution
+we used django framework to develop the dashboard as it didnt require the ec instance to be active on machine which was the problem with using streamlit
+for communication between webpage and fetched data we used django channel 
+we used django background task module to make the fetching run forever in background
+project deliverables
+real time updating dashboard with separate color scheme for different types of machines
+storing the historical data in sqlite db
+tools used
+django
+web channels
+d js
+reddis server
+skills used
+python
+django framework
+django web channels
+htmlcss  js
+databases used
+django sqlite database
+web cloud servers used
+aws
+what are the technical challenges faced during project execution
+making the dashboard run forever using streamlit
+data updation in realtime when using django channels
+how the technical challenges were solved
+switched the entire dashboard to django framework
+we redirected data to channels on local reddis server
+project snapshots
+project website url
+development hosted url
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+powerbi rest api  fetching dataflow and refresh schedules with semantic
+august  
+big data  analytics to help voters know their political leaders
+march  
+php technology framework
+april  
+replacing existing pavement roads parking lots and sidewalks with pavement made
+july  
+load more
+recommended insights
+realtime video analytics
+solution to quadratic assignment problems qap using ant colony system
+roas dashboard for campaignwise google ads budget tracking using google ads
+streamlined trading operations interface for metatrader  empowering efficient management and

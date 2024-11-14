@@ -1,0 +1,67 @@
+itle netclan
+source url httpsinsightsblackcoffercomdatawarehouseandrecommendationsengineforairbnb
+
+
+home
+our success stories
+datawarehouse and recommendations engine for airbnb
+client background
+client
+a leading hotels chain in the usa
+industry type
+real estate hospitality
+services
+hostpitality
+organization size
+
+project objective
+to download the data from the servers using cyberduck on the daily basis and perform data engineering on it
+project description
+firstly download the property and forward files from the server
+secondly from the property master file a new data set was created with the conditions that the bedrooms from property file should be  or more or max guests from property file should be  or more and city from property file should be sevierville or pigeon forge or gatlinburg
+in the forward file only those with status  r were kept and the other data was removed
+finally forward file was merged with the new data set on property id ie keeping only those forward data with the common property id and city bedrooms max guests columns from the new dataset was added to the forward file
+our solution
+we created a python script which performs the task and create property and forward master files which we deliver to client on weekly basis
+project deliverables
+two csv files named property master file and forward master file to be delivered weekly after applying various steps
+tools used
+pycharm powerbi cyberduck microsoft excel
+languagetechniques used
+python programming language is used to create scripts performing data manipulation in different files
+models used
+sdlc is a process followed for a software project within a software organization it consists of a detailed plan describing how to develop maintain replace and alter or enhance specific software the life cycle defines a methodology for improving the quality of software and the overall development process
+we are using iterative waterfall sdlc model as we have to follow our development of software in phases and we also need feedback on every step of the development of our project so as to keep track of the occurring changes with every step
+figure  sdlc iterative waterfall model
+skills used
+skills such as data preprocessing cleaning and data manipulation are used in this project
+databases used
+we used traditional way of storing the data ie file systems
+web cloud servers used
+cyberduck which is a libre server and cloud storage browser for mac and windows with support for ftp sftp webdav amazon s etc was used in this project with amazon s servers
+what are the technical challenges faced during project execution
+data to be processed was very big in size so space complexity was a challenge in this project
+how the technical challenges were solved
+to solve the space complexity issues we tried powerbi but now time complexity arises
+then we did processing in chunks by reducing file sizes to avoid memory errors
+project snapshots minimum  pictures
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+data transformation
+july  
+gangalain ecommerce big data etl  elt solution and data warehouse
+january  
+healthcare ai chatbot using llama llm langchain
+july  
+analyzing the impact of positive emotions and pandemic severity on mental
+august  
+load more
+recommended insights
+blockchain in fintech
+how retail industry drive value from big data
+stocktwits data structurization
+construction accounts payable  payroll analytics in power bi

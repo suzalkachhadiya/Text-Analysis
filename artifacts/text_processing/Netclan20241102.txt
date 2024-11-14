@@ -1,0 +1,60 @@
+itle netclan
+source url httpsinsightsblackcoffercomdesigndevelopanappinretoolwhichshowstheprogressoftheaddedvideo
+
+
+home
+our success stories
+design  develop an app in retool which shows the progress of
+client background
+client
+a leading tech firm in the usa
+industry type
+it  consulting
+services
+software business solutions consulting
+organization size
+
+project description
+the objective was to develop a progress bar that can help costumes to estimate the analytics of the video
+our solution
+the client wanted a progress bar with the following filters
+date filter  update the progress bar and count of the videos according to the date selected
+category filter  update the progress bar and the count of the videos according to the selected category
+we have created a sql query for getting a count of the videos from the full video table according to the filter selected in the app
+in added video table some columns were missing to solve this we created a sql query for joining the added video table to the other tables and return the count of the video according to the filter selected
+project deliverables
+app in retool
+tools used
+retool
+languagetechniques used
+sql
+skills used
+sql
+databases used
+sql database
+what are the technical challenges faced during project execution
+client wanted date filter and a video category filter but this data was not there in added video table
+how the technical challenges were solved
+we had to join multiple data so that we can get category column and date column for applying filter
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how artificial intelligence can deliver real value to companies
+september  
+population and community survey of america
+august  
+rise of internet demand and its impact on communications and alternatives
+august  
+how political leaders will shape tomorrow using big data  analytics
+april  
+load more
+recommended insights
+how does metaverse work in the financial sector
+estimating the impact of covid on the world of work
+why scams like nirav modi happen with indian banks
+what patients like and dislike about telemedicine

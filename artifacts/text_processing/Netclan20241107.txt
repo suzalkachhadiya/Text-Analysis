@@ -1,0 +1,80 @@
+itle netclan
+source url httpsinsightsblackcoffercomanaimlbasedwebapplicationthatdetectsthecorrectnessoftextinagivenvideo
+
+
+home
+our success stories
+an ai mlbased web application that detects the correctness of text in
+client background
+client
+a design  media firm in the usa
+industry type
+marketing
+services
+consulting software marketing solutions
+organization size
+
+project objective
+create a python web application that detects the text and checks the spelling of written text in the videos and prints the count of wrong spelling in the end
+project description
+developing a dockerized django web application for detecting the text and checking the spelling of written text in the video and printing the count of wrong spelling in the end and deploying the application on google cloud
+our solution
+we have created a python web application with django framework when user uploads the video the application run kerasocr model on each frame of the video and keep the count of the wrong words at the end it provides the video with the bounding box around the words for correct words it creates green bounding box and for wrong words it creates red bounding box and also it provides the summation of count of wrong words
+project deliverables
+deployed dockerized web application on google cloud which generate video with bounding box around texts
+tools used
+docker
+redis server
+django
+celery
+nginx
+opencv
+nltk
+moviepy
+languagetechniques used
+python
+html
+css
+javascript
+models used
+we have used kerasocr model for detecting the text form the video and creating the bounding box around the words
+skills used
+natural language processing
+machine learning
+image processing
+web development
+python programming
+databases used
+django sqlite
+redis server
+web cloud servers used
+google cloud
+what are the technical challenges faced during project execution
+running model on each frame of the video
+show progress bar for the progress of the work
+how the technical challenges were solved
+for running the model on each frame of the video we have used celery it runs the model in the backend of the application
+we have used celery backend progressrecorder and updated it every time when model has detected the text from the frame of the video
+project snapshots
+project website url
+http
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+return on advertising spend dashboard marketing automation and analytics using etl
+july  
+how google fit measure heart and respiratory rates using a phone
+march  
+impacts of covid  on streets sides food stalls
+november  
+golden record  a knowledge graph database approach to unfold discovery
+july  
+load more
+recommended insights
+should people wear fabric gloves seeking evidence regarding the differential transfer
+lessons from the past some key learnings relevant to the coronavirus
+obstacles to datadriven healthcare
+grafana dashboard to visualize and analyze sensors data

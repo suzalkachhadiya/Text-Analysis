@@ -1,0 +1,95 @@
+itle netclan
+source url httpsinsightsblackcoffercomenhancingfrontendfeaturesandfunctionalityforimproveduserexperienceanddashboardaccuracyinpartnerhospitalapplication
+
+
+home
+our success stories
+enhancing frontend features and functionality for improved user experience and dashboard accuracy
+client background
+client
+a leading hospital chain in the usa
+industry type
+healthcare
+products  services
+healthcare solutions
+organization size
+
+the problem
+build a web application develop  deploy and maintain the system in the background and there will be more hospitals partnering with our organization utilizing this tool per our service offering which could lead to longterm working contracts with us if interested
+the current project is a hippacompliant spa web application that will interface with hospital data dashboards involving discharged patients callnavigator utilizes an sftp server that is hosted in aws this allows our partner hospital to store patient discharge files directly to an s bucket
+the application and dashboard are currently up and running and pulling information and data from our partner hospital however the project was rushed through initial development and there are several frontend features that need to be addressed or finetunedupgraded and functions added searchflag options and redirection to make the application more userfriendly dashboard accuracy there are deliverables such as reporting that is part of the project scope that was not developed but are considered a priority after the features and functionality are improved
+according to the og developer a github account for our organization will need to be created and code uploaded to two separate projects  one for backend and one for frontend
+let me know if this project would be something you would like to further discuss thank you so much for your time and consideration
+more information from the og developer follows
+developer should specifically know or be able to learn these specific aws features since they will be responsible for deployment and maintaining the system
+for deployment the developer must
+ modify aws security groups and target groups etc
+ push code to product do not remove og developer accessnetwork connection
+currently there are github actions created that will deploy the code if you set up the proper secrets github actions on feangular app with deploy code to our static s website as well as creations invalidations for cloudfront that bypasses the caching an ssh config link and key file are available
+need to be able to pull reports on call info by unit by caller by diagnosis physician or across the hospital specifically on flags for medications conditions ect
+ flags and marked issues also need to be represented on the facility dashboard page
+ automate the import process of file from hospital
+ set up or ability to set up hospital employees to log in with their blessing credentials single sign on
+ flags thrown need to show up somewhere in call navigator and also be able to go into them and view patients and issues right now the only notification and way to view this is strictly through email
+ ability to hover over icons on facility dashboard and see info and be able to click on info and have a page with that info pop up
+ on the discharge tab when setting a filter we want that filter to stay set unless we change it right now if you set a filter and then go into a patient when you come back out the filter is not set anymore and you have to set all over again
+our solution
+ need to be able to pull reports on call info by unit by caller by diagnosis physician or across the hospital specifically on flags for medications conditions ect
+ flags and marked issues also need to be represented on the facility dashboard page
+ automate the import process of file from hospital
+ set up or ability to set up hospital employees to log in with their blessing credentials single sign on
+ flags thrown need to show up somewhere in call navigator and also be able to go into them and view patients and issues right now the only notification and way to view this is strictly through email
+ ability to hover over icons on facility dashboard and see info and be able to click on info and have a page with that info pop up
+ on the discharge tab when setting a filter we want that filter to stay set unless we change it right now if you set a filter and then go into a patient when you come back out the filter is not set anymore and you have to set all over again
+also let me know if there is a scope of project document that we need to complete to help you and your team develop a project plan and timeline
+hopefully with the above notes and attached files youll be able to put together a project plan and proposal for this project
+deliverables
+fully functional application product
+maintenance and support
+tech stack
+tools used
+vs code
+languagetechniques used
+angular
+nodejs
+expressjs
+databases used
+mysql
+web cloud servers used
+aws
+project snapshots
+project website url
+httpscallsnavigatorcom
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+impact of ai in health and medicine
+february  
+rise of cybercrime and its effect by the year 
+august  
+lessons from the past some key learnings relevant to the coronavirus
+april  
+data engineering and management tool airbyte with custom data connectors to
+february  
+load more
+recommended insights
+how metaverse and vr can reform work culture
+using people analytics to drive business performance
+ml and aibased insurance premium model to predict premium to be
+python model for the analysis of sectorspecific stock etfs for investment

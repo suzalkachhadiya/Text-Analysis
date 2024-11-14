@@ -1,0 +1,93 @@
+itle netclan
+source url httpsinsightsblackcoffercomgooglelocalserviceadslsaleadsdashboard
+
+
+home
+our success stories
+google local service ads lsa leads dashboard
+client background
+client
+a leading law firm in usa
+industry type
+law
+services
+law practice
+organization size
+
+project objective
+for a better understanding provide visualisations of the data on the lsa dashboard
+learn how to enhance rank and push the ad to potential consumers by gaining data insights
+project description
+local service ads is a newer program by google that allows advertisers to achieve a google guaranteed status in search engines when a visitor makes a search advertisers who participate in google local service ads will receive a larger ad space with their competitors local services ads and they will be able to feature their local businesses throughout organic search queries
+there are various aspects that firms must concentrate on in order to win the google services ad and so raise their ranking these enhancements may be implemented if companies obtain current data about their leads and analyse it in order to take appropriate actions in the future
+this project was created to give this data in a way that companies can readily understand through the use of visualisations the graphs will show the increasedecrease in any of the metrics as well as the manner in which the increasedecrease occurs it will display all of the crucial data monthly or even by date range to help you keep track of the changes that occur
+our solution
+the solution for the project includes data insights through visualisations which will help businesses to better analyse the available data this solution will help the businesses in improvising the factors to increase their potential customers and raise their respective ranks
+it is divided into two parts databases and data dashboard the databases will store the important data retrieved from the lsa dashboard and use them to calculate some important metrics the data dashboard will represent those metrics in form of graphs and data in form of tables
+project deliverables
+the project deliverables can be divided into two parts
+data in databases the data is divided into three parts historical account data historical phone lead and historical message lead using these three data we calculate and store other important metrics like cost per acquisition conversion rate number of booked leads number disputed leads pending leads and approved leads
+google data studio dashboard the dashboard will show the count of important metrics like total number of records total interactions and different types of leads it will represent different types of graphs portraying different kinds of information and tables containing major data like lead data combined and net monthly spent on ads
+tools used
+for extracting the data from the lsa dashboard we have made our own tool by python scripts the automation tool will store data in the excel sheets and google bigquery for respective businesses on a day to day basis pycharm for compiling and running the code jsonviewer for processing
+languagetechniques used
+we have used the lsa api to extract data from the lsa dashboard google sheets api to store data in excel sheets bigquery api for storing data in google bigquery the scripts for the automation tool were written in the python programming language
+models used
+software model radrapid application development model model
+in the rad paradigm less emphasis is placed on planning and more emphasis is placed on development activities it aims to create software in a short period of time
+advantages of rad model
+changing needs can be addressed
+progress may be quantified
+increases component reusability
+encourages responses from consumers
+integration from the start solves a lot of integration concerns
+skills used
+api data abstraction
+data visualisation
+automation of tools
+exception handling from python
+data preprocessing
+data wrangling
+databases used
+two types of databases google excel sheets and google bigquery
+web cloud servers used
+google bigquery cloud database with up to  tb of free storage is being used
+what are the technical challenges faced during project execution
+some minor technical challenges were faced for clients with minimum data for those plotting graphs became difficult
+how the technical challenges were solved
+we tried to process the data remove the blank data spaces and plotted the graph with available data
+business impact
+its undeniable that googles local services ads lsa have changed the way home service businesses advertise online
+the pay per lead system designed to provide the enduser with a quick clean and trusted experience gives small and mediumsized businesses a better shot at competing with national brands and massive budget operations
+to win with the local services the businesses need to take care of some factors where data comes to help
+dialling in your service area profile and budget the data from the message and phone leads help to know whether they are potential customers if they are potential customers their location and profile can help you in charging them or not charging the leads
+mark your jobs as booked the dashboard will display the number of archived leads and booked leads this count can help you analyse your performance and how you can work to increase your potential customers
+deal with disputes the dashboard will also represent the disputed disputes and approved disputes which will help you to deal with the disputes
+net monthly ad spend this is an important metric which helps the firms to make better decisions for their expenditure they can have an efficient control over their expenditure once they have proper data available other metrics related to finances include cost per lead cost per acquisition and conversion rate
+project snapshots
+fig data dashboard for individual businesses
+fig data dashboard for individual businesses
+fig consolidated dashboard
+fig historical account data
+fig cpa and cpl datasheet
+fig lead dispute status
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+statistical methods for sales forecasting in retail industry
+may  
+rise of ott platform and its impact on entertainment industry by
+october  
+transforming the healthcare systems
+april  
+understanding the millennial market
+april  
+load more
+recommended insights
+role of big data  analytics in banking and finance
+rise of telemedicine and its impact on livelihood by 
+advanced ai for thermal person detection
+an outlook of healthcare by the year  and how it

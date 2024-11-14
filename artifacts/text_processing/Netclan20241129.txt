@@ -1,0 +1,82 @@
+itle netclan
+source url httpsinsightsblackcoffercombigdatasolutiontoanonlinemultivendormarketplaceecommercebusiness
+
+
+home
+our success stories
+big data solution to an online multivendor marketplace ecommerce business
+client background
+client
+a leading ecommerce firm in the usa columbia india and latin america
+gangala
+promotes local shops selling a wide variety of products at great prices easily find the best offers using our price comparison tool its a win win for 
+industry type
+ecommerce
+services
+ecommerce retail business
+organization size
+
+project objective
+to give user experience of easy and convenient shopping by searching all the products like any medicines  clothes  gadgets etc in a single website without going through all the ecommerce sites and make shopping easy and get the most affordable and best product
+project description
+its an ecommerce sites thats helps customer to compare different  products that were available on different ecommerce sites like flipkart  amazon  netmeds etcits helps the user to visit only one sites to get what they need and find the perfect product without visiting all the sitesthe gives the user a great and friendly experience in buying any productsits also have some unique similar products recommendation based on user search and also have a chatbot thats solves user query its uses big data and rest api thats help the projects for regular updates and regular fetching of the new products
+our solution
+in blackcoffer we create the flow of the big data and all backend solution that is requires for this futuristic ecommerce siteswe create pipelines for the data of all the products and their price and url fetch from different ecommerce sites using custom made apis and perform many data cleaning data transformation and data validation techniques to make sure the standard of data to be used by our sites we also get additional feature from the scraped data by using different apis  we also create automation and custom python scripts that helps us to achieve some outstanding data related tasks
+project deliverables
+python script for performing etl and cypher query for big data handling
+tools used
+jupyter notebook
+dss
+vs code
+languagetechniques used
+python
+no sql
+cypher
+etl
+models used
+similar price api
+whatsapp chat api
+similarity server to get similar products
+skills used
+data engineering
+data analysis
+python programming
+rest apis
+databases used
+dss
+neoj
+mongodb
+web cloud servers used
+linode
+aws
+what are the technical challenges faced during project execution
+data cleaning  the scraped that will be used by our sites is coming from different sources and also its nots that clean to be used by sites this is the very first problem every data scientist faced during the whole process
+data merging   the data is scraped from around  sources thats why its very difficult to maintain the attributes that should be used by all the sources and we can get a clean and sufficient amount of data to process
+data validation   there are many records that have null values and missing values that disturb the users experience a lot that should be handle with very care
+how the technical challenges were solved
+data cleaning   for data cleaning we used python data frame and pandas and data structure and handles the data cleaning and optimize our data for get correct data format and useful data
+data merging    for data merging and data transformation we used pandas that help to get the appropriate data that can used further and also make python pipelines for future updation
+data validation  for that data validation we use some fundamental property and feature selection thats help us to make the appropriate data format and records to be used in our sites
+project snapshots
+project website url
+httpsgangalain
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+face recognition with deepfills framework  deepface
+october  
+advantages and disadvantages of elearning during the covid for students and
+december  
+power bi integration with restapi and saml integration
+june  
+what are the key policies that will mitigate the impacts of
+april  
+load more
+recommended insights
+face recognition using deepface
+iot  aiml solution for retail walmart big bazaar max reliance
+python model for the analysis of sectorspecific stock etfs for investment
+kpi dashboard for accountants

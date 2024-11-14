@@ -1,0 +1,69 @@
+itle netclan
+source url httpsinsightsblackcoffercommarblesstimulationusingpython
+
+
+home
+our success stories
+marbles stimulation using python
+client background
+client
+a leading consulting firm in the usa
+industry type
+it consulting
+services
+consultanting
+organization size
+
+project objective
+for all  cases use a random number generator that will give you numbers between   a million   whatever generator you use make sure to adjust the numbers so that they are between    distributed randomly
+for all tasks we will have  colors for example in task  when the random number selected is between    choose a bright color that is easily visible i have called it br clr  for numbers between    choose another bright color br clr  for numbers between    choose b blue for numbers between    choose r red and   choose g green simulate these  task scenarios and represent them in a table  x  and collect statistics at the end replicate the simulation exercises for each task with  different initial seed numbers likewise for  other tasks
+our solution
+task involves creating  excel files running a python script in jupyter notebook which contains certain integer ranges indicating certain values and some other criteria the random number range  to  million
+there are  different tasks which have different conditions based on which need to form simulate these  tasks and represent them in a table  x  and collect statistics at the end replicating the simulation exercises for each task with  different initial seed numbers
+then using the find and replace tab of excel to make it in the correct format with proper color data representation in particular format and formatting colors text based on condition passed within excel
+project deliverables
+excel file
+tools used
+jupyternb
+sublime text
+ms excel
+languagetechniques used
+python
+models used
+no software model is being used to solve this project
+skills used
+python programming
+ms excel formatting
+databases used
+no database were used stored complete data in ms excel
+web cloud servers used
+no cloud servers were used for this project
+what are the technical challenges faced during project execution
+formatting excel files
+how the technical challenges were solved
+formatting excel files
+discovered a lot of shortcuts available within excel to deal with data representation in particular format and learned about formatting colors text based on condition passed within excel
+replication and selecting rows and columns with shortcuts and in simplest way possible transposing selected data and many more
+project snapshots
+figure  sample output file for task  stimulation 
+in total there were  conditional tasks all of them had  stimulation which needed to be performed
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+qualtrics api integration using python
+august  
+ai and nlpbased solutions to automate data discovery for venture capital
+july  
+easy access to performance metrics  realtime dashboard
+february  
+power bi dashboard on operations transactions and marketing data embedding the
+may  
+load more
+recommended insights
+traceability of information  master your data capital
+automate the data management process
+role of big data in academia
+how big data  analytics is helping fashion etailers to capture

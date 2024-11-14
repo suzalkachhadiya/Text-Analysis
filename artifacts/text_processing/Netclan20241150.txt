@@ -1,0 +1,86 @@
+itle netclan
+source url httpsinsightsblackcoffercomgooglelocalserviceadsmissedcallsandmessagesautomationtool
+
+
+home
+our success stories
+google local service ads missed calls and messages automation tool
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+a real time tool to send a report of missed calls and messages to the client
+project description
+extracts data from callrail database for the last  minutes
+all the calls which are marked as missed and all messages in the data are sent in the form of a report to the client
+the script runs every  minutes and is deployed to heroku by the name missedmessages
+the data is collected only for the companies that are not marked in red in the missed messages notification automation  master file sheet
+the following data is uploaded
+company name
+date
+time
+customer name
+contact no
+customer location
+call type
+in case of messages
+company name
+date
+time
+customer name
+contact no
+no of messages
+direction inboundoutbound
+content
+our solution
+to provide data real time schedule the tool to check for data every  minutes
+extract data from callrail
+filter out all answered calls
+prepare report
+get email ids from sheets
+send email through sendgrid
+project deliverables
+an automated tool which provides real time updates to the client along with all information about the call
+tools used
+heroku
+callrail api
+sendgrid
+sheets api
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+google big query
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+sending correct reports only to the companies which are active
+how the technical challenges were solved
+using google sheets cell formatting in python
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how machine learning used in finance and banking
+may  
+how telehealth and telemedicine helping people to fight against covid
+april  
+the impact of the metaverse on financial services
+february  
+ai and mlbased youtube analytics and content creation tool for optimizing
+august  
+load more
+recommended insights
+automate the data management process
+key audit matters predictive modeling
+is telehealth the future of healthcare
+roas dashboard for campaignwise google ads budget tracking using google ads

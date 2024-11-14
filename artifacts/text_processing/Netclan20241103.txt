@@ -1,0 +1,82 @@
+itle netclan
+source url httpsinsightsblackcoffercomauvikconnectwiseintegrationingrafana
+
+
+home
+our success stories
+auvik connectwise integration in grafana
+client background
+client
+a leading tech firm in the usa
+industry type
+it  consulting
+services
+software business solutions consulting
+organization size
+
+project objective
+get statistics such as uptime  availability cpu throughput etc from auvik and connectwise and make a dashboard from it in grafana
+project description
+unlike many technologies for which plugins are readily available in grafana there are none for auvik and connectwise so our task was to device a solution through which all the data from auvik and connectwise can be fed to grafana this data then would be used to plot graphs in grafana
+our solution
+setup postgres on linux
+create appropriate databases tables and users in it
+use python to get data from auvik and connectwise and perform necessary preprocesing
+in the same python file connect to our postgres database
+ingest this data into postgres database
+setup grafana
+connect grafana to postgres using the postgres plugin
+query our postgres database in grafana to get desired results
+plot multiple graphs according to clients requirement and make a dashboard from it
+project deliverables
+setup postgres
+setup postrges in grafana
+write python code to get data from auvik and connectwise into postrges
+plot graphs into grafana according to clients requirement
+make dashboards for all the graphs
+tools used
+grafana
+postgres
+vs code
+aws
+postman
+languagetechniques used
+python
+bash
+skills used
+python
+networking
+data visualisation
+databases used
+postgres
+web cloud servers used
+amazon web services aws
+what are the technical challenges faced during project execution
+since the data received from auvik was in json fromat our first approach was to use grafanas builtin json plugin but this wasnt working since the data received from auvik was multidimensional when the json plugin required one dimensional data
+how the technical challenges were solved
+the above challenge was addressed by transforming the multi dimensional data into one dimensional when it was store in a python variable this transformed data was then inserted into postgres
+project snapshots
+project website url
+httpsgithubcomajaybidyarthyhenrypardo
+project video
+httpswwwyoutubecomwatchvccbdfjkbzcabchannelblackcoffer
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how does metaverse work in the financial sector
+february  
+connecting mongodb database to power bi dashboard dashboard automation
+july  
+internet demands evolution communication impact and s alternative pathways
+august  
+surveymonkey business questioner report using power bi
+june  
+load more
+recommended insights
+rise of electric vehicles and its impact on livelihood by 
+how does artificial intelligence affect the environment
+impress with a modern website
+a leading law firm in the usa website seo  optimization

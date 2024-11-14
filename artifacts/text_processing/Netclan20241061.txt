@@ -1,0 +1,70 @@
+itle netclan
+source url httpsinsightsblackcoffercommondaycomtokpidashboardtomanageviewandgenerateinsightsfromthecrmdata
+
+
+home
+our success stories
+mondaycom to kpi dashboard to manage view and generate insights from the
+client background
+client
+a leading energy firm in the usa
+industry type
+energy
+services
+solar panel
+organization size
+
+project objective
+setup a dashboard on mondaycom
+fetch client crm data onto mondaycom dashboard
+project description
+mohsin has crm for his business where he has all data regarding leads of his clients he wanted to see all his client appointments at one place client took subscription of mondaycom it is an crm where you can manage your work more easily in neat and clean userfriendly environment we can easily track our task on mondaycom pipeline for mondaycom is very easy to use and also customized according to our needs
+our solution
+the challenging part of this project was to get crm data on mondaycom dashboard client also has subscription of zapier zapier is a connector which connect two apps to transfer data from each other zapier also has limitation to fetch limited type of data from crm like for mohsin crm we can only fetch hot lead comes on crm but in his crm there are also other functions like if a customer lead comes on crm they manually book appointment for that client so there is no way to get that data from crm issue for client was he has attached integrated four google calendar account with crm so whenever he confirms appointment on crm that data fetched on google calendar but he has check manually one by one on each calendar which was bit hard task for him so we advised mondaycom where he can track all his task at one place
+tools used
+mondaycom
+zapier
+google calendar
+databases used
+google calendar
+what are the technical challenges faced during project execution
+the challenging part of this project was to get crm data on mondaycom dashboardthere is no direct integration of crm and mondaycom to fetch data
+how the technical challenges were solved
+to solve challenges we used zapier to get crm data to dashboard of mondaycom we used google calendar of client which were integrated with crm all the appointment confirmed leads were present on google calendar
+pipeline of data
+crm  google calendar  zapier  mondaycom
+business impact
+using the mondaycom dashboard client can easily track all appointments of customers he can track data of his team members and connect with them at one place he will not miss any of his meeting with customer mondaycom also has timeline and calendar view using that client can see all activity of his work
+project snapshots
+crm calendar view
+mondaycom
+google calendar
+zapier
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+design and develop a retool app that will show stock and
+august  
+data management  egeas
+august  
+building a physicsinformed neural network for circuit evaluation
+july  
+add spf record cpanel bigrock
+august  
+load more
+recommended insights
+interpret the coefficients in regression models
+marketing sales and financial data business dashboard wink report
+how machines ai automations and robohuman are effective in finance and
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes

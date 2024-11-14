@@ -1,0 +1,63 @@
+itle netclan
+source url httpsinsightsblackcoffercompowerbidatadrivenmapdashboard
+
+
+home
+our success stories
+power bi datadriven map dashboard
+client background
+client
+a leading marketing firm in the usa
+industry type
+market research
+services
+marketing consultancy
+organization size
+
+project objective
+change bubble colors dynamically
+make table and charts linked if a user clicks on tables values then the bubble chart on the map should be highlighted that relates to the table
+project description
+i have a map visual i would like to dynamically change the colours of some of the bubbles
+the report page has several filters and kpi dashboard whose metrics change dynamically when the user clicks a certain element similarly the map should also change dynamically relative to the filter
+our solution
+added the website data from details table to the map visualization it makes the bubbles get coloured dynamically according to the requirement for websites data
+project deliverables
+the power bi  pbix  file updated with solution
+tools used
+power bi
+skills used
+power bi
+data visualization
+data analysis
+databases used
+the database that came in with the power bi file received from client
+what are the technical challenges faced during project execution
+the map was not linked
+map bubbles were not dynamic
+how the technical challenges were solved
+refactoring the data model and using appropriate keys to link the data together
+that made map to change according to slicersfilters
+to change the colour bookmark buttons were used in the dashboard to bring up the dynamic colour changing with slicing works after being published
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+ai bot audio to audio
+april  
+challenges and opportunities of big data in healthcare
+july  
+key audit matters predictive modeling
+september  
+etl discovery tool using llma langchain openai
+february  
+load more
+recommended insights
+text to speech html
+advanceddata analytics ai and ml for news and media companies
+audify music player website in mern stack
+prediction model for online casino

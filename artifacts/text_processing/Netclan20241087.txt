@@ -1,0 +1,108 @@
+itle netclan
+source url httpsinsightsblackcoffercomreturnonadvertisingspenddashboardmarketingautomationandanalyticsusingetlanddashboard
+
+
+home
+our success stories
+return on advertising spend dashboard marketing automation and analytics using etl and
+client background
+client
+a leading ad firm in india
+industry type
+ads
+services
+ads marketing and promotions
+organization size
+
+the problem
+the main problem that was addressed in this project was the manual calculation of return on advertising spend roas due to the lack of a centralized platform for running ads the clients ads were spread across multiple revenue generating platforms including google adsense adx and ezoic while the spending was managed through the google ads platform at that time the client lacked a centralized dashboard or website that could effectively calculate roas by integrating revenue and cost streams this fragmentation made it challenging for the client to track and evaluate the effectiveness of their advertising campaigns therefore a comprehensive solution was developed and implemented providing a centralized platform for calculating roas aligning revenue and cost data from various sources and enabling informed decisionmaking regarding advertising investments
+our solution
+we developed a comprehensive solution to address the challenges faced by the client in calculating return on advertising spend roas and centralizing their advertising data the solution involved collecting data from four different apis google ads api for spending data google adsense api ad manager api and ezoic data for revenue data to ensure compatibility we utilized an extract transform load etl tool to convert the data received from each api which was in different formats into a standardized format storing them pandas dataframe for both revenue and spending data
+the transformed data was then stored in a postgres database for easy access and management to automate the data extraction process we implemented an etl script that runs twice daily via cronjob on a digital ocean vm ensuring the latest data is always available
+moreover we designed a backend api using the flask framework this api fetched the required data from the postgres db allowing users to retrieve relevant information efficiently
+finally we implemented a roas dashboard frontend to display the calculated roas using the fetched values the dashboard provided a visually appealing and intuitive interface for users to track and monitor their advertising performance with our solution in place the client could now easily monitor roas over time access consolidated data and make informed decisions regarding their advertising investments
+solution architecture
+the solution architecture involved a multistep process to address the challenges faced by the client in calculating roas and centralizing their advertising data data was collected from various apis including google ads api google adsense api ad manager api and ezoic data and transformed into a standardized format using an etl tool
+the transformed data was stored in a postgres database and a backend api was developed using the flask framework to fetch the required data the calculated roas was then displayed on a next js dashboard providing users with an intuitive interface to track and analyze their advertising performance
+deliverables
+etl tool
+deployment on digital ocean
+backend api
+next js backend frontend
+roas dashboard
+tools used
+google ads api
+google adsense api
+adx api
+ezoic api
+python 
+jupyter notebook
+flask
+digital ocean droplet
+next js frontendbackend stack
+vuexy template for roas dashboard
+languagetechniques used
+python 
+flask api
+digitalocean droplet
+functional programming in python
+etl tool
+skills used
+python
+git
+deployment
+data engineering
+web development using next js
+databases used
+we used
+postgresql
+database for the project
+web cloud servers used
+digital ocean droplet
+what are the technical challenges faced during project execution
+some of the technical challenges encountered were
+ensuring data integrity during the transformation process
+deployment of docker image on vm
+setting up an automated etl pipeline
+adding ssl certificate to backend api
+how the technical challenges were solved
+ ensuring data integrity implemented checks cleansing and validation to maintain the accuracy and reliability of the data
+ docker image deployment on vm configured vm to support docker image for etl and deployed the image for seamless execution
+ setting up automated etl pipeline automated data extraction transformation and loading processes for efficient data management via cronjob
+ adding ssl certificate to backend api secured backend api with ssl certificate enabling encrypted communication for enhanced data protection
+business impact
+the implemented solution had a significant positive impact on the clients business by providing a centralized platform for calculating roas and integrating data from multiple revenuegenerating platforms the client gained valuable insights into the effectiveness of their advertising campaigns the availability of realtime consolidated data enabled informed decisionmaking regarding advertising investments the userfriendly interface of the raos dashboard allowed the client to easily track and monitor their advertising performance leading to improved campaign optimization and potentially higher returns on advertising spend overall the solution streamlined the clients advertising operations resulting in increased efficiency and improved business outcomes
+project snapshots
+here are the project snapshots
+login screen
+landing page with first selected campaign in the list
+using date picker
+search functionality
+revenue breakdown by platform
+showhide left sidebar
+switching sites theme to light mode
+settingslog out menu
+change emailpassword
+project website url
+httpsroasingcom
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+the rise of the ott platform and its impact on the
+august  
+analyzing the impact of positive emotions and pandemic severity on mental
+august  
+impress with a modern website
+april  
+google local service ads missed calls and messages automation tool
+august  
+load more
+recommended insights
+cloudbased data modeling and analysis platform with draganddrop interface and openai
+trading bot for forex
+travel and tourism outlook
+how does artificial intelligence affect the environment

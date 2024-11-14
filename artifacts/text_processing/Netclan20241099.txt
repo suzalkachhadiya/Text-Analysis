@@ -1,0 +1,78 @@
+itle netclan
+source url httpsinsightsblackcoffercomintegrationofaproducttoacloudbasedcrmplatform
+
+
+home
+our success stories
+integration of a product to a cloudbased crm platform
+client background
+client
+a leading logistics firm worldwide
+industry type
+logistics
+services
+import export supply chain logistics trades
+organization size
+
+project description
+the main challenge faced by the team was the integration of the two systems themselves
+since onebyone entering of records into each module is a mundane task and a waste of valuable time we proposed the automation using apis
+our solution
+the challenge was divided into two milestones and subtasks for each
+ first was the ingestion of existing data into the cloudbased crm platform
+ second was the question of automating the process of adding newer records to the cloud platform
+project deliverables
+the client has been provided with python scripting handling bulk data ingestion to crm and also the script to handle daily synchronization of data
+tools used
+ python
+ mysql database
+ postman
+ teamviewer
+languagetechniques used
+ automation
+ 
+rd
+party apis
+ authentication methods
+ multithreading of function calls
+ bat scripts for easier running of scripts for the client
+models used
+python frameworks like requests to build own custom client for consumption of apis
+skills used
+python programming multthreading apis
+databases used
+the client provided a mysql instance
+web cloud servers used
+zoho
+what are the technical challenges faced during project execution
+ writing own clientside apiconsumption code handling api calls from authentication and other operations as per task requirements
+ debugging of api responses was messy
+how the technical challenges were solved
+ multiple alternatives were discussed and implemented in python like conditional refreshing of api tokens
+ automation of daily synchronization handled by use of time deltas
+ logging of all operations to efficiently handle errors in the future
+business impact
+ automated workflow of the client
+ no need for dull tasks like data entry to crm modules everything is taken care of using logic
+url
+httpswwwexportgeniusin
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+embedding care robots into society and practice sociotechnical considerations
+december  
+impacts of covid  on food products
+november  
+power bi dashboard to drive insights from complex data to generate
+february  
+nlpbased approach for data transformation
+july  
+load more
+recommended insights
+what is the repercussion of the environment due to the covid
+streamlined integration interactive brokers api with python for desktop trading application
+efficient supply chain assessment overcoming technical hurdles for web application development
+ai bot audio to audio

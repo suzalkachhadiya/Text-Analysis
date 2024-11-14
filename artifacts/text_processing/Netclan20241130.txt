@@ -1,0 +1,66 @@
+itle netclan
+source url httpsinsightsblackcoffercomcreatingacustomreportanddashboardusingthedatagotfromateraapi
+
+
+home
+our success stories
+creating a custom report and dashboard using the data got from atera
+client background
+client
+a leading marketing firm in usa
+industry type
+marketing
+services
+marketing consulting ads business solutions
+organization size
+
+project description
+ateracom is used as our rmm we have an agent on every machine which tracks the if a machine goes down initial response time etc the website doesnt provide any standard reports so we needed to create a custom report
+our solution
+importing the data from atera api into jupyter
+using web scraping download the json data
+convert the json data to data frame and download it into pc
+clean the data with only required columns
+upload the data into google sheets
+connect google sheets and google data studio
+create the dashboard with the data
+tools used
+python pandas requests
+google sheets
+google data studio
+skills used
+analytics
+programming language
+databases used
+contactscsv
+customerscsv
+ticketscsv
+alertscsv
+what are the technical challenges faced during project execution
+i found it difficult on downloading the data
+how the technical challenges were solved
+once i figured i have been using the wrong authorization key to login i was able to solve the issue and convert the curl command into python
+project snapshots
+project website url
+httpsdatastudiogooglecomreportingeaecbaccafbadcaf
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+google lsa api data automation and dashboarding
+august  
+descriptive vs inquisitive vs predictive analytics
+april  
+fitting piecewise growth models in r
+october  
+how are people diverted to telehealth services and telemedicine
+april  
+load more
+recommended insights
+data management etl and data automation
+how prepared is india to tackle a possible covid outbreak
+internet demands evolution communication impact and s alternative pathways
+global economy effected by coronavirus

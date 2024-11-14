@@ -1,0 +1,62 @@
+itle netclan
+source url httpsinsightsblackcoffercomanetlsolutionforcurrencydatatogooglebigquery
+
+
+home
+our success stories
+an etl solution for currency data to google big query
+client background
+client
+a leading tech firm in the usa
+industry type
+it consulting
+services
+software consulting
+organization size
+
+project objective
+fetch currency data from pureclear api and store it to google cloud bigquery
+create a google cloud function to automate the above process
+project description
+we have given a pureclear api and a google cloud account we need to fetch currency data from that pureclear api using python and need to store fetched data in google cloud bigquery
+we also need to automate the above process like the process runs on a daily basis and update the currency data on bigquery
+our solution
+we have created a python program that can fetch pureclear api data the api data was in json format but we needed table format so we used python package pandas we converted json data to tabular format using pandas after that we connected python code to google cloud using googles authentication module and then stored data frame table directly to bigquery using the togbq method
+we also need to run the above process daily to update new data in bigquery for this google cloud provides a cloud function tool in this we can create a function and set up their running process so we created a function and attached the above code to that function and set up a cloud function to run daily
+project deliverables
+a google cloud function that runs daily and updates data on google bigquery
+tools used
+cloud function bigquery of google cloud google colab notebook python programming pandas
+languagetechniques used
+python language and pandas module
+skills used
+python programming data handling google cloud
+databases used
+google cloud bigquery
+web cloud servers used
+google cloud server
+what are the technical challenges faced during project execution
+connecting google cloud to python code is challenging because its credentials should be in a specified format otherwise it shows an authentication error
+how the technical challenges were solved
+to tackle this challenge we created a dictionary format keyvalue pair and stored all the authentication variables in the dictionary as a key value pair then we used googles authentication library googleauth and passed a dictionary to the serviceaccount method and stored it in different variables so we can store data from pandas dataframe to google bigquery
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+ai ml deep learning python tool deliverables
+may  
+deep learning impact on areas of elearning
+may  
+enhancing data collection for research institutions addressing survey fatigue and incorporating
+august  
+covid vs indian economy
+april  
+load more
+recommended insights
+mvp for a software that analyses content from audio pharmabased
+ai and ml technologies to evaluate learning assessments
+how is ai used to solve traffic management
+how big data and analytics is shaping tomorrow for marketing leaders

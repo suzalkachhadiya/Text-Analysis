@@ -1,0 +1,73 @@
+itle netclan
+source url httpsinsightsblackcoffercomaibasedalgorithmictradingbotforforex
+
+
+home
+our success stories
+aibased algorithmic trading bot for forex
+client background
+client
+a leading trading firm in the usa
+industry type
+finance
+services
+trading banking investment
+organization size
+
+the problem
+build mlai model to predict next  min ema cross on historical and live data by using indicators such as ema macd rsi etc
+create a web app to show predicted ema cross and other indicators movement
+our solution
+in stock market indicators such as ema macd rsi etc helps us to find cross by using historical price data if we accurately predict cross earlier then it will help us in investment so we have used data api to collect historical and live eurusd price data we calculated ema ema macd and rsi indicators based on price data  after that we created labels of ema cross in historical data when we have training data we used different classifier models for training we predicted accuracy  with different models and the logistic regression model gave  accuracy this logistic regression is predicting the cross only for the next step it means we will know only  minutes before that the cross will happen in the next  min but we need to know more earlier for that we predicted the next  minutes price values using the lstm model from historical price data based on these price values we have calculated ema macd and rsi and  after that cross using logistic regression so now we can predict the cross  hour earlier based on these  models
+to show cross and other  indicators movement we created a python flask web app and hosted it on aws ec server the process runs every  minutes  and checks the cross if there is any cross in  hour it sends a telegram notification
+deliverables
+flask web app
+all the python code and machine learning models
+tools used
+pandas numpy scikitlearn tensorflow flask etc
+languagetechniques used
+data analysis data visualization machine learning deep learning flask web app etc
+models used
+logistic regression lstm model
+skills used
+data analysis data visualization machine learning deep learning flask python etc
+databases used
+mongodb
+web cloud servers used
+aws ec
+what are the technical challenges faced during project execution
+main challenge in this project is to find the best model because we have time series data so we cannot change the orders to get better accuracy
+one machine learning model is only predicting the next  min cross but we need the ema cross  hour before
+how the technical challenges were solved
+we were using time series data so we cannot change the order to find better accuracy in every model  so we have tried different models with the same order and evaluated the model only the logistic regression model worked best for the data it gave  accuracy on test data
+to get the next  hour prediction we first tried the same logistic regression to predict the next  steps but we failed because of poor accuracy so we trained the lstm model on price data and predicted the next  steps using the lstm model  after that we used logistic regression to predict ema cross
+business impact
+it will help traders to predict the stock market earlier and get better returns from this project
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+recommendation engine for insurance sector to expand business in the rural
+july  
+data integration elt with neoj graph database
+april  
+how python became the first choice for data science
+march  
+sentiment analysis of a leading restaurants chain in the usa
+october  
+load more
+recommended insights
+impacts of covid  on vegetable vendors
+ai in healthcare to improve patient outcomes
+marbles stimulation using python
+ai and nlpbased solutions to automate data discovery for venture capital

@@ -1,0 +1,88 @@
+itle netclan
+source url httpsinsightsblackcoffercomgoogledatastudiodashboardformarketingadsandtractiondata
+
+
+home
+our success stories
+google data studio dashboard for marketing ads and traction data
+client background
+overview
+bankiom  the super banking app for mena on a mission to make managing your finances easier
+ open an account on your phone and get a virtual card in  minutes or less
+ manage all your bank accounts from one app and one control panel
+ save money and grow your wealth
+website
+httpwwwbankiomcom
+company size
+ employees
+founded
+
+specialties
+banking financial services card payments mobile payments digital bank and fintech
+project objective
+build a dashboard unifying all the platforms that we use google ads fb ads appsflyer mixpanel
+project description
+we want to be able to track everything in the funnel from traffic source to total installs paid organic and by channel
+ app settings in appsflyer
+ sdk installation test it  instruction for devs
+ ad sources setup in ad accounts facebook google ads etc
+ ad sources setup in appsflyer
+ inapp conversions mapping
+ conversion set up in ads sources
+ one link smart script and deep link setup
+ skad network for ios app
+our solution
+built dashboard for each data source like google ads facebook ads for tracking installs channel spend cost per install for both android and ios
+then we made a dashboard for tracking the retention rates of customers and other events that they execute on the app like transfer money user registration connect banks the data for these events was fetched from mixpanel
+these dashboards were made using google data studio
+project deliverables
+we need to deliver dashboards for tracking the ads data from google and facebook and to track the events which the users perform on their app and for this data was collected from mixpanel
+tools used
+following tools were used for successful execution of the project
+google data studio
+adveronix
+mixpanel api
+bigquery
+gcp
+languagetechniques used
+code was written to create the pipeline to fetch mixpanel data through mixpanel api and store it in bigquery so the code was written in python
+skills used
+following skills were used to complete the project
+data preparation
+data visualization
+python
+api
+bigquery
+google cloud platform
+databases used
+for storing the data of the project google sheets and google bigquery were used
+web cloud servers used
+web cloud server used in this project was google cloud platform
+what are the technical challenges faced during project execution
+technical challenges faced during the execution of the project was to understand how the api of the mixpanel works and how to connect it to google biqquery another technical challenge that we faced was to find a free resource to connect the facebook ads data to data studio
+how the technical challenges were solved
+to solve the technical challenges we went through the documentation of the mixpanel api to get a understanding of how the things work based on that we built the pipeline to connect the mixpanel data to big query the other technical challenge of finding a free resource to connect the facebook ads to datastudio for free was solved by researching for the various connectors available and we found an add on named adveronix which could connect the facebook ads data to google sheets which can eaily be connected to data studio
+project snapshots
+project website url
+httpsdatastudiogooglecomreportingafcbedfccfaddf
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+behavior based chisquare model to detect dataexfiltration over the network
+may  
+rise of cyber crime and its effects
+august  
+face recognition using deepface
+october  
+automated orthopedic case report generation harnessing web scraping and ai integration
+march  
+load more
+recommended insights
+the impact of the metaverse on financial services
+how coronavirus impact on the hospitality industry
+website tracking and insights using google analytics  google tag manager
+integration of videoconferencing data to the existing web app

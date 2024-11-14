@@ -1,0 +1,77 @@
+itle netclan
+source url httpsinsightsblackcoffercommakingarobustwaytosyncdatafromairtablestomongodbusingpythonetlsolution
+
+
+home
+our success stories
+making a robust way to sync data from airtables to mongodb using
+client background
+client
+a leading tech firm in the usa
+industry type
+it services
+services
+saas services marketing services business consultant
+organization size
+
+project description
+equilo is a social impact startup focused on gender equality and social inclusion we need to link data in airtable  million records spread across  bases to mongodb vxx
+most of the data is backend data for our app in which case the flow is only at to mdb
+need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database
+our solution
+used python and mongodb module along with airtable api to fetch all the data from airtables and push them to the database stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time
+project deliverables
+python code for sync into their staging server and then to production
+tools used
+vscode
+mongodb
+airtable api
+slack
+asana
+github
+languagetechniques used
+python
+mongodb
+sql
+skills used
+data extraction
+data handling
+data storage
+computational data queries
+databases used
+airtables
+mongodb
+web cloud servers used
+airtable
+what are the technical challenges faced during project execution
+main challenge faced was regarding the new concept of airtables and syncing up the data into mongodb in a very complex schema as proposed by the client dissimilar columns in mongodb and airtables for s of tables took lot of time
+also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem
+not proper code management which could help next coders like me to complete the remaining stuff quickly
+how the technical challenges were solved
+these issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer for eg whereabouts of the previous codes and people who run that code
+business impact
+helped them immensely making their backend to frontend integration seamless
+sped up their product development by  to calculate various different scores and visualize them on the frontend
+project snapshots
+project website url
+httpswwwequiloio
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+design  develop an app in retool which shows the progress
+august  
+real estate data warehouse
+september  
+interpret the coefficients in regression models
+april  
+analyzing the impact of female ceo appointments on company stock prices
+august  
+load more
+recommended insights
+can robots tackle latelife loneliness
+impact of covid pandemic on public transportation industries
+android mobile apps portfolio
+blockchain in fintech

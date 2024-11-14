@@ -1,0 +1,152 @@
+itle netclan
+source url httpsinsightsblackcoffercomdatamanagementforapoliticalsaasapplication
+
+
+home
+our success stories
+data management for a political saas application
+client background
+client
+a leading tech firm in the usa
+industry type
+it
+services
+saas products
+organization size
+
+the problem
+as per the guidelines and discussion political research automated data acquisition prada in the following phases which included
+ get pics for existing eos elected officials
+ get new eos and pictures
+ run qa checks regularly on eos
+ get data from government facebook pages
+ geospatial project create a new version of provided kml without using google earth  creating a nested directories which contained description and mapurl at the designated location
+ get data of us states and countiesincluding boroughs and parishes
+by building an automated generated structured data that allows a non  programmer to create a config for each page allowing a bot to scrap and update the data
+our solution
+we created an automated python scripts for designated phases with respective requirements solutions to various type of problems varied such as most of data scrapping automation was done through python developed scripts including the geospatial kml task in addition to this different ranges of data was scrapped generated directed output for the respective tasks in the form of csv format so the users main aim requirement was achieved ie a non programmer could create a config and initiate a bot to scrap the required data
+solution architecture
+the majority task of project consisted of web data scraping automation so a high level overview and specific implementation details of project shall will be as follows
+web scraping framework
+ python as a coding language was used in almost all of the tasks and the framework used for data scraping included beautifulsoup selenium and web drivers these libraries provide tools and functionalities to navigate web pages extract data and handle various html elements
+data extraction and parsing
+use the selected web scraping library to extract the desired data from the web pages provided either in the data sheet or within the websites of urls given in the sheet this involves locating html elements applying filters or selectors and parsing the extracted data
+data processing
+followed by data extraction it was cleansed transformed and aggregated to a structured form such as pandas data frame followed by a csv file in the case of geospatial task it resulted to generation of nested folders in a kml file
+data storage
+the how and where to store the scrapped data was determined which is local file system in the form of csv comma separated values as it was the appropriate data storage solution according to need of the project in addition to this the geospatial task had the output in the form of kml file as polygons inside directories of nested folders
+deliverables
+tasks
+outputs csvkmlxlsx
+python scripts
+canada eos
+mydatacsv
+scriptpy
+scriptpy
+geospatial task
+electoral districtskml
+
+facebook scrapping of eos
+eooutputocsv
+finaleoscrappingpy
+facebook scrapping of  cities
+outputdraftcitiescsv
+facebookimagescrappingpy
+usa states website urls
+screenscrapingtcsv
+finalstatesscrappingpy
+usa counties website urls
+us websitefinalwritexlsx
+countyscrappingpy
+tools used
+python 
+programming language
+
+beautiful soup
+selenium
+pandas
+numpy
+simplekml
+re
+regular expressions
+languagetechniques used
+python 
+programming language
+ 
+it is an interpreted language which allows quick prototyping and interactive coding its versatility can be is one of the reasons for its major applications different libraries and tools were used in this project for various data solutions
+beautiful soup 
+a python library used for web scraping and parsing html and xml documents it provides a convenient way to extract from the said files it eases out the work flow from parsing to data extraction and encoding handling as well
+selenium 
+a python library used for web browser automation like chrome firefox safari and others it interacts with elements such as clicking buttons filling out forms and selecting drop down options in this project we used it in chrome selenium web driver was used for web automation it acted as bridge between python code and the web browser
+pandas 
+it is pythons versatile library that provides high performance data structure tools and it is built on top of numpy data frame is one of its key feature due to which this library was used this key feature allows efficient manipulation slicing and filtering of structured data
+numpy 
+it is also a python library aka numerical python as it is a fundamental library for scientific computing in python
+simplekml 
+it is a python package which enables you to generate kml with as little effort as possible
+re 
+regular expressions it is a powerful tool in python sued for pattern matching and manipulations of strings
+skills used
+python programming
+web fundamentals
+web scrapping using libraries such as bs selenium
+data cleaning and processing
+problem solving and debugging
+kml structure and handling using pythons programming
+databases used
+none all the structured data was in the form of either python data frames csv or excel sheets
+what are the technical challenges faced during project execution
+firstly some of the web urls were not accessible because they were restricted to particular range of ips of that region
+couldnt fetch whole data through beautiful soup as it couldnt parse whole tags
+list of us counties wasnt provided in the given resource links
+how the technical challenges were solved
+used vpn for accessing official sites which were not generally accessible
+used selenium web driver to automate the direction at urls which fetched complete html tags of the desired webpages
+performed a search and created structure data of list of counties of each state which was used as input to gain web urls of counties of us
+business impact
+enhanced analysis
+ web scraping allows businesses to gather valuable data from various websites this information can provide insights to desired aim and objectives enabling businesses to make informed
+realtime monitoring and upgradation
+web scraping can enable business to monitor changes or updates on website in realtime this can be useful for tracking regulatory changes it keeps the business and its data updated
+increased efficiency
+automation eliminated the need for manual data collection saving time and resources with automated web scraping business can extract large amount data quickly accurately improving overall operational efficiency
+project snapshots
+chrome driver initiated
+chrome driver visiting the directed links and accessing the image urls
+directed to next link
+kml task
+facebook data extraction
+data of state governments of us
+accessing links through wiki directing to counties
+nesting within the list of counties of a particular state
+finding and extracting link of the website of county
+project website url
+the github repository link httpsgithubcomajaybidyarthypaulandrsavoietreemain
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+what are the challenges and acceptance of elearning during the covid
+december  
+connecting mongodb database to power bi dashboard dashboard automation
+july  
+golden record  a knowledge graph database approach to unfold discovery
+july  
+healthcare data dashboard in kibana
+may  
+load more
+recommended insights
+how machines ai automations and robohuman are effective in finance and
+advantages and disadvantages of elearning during the covid for students and
+marketing analytics to automate leads call status and reporting
+transforming and managing a largescale sql pedigree database to neoj graph

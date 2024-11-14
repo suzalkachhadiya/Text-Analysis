@@ -1,0 +1,90 @@
+itle netclan
+source url httpsinsightsblackcoffercomaiandmlbasedyoutubeanalyticsandcontentcreationtoolforoptimizingsubscriberengagementandcontentstrategy
+
+
+home
+our success stories
+ai and mlbased youtube analytics and content creation tool for optimizing subscriber
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas marketing strategy
+organization size
+
+the problem
+building ai and ml based youtube analytics and content creation tool that will help youtuber to understand their subscribers watching behaviour help them in content research creation and publication
+our solution
+created a mern stack web application and integrated ai models to helps youtuber to generated titles descriptions tags hashtags captions etc help them to check thumbnail quality analysis on the videos using video auditor tool analysis on comments using sentiments analysis help to under their subscribers using churn predication ai model
+solution architecture
+httpswwwfigmacomfilewqsmmmnbzsjneivslyoutubewebappbyshivtypedesignnodeidmodedesigntlhjrxbgqqlwu
+deliverables
+web applications
+supports
+maintenance
+feature enhancement
+tech stack
+tools used
+vs code
+languagetechniques used
+reactjs
+expressjs
+nodejs
+python
+models used
+python libraries
+skills used
+data scientise
+full stack developer
+databases used
+mongodb
+web cloud servers used
+google cloud platform
+project snapshots
+home page
+tool page
+dashboard
+blog page
+single blog post
+about us
+contact us
+login page
+title and description tool page
+thumbnail quality check tool
+project website url
+httpstubetoolai
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+advanced textual analytics  financial analysis industry
+june  
+big data integration  infrastructure solution
+november  
+a webbased dashboard for the filtered data retrieval of land records
+september  
+how does artificial intelligence affect the environment
+august  
+load more
+recommended insights
+dynamic brandcentric dashboard for automotive dealerships pdf to financial insights with
+how advanced analytics are redefining banking
+roas dashboard for campaignwise google ads budget tracking using google ads
+how are people diverted to telehealth services and telemedicine

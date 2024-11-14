@@ -1,0 +1,73 @@
+itle netclan
+source url httpsinsightsblackcoffercomawebbaseddashboardforthefiltereddataretrievaloflandrecords
+
+
+home
+our success stories
+a webbased dashboard for the filtered data retrieval of land records
+client background
+client
+a leading real estate firm in the usa
+industry type
+real estate
+services
+land infrastructure real estate investment
+organization size
+
+project description
+the clients own raw database needed to be converted into a dynamic web application with modern features like user management and subscription where users could explore land records as per their wish
+our solution
+created the web application as per client needs
+added user functionality to handle signuplogins and added authorization middlewares to protect routes from unwanted access
+transformed raw data into a meaningful nosqlbased database with a proper schema being served as an instance on a cloud service named
+ mongodb atlas 
+project deliverables
+pushed code to the required github repository
+tools used
+ vanilla javascript
+ javascript frameworks  nodejs express  cors 
+ postman
+languagetechniques used
+ javsscript
+ backend service setup  express cors  js 
+ fronted logic setup  html  css  javascript  jquery 
+models used
+backend an api service created to handle land records database and queries made by users
+frontend a frontend client is available as a web application where users can signup and access land records
+skills used
+javascript programming apis javascript frameworks  nodejs express   cors   web design nosql querying in mongodb
+databases used
+mongodb nosql
+web cloud servers used
+mongodb atlas
+what are the technical challenges faced during project execution
+ ui component creation
+ user authorization middleware creation
+ querying data in nosql
+how the technical challenges were solved
+ created and extended ui components to handle filters like owners date fields and area ranges on land records
+ api and frontend are separately built for easier team management of tasks
+ using a cloudbased mongodb instance provided support for teams to work without any problems with accessibility
+business impact
+ created a platform for clients business
+ transformed his raw data into meaningful business applications
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how data analytics can help your business respond to the impact
+may  
+ner task using bert with data in xmlformat
+august  
+contribution of handicrafts visual arts  literature in the indian economy
+june  
+ocr  extracting information from scanned documents
+april  
+load more
+recommended insights
+playstore  appstore to google analytics ga or firebase to google
+ranking customer behaviours for business strategy
+what do you think is the lesson or lessons to be
+etl and mlops infrastructure for blockchain analytics

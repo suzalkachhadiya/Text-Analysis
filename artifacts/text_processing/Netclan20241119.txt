@@ -1,0 +1,70 @@
+itle netclan
+source url httpsinsightsblackcoffercomelectricvehiclesevloadmanagementsystemtoforecastenergydemand
+
+
+home
+our success stories
+electric vehicles ev load management system to forecast energy demand
+client background
+client
+a leading energy consulting firm in the usa
+industry type
+energy
+services
+energy solutions consultancy
+organization size
+
+project objective
+create a machine learning solution to manage electricity for electric vehicles
+main tasks
+percentage probability of  user plugin his vehicle today by users plugin date history
+reduce the probability of plugin time according to users plugin time history
+project description
+we need to calculate the date and time probability that the user will plugin his vehicle today based on his plugin date and plugin time history we also need to decrease time probability based on the users past time range
+our solution
+we converted the users plugin data into binary values like  if the user hasnt pluggedin his vehicle on that day and  if he pluggedin we identified the driven distance based on the amount of charge used between two plugin times then we trained the ridge regression ml model for identifying each day driven kilometer from these kilometres we have identified the probability that users will plugin today and it will increase day by day till the user does not plugin his vehicle
+for time probability we have used probability distribution function pdf and cumulative distribution function  cdf these functions will decrease probability according to the users time range
+project deliverables
+ python scripts to
+train regression model every day
+use model weights to generate probability values
+tools used
+google colab vs code google drive and ms excel
+languagetechniques used
+python programming language data analytics with numpy and pandas data visualization with matplotlib statistics and mathematics machine learning with sklearn
+models used
+ridge regression model
+skills used
+data analytics data visualization machine learning python statistics
+databases used
+local data from ms excel sheet
+what are the technical challenges faced during project execution
+there are a lot of challenges faced during project execution
+at the start we have only imaginary data so need to convert in a good format to apply machine learning models
+find the best machine learning model for the data
+decrease the time probability according to users time range
+how the technical challenges were solved
+we have converted the data into weekdays binary values like marked  if not pluggedin vehicle on that day and  if plugged and calculated driven distance by amount of charge used between two plugin dates
+tried different regression based machine learning models like random forest regressor xgboost regressor ridge regression and checked accuracies of all models and choosed best one
+for decreasing time probability we used probability distribution function pdf and cumulative distribution function cdf these functions decrease probability according to the users time range
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+artificial intelligence in business separating the real from the hype
+september  
+communication with twilioflex
+january  
+impact of covid on engineering and medical college during this pandemic
+december  
+an etl solution for an internet publishing firm
+july  
+load more
+recommended insights
+easy access to performance metrics  realtime dashboard
+ai ml and iot driven entry management and monitoring
+lipsync automation for celebrities and influencers
+how can big data  analytics change the healthcare sector in

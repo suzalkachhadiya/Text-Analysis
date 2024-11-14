@@ -1,0 +1,67 @@
+itle netclan
+source url httpsinsightsblackcoffercomanappforupdatingtheemailidoftheuserandstriperefundtoolusingretool
+
+
+home
+our success stories
+an app for updating the email id of the user and stripe
+client background
+client
+a leading healthcare tech firm in the usa
+industry type
+healthcare
+services
+healthcare solutions
+organization size
+
+project description
+the client needed two apps in retool
+update the email id of the customer
+stripe refund app with two options full payment and partial payment
+our solution
+we create the following two apps in retool
+takes the old email id of the user and new email id of the user when the update email id is clicked then the old email id is updated with the new email id for updating email id we have used stripe api
+the user has to select the email id of the user and payment id of the user from the table the user get two options for a refund
+full payment  this option refunds the whole amount to the customer
+partial payment  this option refunds the partial amount entered by the user
+project deliverables
+apps in retool
+tools used
+retool
+stripe
+languagetechniques used
+javascript
+models used
+we have not used any models
+skills used
+api
+databases used
+stripe database
+what are the technical challenges faced during project execution
+the main challenge was creating a full payment option using stripe api if the customer has already received a partial amount then while performing a full refund the refund amount was always greater than the balance amount
+how the technical challenges were solved
+to solve the full payment option issue we calculate the balance amount and provided that amount to the full payment event in retool
+business impact
+using this apps its easy for the client to update the email id of the customer and refund the customers client can refund into two option full payment and partial payment
+project snapshots
+project website url
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how does marketing influence businesses and consumers
+november  
+how machines ai automations and robohuman are effective in finance and
+may  
+google local service ads lsa api to google bigquery to google
+may  
+turning the professional networking data into actionable insights
+october  
+load more
+recommended insights
+coronavirus disease covid effect the impact and role of mass media
+statistical data analysis of reinforced concrete
+lessons from the past some key learnings relevant to the coronavirus
+enhancing model accuracy from  to over  strategies for improving

@@ -1,0 +1,90 @@
+itle netclan
+source url httpsinsightsblackcoffercomanalyticalsolutionforatechfirm
+
+
+home
+our success stories
+analytical solution for a tech firm
+client background
+client
+a leading tech firm in the usa
+industry type
+it
+services
+consulting
+organization size
+
+the problem
+the clients organization had a project that matches urls up using tfidf algorithm
+the script threw some errors and resolving these errors was the immediate ask
+the client also required us to adjust the script for better accuracy and faster computation
+our solution
+rd on the code developed
+find  list bugs
+solve the bugs
+find and get the best matching algorithm implemented
+check and compare the existing matching algorithm implemented for accuracy
+if not check of other solution  ngrams or fuzzy logic
+meet the expected output
+deliverables
+fully functional code
+solution  documentation
+support
+tools used
+google spreadsheets
+microsoft excel
+google colaboratory
+languagetechniques
+python
+models used
+tfidf
+bert
+ngrams
+flair embeddings
+rapid fuzz
+skills used
+problemsolving
+communication
+data modelling
+data pipelining
+python coding
+databases used
+google spreadsheets
+what are the technical challenges faced during project execution
+bugs on the model used by the client was fairly competent using pretrained libraries
+the accuracy for the bug free code on the models used by the client was shaen once the model ran on a different set of data input
+how the technical challenges were solved
+a vanilla code to execute the same logic while fine tuning the matching algorithm was written in order to over come the shortcomings of the pretrained model bugs
+the data preprocessing was done manually in order to transform every instance of an input into better readable format to be able to go into the model and get best matching accuracy possible in the given timeframe of execution of the code
+business impact
+helped the client to perform the matching process with maximum accuracy and lowest cost on code by implementing manually written vanilla code from scratch to utilise the matching algorithm
+project snapshots
+project website url
+httpscolabresearchgooglecomgithubajaybidyarthydanielemeryblobmainvanillaipynbscrolltovppxjrl
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how the covid crisis is redefining jobs and services
+august  
+elk stack  elastic queries
+august  
+making a robust way to sync data from airtables to mongodb
+may  
+future of ai and machine roles in the medical sector
+june  
+load more
+recommended insights
+qualtrics api integration using python
+data management etl and data automation
+human rights outlook
+impacts of covid  on food products

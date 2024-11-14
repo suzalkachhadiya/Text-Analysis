@@ -1,0 +1,127 @@
+itle netclan
+source url httpsinsightsblackcoffercompowerbirestapifetchingdataflowandrefreshscheduleswithsemanticmodels
+
+
+home
+our success stories
+powerbi rest api  fetching dataflow and refresh schedules with semantic models
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+our client a large enterprise faced significant challenges in managing their power bi dataflows datasets and refresh schedules across multiple workspaces the manual processes were timeconsuming errorprone and lacked realtime monitoring capabilities they needed an automated solution to streamline these tasks ensure data accuracy and improve overall efficiency
+our solution
+we developed an automated system using python that integrated with the power bi api to manage and monitor dataflows datasets and their refresh schedules the solution provided a comprehensive overview of all workspaces datasets and dataflows including detailed transaction data and refresh schedules this system allowed the client to efficiently track and manage their power bi environment reducing manual effort and improving data reliability
+solution architecture
+data retrieval
+
+utilized the power bi api to fetch dataflow transactions datasets and refresh schedules
+employed msal for secure authentication and authorization
+data processing
+
+processed and transformed the retrieved data using pandas
+consolidated data from multiple sources into a single excel file with multiple sheets
+data storage
+
+stored processed data in an excel file ensuring easy access and further analysis
+deliverables
+python script for automated dataflow and dataset management
+comprehensive excel file with detailed information on dataflows datasets and refresh schedules
+documentation and user guide for the solution
+tech stack
+tools used
+python
+ primary programming language
+power bi api
+ for interacting with power bi services
+msal
+ for authentication and authorization
+pandas
+ for data processing
+requests
+ for making api calls
+openpyxl
+ for excel file operations
+languagetechniques used
+python scripting
+api integration
+data processing and transformation
+exception handling and logging
+models used
+none as this project focused on data management rather than predictive modeling
+skills used
+api integration
+data processing with pandas
+excel file manipulation
+authentication and authorization using msal
+databases used
+none data was processed and stored in excel files
+web cloud servers used
+power bi service
+what are the technical challenges faced during project execution
+authentication issues
+ ensuring secure and reliable authentication with power bi api
+api rate limits
+ handling power bi api rate limits and managing large volumes of data
+data consistency
+ ensuring data consistency and accuracy across multiple api calls and processing steps
+excel file management
+ efficiently managing and updating large excel files with multiple sheets
+how the technical challenges were solved
+authentication issues
+
+implemented msal for secure authentication and handled token expiration and refresh seamlessly
+api rate limits
+
+implemented retry logic and rate limit handling to manage api call limits and ensure data retrieval without interruptions
+data consistency
+
+used pandas for efficient data processing and ensured data consistency through rigorous testing and validation steps
+excel file management
+
+utilized openpyxl for efficient excel file operations and implemented logic to avoid data duplication and ensure accurate updates
+business impact
+the automated system significantly reduced the manual effort required for managing power bi dataflows and datasets it improved data accuracy provided realtime monitoring capabilities and allowed the client to focus on data analysis and decisionmaking rather than data management the solution also enhanced overall operational efficiency and reliability
+project snapshots
+project website url
+httpscolabresearchgooglecomdrivelcsmtvapawuhxcqsnkrogrvtdnwjouspsharing
+httpswwwloomcomshareebbcfffdafadsidefaeacdccbc
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+python automation tool api cronjob
+may  
+analyzing the impact of positive emotions and pandemic severity on mental
+august  
+why does your business need a chatbot
+september  
+data management for a political saas application
+july  
+load more
+recommended insights
+realtime video analytics
+how to overcome your fear of making mistakes
+rise of cybercrime and its effect by the year 
+interpret the coefficients in regression models

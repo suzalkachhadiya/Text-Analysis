@@ -1,0 +1,84 @@
+itle netclan
+source url httpsinsightsblackcoffercomequitywaterfallsmodelbasedsaasapplicationforrealestatesector
+
+
+home
+our success stories
+equity waterfalls modelbased saas application for real estate sector
+client background
+client
+a leading real estate firm in the usa
+industry type
+real estate
+services
+property business investment real estate
+organization size
+
+project objective
+the objective is to create software that will calculate the equity waterfalls for different cases and there should be  users admin sponsor and investor we need to create the equity waterfall calculation according to the csv file that is shared by the client all users have their own ui portal
+project description
+the project is created using python language working on django rest framework and for frontend we use reactjs and the code deployed on google cloud app engine service we need to create a software that will calculate the equity waterfalls and there should be  users admin sponsor and investor we need to create the calculation according to the csv file that is shared by the client
+all users should have their own ui portal
+sponsors can create deals and send deal invitations to all investors or specific investors
+investors can see all the deals that are offered by the sponsors after that investors can subscribe that deal after subscription it is depending on sponsor that he will accept the investor subscription or not
+our solution
+we have created apis that will calculate the equity waterfall calculation according to the selection of the waterfall tiers
+project deliverables
+django rest framework apis with frontend
+github source code
+working ui
+tools used
+views
+routers
+serializers
+serializer relations
+settings
+languagetechniques used
+python
+django rest framework
+reactjs
+jwt
+smtp
+skills used
+smtp
+jwt
+databases used
+sqlite database
+web cloud servers used
+google cloud platform
+what are the technical challenges faced during project execution
+the technical issues faced during the project is how to calculate the equity waterfall calculation for different tiers and different cases and also invite the sponsors by admin or sponsors invite their investors
+how the technical challenges were solved
+we have used conditional statements in code and write different codes for different calculations so that it will check which case we need to run and it will run accordingly
+added the functionality in which admin can invite the sponsors to the website and sponsors can invite their investor through sending the invitation link to their email
+project snapshots
+project website url
+httpsstacksharesiodashboardaddnewdeal
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+data analytics solution for the hospitality industry
+march  
+face recognition using deepface
+october  
+sentiment analysis bot for price prediction
+march  
+population and community survey of america
+august  
+load more
+recommended insights
+create a knowledge graph to provide realtime analytics recommendations and a
+trading bot for forex
+how does artificial intelligence affect the environment
+advanced ai for trading automation

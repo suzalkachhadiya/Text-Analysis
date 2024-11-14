@@ -1,0 +1,68 @@
+itle netclan
+source url httpsinsightsblackcoffercomoptimizethedatascraperprogramtoeasilyaccommodatelargefilesandsolveoomerrors
+
+
+home
+our success stories
+optimize the data scraper program to easily accommodate large files and solve
+client background
+client
+a leading tech firm in india
+industry type
+it services
+services
+saas services marketing services business consultant
+organization size
+
+project description
+building a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites multilateral banks state and local government agencies data aggregating websites etc
+our solution
+we had tried multiple solutions to prevent the program from running out of memory we used python pandas techniques to control the use of memory which worked for some files and did not work for others provided more solutions using vaex dask module and datatables
+project deliverables
+desired changes to the code and committing them to github
+tools used
+vscode
+python
+github
+slack
+languagetechniques used
+chunking
+dask dataframe
+vaex
+datatable
+python
+skills used
+cloud
+python
+time complexity
+what are the technical challenges faced during project execution
+system specs requirement was the main issue during this project because the ram available was too less and got used up quickly
+how the technical challenges were solved
+team viewer to use remote desktop which had higher specs would be sufficient enough to solve the problem
+business impact
+provided various techniques to solve memory issues
+suggested parallel programming to decrease the execution time by  making getting the tender data at a much faster rate
+project snapshots
+project website url
+httpsgithubcomtaiyoaiopentenderseu
+httpsopentendereu
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+gptocr api
+february  
+how does artificial intelligence affect the environment
+august  
+medical classification
+september  
+coronavirus effect on the hospitality industry
+april  
+load more
+recommended insights
+dashboard to track the analytics of the website using google analytics
+how voice search makes your business a successful business
+how is ai used to solve traffic management
+building an analytics dashboard with a pdf parsing pipeline for data

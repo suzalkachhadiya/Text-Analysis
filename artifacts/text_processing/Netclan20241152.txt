@@ -1,0 +1,78 @@
+itle netclan
+source url httpsinsightsblackcoffercommarketinganalyticstoautomateleadscallstatusandreporting
+
+
+home
+our success stories
+marketing analytics to automate leads call status and reporting
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+prepare a daily report for the companies and upload it to google sheets data is from callrail and contains all call information about a company
+project description
+extracts data from callrail database for the last  hours
+the data is uploaded to the google sheet call status record
+the script runs once a day and is deployed to heroku by the name callstatustosheets
+the script runs for all companies in the callrail database
+the following data is uploaded
+company name
+status
+location
+customer name
+call date
+call time
+contact no
+call status
+call lead
+our solution
+use callrail api to get data from database
+run script daily
+filter out excess data
+prepare report
+upload to google sheets
+project deliverables
+a working deployed automated tool that runs once a day in the morning hours and uploads the data to google sheets tool is monitored daily
+tools used
+heroku
+callrail api
+bigquery
+sheets api
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+google sheets    call status record
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+ensuring proper amendment of data to sheets without overwrite
+how the technical challenges were solved
+proper monitoring before final deployment
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+coronavirus impact on energy markets
+april  
+what patients like and dislike about telemedicine
+january  
+industrial revolution   pros and cons
+april  
+grafana dashboard  oscar awards
+july  
+load more
+recommended insights
+analyzing the impact of positive emotions and pandemic severity on mental
+get answers from structural equation modeling
+bank risk management in india
+gangalain ecommerce big data etl  elt solution and data warehouse

@@ -14,9 +14,10 @@ class TextExtraction:
         
         url_list=list(df["URL"])
         url_id_list=list(df["URL_ID"])
-
+        cnt=0
         for id, url in zip(url_id_list,url_list):
-            print(id,url)
+            cnt=cnt+1
+            print(cnt,id,url)
 
             response=requests.get(url,headers=HEADERS)
             html_content=response.text

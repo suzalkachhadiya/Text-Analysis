@@ -74,17 +74,17 @@ Face Recognition with Deepfills Framework – Deepface
 Development of EA Robot for Automated Trading
 AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy
 MOST POPULAR INSIGHTS
-Analytical solution for a tech firm
-July 26, 2023
-Grafana Dashboard – Oscar Awards
-July 8, 2023
-Sentimental Analysis on Shareholder Letter of Companies
-August 22, 2021
-Is telemedicine effective in treating patients?
-April 28, 2022
+AI-Driven Backend for Audio-to-Text Conversion and Analytical Assessment in Pharmaceutical Practice
+August 25, 2024
+Efficient Coach Allocation System for Sports Coaching Organization
+August 25, 2024
+Descriptive vs Inquisitive vs Predictive Analytics
+April 4, 2019
+How does marketing influence businesses and consumers?
+November 20, 2022
 Load more
 RECOMMENDED INSIGHTS
-Data science – Create Tailored algorithms
-Impact of COVID-19 pandemic on sports events around the world.
-Rise of Internet Demand and Its Impact on Communications and Alternatives...
-Power BI Data-Driven Map Dashboard
+Impact of news, media, and press on innovation, startups, and investments
+Will machine replace the human in the future of work?
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
+Sports Prediction Model for Multiple Sports Leagues

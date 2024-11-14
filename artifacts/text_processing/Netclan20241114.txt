@@ -1,0 +1,59 @@
+itle netclan
+source url httpsinsightsblackcoffercomincidentdurationpredictioninfrastructureandrealestate
+
+
+home
+our success stories
+incident duration prediction  infrastructure and real estate
+client background
+client
+a leading research institution in the middle east
+industry type
+research
+services
+rd
+organization size
+
+project objective
+to complete a research paper draft by training various machine learning models which can predict the incident duration based on various parameters given in the dataset and summarising the results
+project description
+given a set of researches need to analyse and compare various machine learning and deep learning models to predict the incident duration for the given dataset the dataset contained short durations as well as long durations build models for each set of durations compare and get the best out of all
+our solution
+here we had to predict the traffic incident duration with some machine learning tools and techniques ie xgboost svr and deep learning algorithm using tensor flow first two models were run on python interpreter whereas deep learning model was run on r studio all the three with the same dataset and then we had compared these models based on their mae mean absolute error initially we had done a preliminary analysis of the collected incident duration data to collect the statistical characteristics of all the variables used in our research
+project deliverables
+python script for each model
+documentation for research work
+tools used
+python interpreter
+languagetechniques used
+language used python
+libraries used pandas sklearn numpy keras pickle
+models used
+xgbregressor
+svr
+sgdregressor
+sequential
+decisiontreeregressor
+skills used
+programming statistical analysis
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+impacts of covid  on food products
+november  
+playstore  appstore to google analytics ga or firebase to google
+september  
+rise of cybercrime and its effect in upcoming future
+august  
+data integration and big data performance using elasticsearch
+july  
+load more
+recommended insights
+the impact of the metaverse on financial services
+algorithmic trading for multiple commodities markets like forex metals energy etc
+will ai replace us or work with us
+bertbased classification of individuals and organizations into two categories using natural

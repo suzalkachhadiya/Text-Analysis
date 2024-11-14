@@ -1,0 +1,71 @@
+itle netclan
+source url httpsinsightsblackcoffercomgoldenrecordaknowledgegraphdatabaseapproachtounfolddiscoveryusingneoj
+
+
+home
+our success stories
+golden record  a knowledge graph database approach to unfold discovery using
+client background
+client
+a leading retail firm in the usa
+industry type
+retail
+services
+retail business consumer services
+organization size
+
+the problem
+to use data ingested into neoj and use the nodes and relationships with its properties to determine which nodes are actually the same person for eg we have person nodes in the data now people might enter their names in different ways our main aim is to identify person nodes that may have similar data and are actually the same person this will be represented as a perfect match between the nodes this singleperson view is referred to as the golden record
+our solution
+till date we have loaded data into neoj and created relationships with score property which defines match strength we have created some criterias by which we can determine what constitutes two nodes being the same and then based on them created perfect match and probable match
+we have considered four properties for our criteria  full name address drivers license and passport number we have relationships between nodes for these properties with scores we use these in our perfect match and probable match creation
+we have also configured graphlytics a viz software in the virtual machine which connects to the neoj database and helps vizualize the nodes and relationships
+we have also worked on some algorithms using the gds library in neoj to produce more information on the graph the common neighbors algorithm was used to produce scores based on node similarity and the higher the score the higher the similarity other algorithms were tried as well but since all the properties are of string format it did not work on it
+we have resolved issues neoj is facing when deleting a large set of data and provided steps to recover neoj if it fails by going outofmemory
+we have figured out the issues with the probable and perfect match cypher queries not working as intended and proposed a solution
+solution architecture
+deliverables
+created perfect match and probable match queries
+created queries that return the nodes even if it does not have associated relationship and its associated relationship
+a cypher query that return the result as a json object that can be mapped into a java oject
+a cypher query that will create the relationship if two nodes properties  have same value
+a cypher query that will delete one relationship from bidirectional relationship
+a python code for a sample neoj query
+adjust the perfect and probable match queries so it would work for  current data
+tools used
+neoj
+languagetechniques used
+cypher query language
+models used
+the common neighbors algorithm
+skills used
+cql
+databases used
+neoj
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+why does your business need a chatbot
+september  
+qualtrics api integration using python
+august  
+impact of covid pandemic on tourism  aviation industries
+june  
+offpage seo
+september  
+load more
+recommended insights
+iot ai ml for machine tracking
+environmental impact of the covid pandemic  lesson for the future
+how small business can survive the coronavirus crisis
+react native apps in the development portfolio

@@ -1,0 +1,78 @@
+itle netclan
+source url httpsinsightsblackcoffercommarketingadsleadscallstatusdatatooltobigquery
+
+
+home
+our success stories
+marketing ads leads call status data tool to bigquery
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+prepare a daily report for the companies and upload it to bigquery database data is from callrail and contains all call information about a company
+project description
+extracts data from callrail database for the last  hours
+the data is uploaded to the bigquery database called callstatusfromcallrail
+the script runs once a day and is deployed to heroku by the name lsacallstatusdb
+the script runs for all companies in the callrail database
+the following data is uploaded
+company name
+status
+location
+customer name
+call date
+call time
+contact no
+call status
+call lead
+our solution
+use callrail api to get data from database
+run script daily
+filter out excess data
+prepare report
+upload to bigquery
+project deliverables
+a working deployed automated tool that runs once a day in the morning hours and uploads the data to bigquery database tool is monitored daily
+tools used
+heroku
+callrail api
+bigquery
+sheets api
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+bigquery   callstatusfromcallrail
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+ensuring proper data upload to database
+how the technical challenges were solved
+proper monitoring of tool postdeployment
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+amazon buy bot an automation ai tool to autocheckouts
+june  
+ml and aibased insurance premium model to predict premium to be
+january  
+how can big data  analytics change the healthcare sector in
+march  
+the workflow of a machine learning  artificial intelligence project
+january  
+load more
+recommended insights
+building a realtime log file visualization dashboard in kibana
+deploy nodejs app on a cloud vm such as gcp aws
+obstacles to datadriven healthcare
+modeling  simulation for drug development  formulation

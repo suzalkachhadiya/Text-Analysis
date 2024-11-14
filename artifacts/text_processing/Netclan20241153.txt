@@ -1,0 +1,74 @@
+itle netclan
+source url httpsinsightsblackcoffercomcallrailanalyticsleadsreportalert
+
+
+home
+our success stories
+callrail analytics  leads report alert
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+prepare an annual report for the companies and upload it to database data is from callrail and contains call analytics
+project description
+extracts data from callrail database for the last  year
+the data is uploaded to bigquery database leadreportalertcallrail
+the script runs once a year and is deployed to heroku by the name leadreportalert
+currently the script is programmed to run for only  companies on a trial basis  capital law firm and wilshire law firm
+the following data is uploaded
+company name
+no of calls answered
+no of calls missed
+no of calls abandoned
+no of calls to voicemail
+total calls
+our solution
+use callrail api to get data from database
+set time window to be one year
+filter out excess data
+prepare report
+upload to bigquery
+project deliverables
+a working deployed automated tool that runs once a year in the morning hours and uploads the data to bigquery tool is in prototype phase and hence is operational for  companies
+tools used
+heroku
+callrail api
+bigquery
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+bigquery   leadreportalertcallrail
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+working on a large amount of data since a years data contains hundred of thousands of records
+how the technical challenges were solved
+optimized code for faster processing
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+streamlining time calculation in warehouse management leveraging shiphero api and google
+march  
+big data  analytics to help voters know their political leaders
+march  
+how to secure ssl nginx with lets encrypt on ubuntu cloud
+august  
+roas dashboard for campaignwise google ads budget tracking using google ads
+august  
+load more
+recommended insights
+a leading hospitality firm in the usa website seo  optimization
+hr analytics dashboard
+design  develop bert question answering model explanations with visualization
+transforming the healthcare systems

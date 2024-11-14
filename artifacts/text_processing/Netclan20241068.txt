@@ -1,0 +1,71 @@
+itle netclan
+source url httpsinsightsblackcoffercomanetlsolutionforaninternetpublishingfirm
+
+
+home
+our success stories
+an etl solution for an internet publishing firm
+client background
+client
+a leading internet publishing firm in singapore and australia
+industry type
+internet publishing
+services
+peertopeer car sharing platform where you can rent a large variety of cars always nearby at great value
+organization size
+
+project objective
+fetch all call logs using zendesk api from drivelah server
+analyse call logs and  number of calls made by a particular phone number to company and fetch recent call timing
+project description
+we need to fetch last months call details from user to user calltime callstatus  using zendesk api
+then we need to analyse all call logs and need to identify the number of calls made by a particular user to the company and the most recent call timing from the company server
+our solution
+to fetch all call logs using zendesk api we used python language in programming when we checked call details in the zendesk api the details were in json format which is very tough to understand the calls details so first we have fetched only needed details call made from person to person and call timing converted into tabular format in tabular format it was easy to identify call details
+after that we need to identify the number of calls made by the user to the company in the last month  we used the python pandas module here which is very fast and effective to handle tabular data first we separated the user who made a call to the company last month and then counted each unique users call records for recent dates we used pythons datetime module which can easily identify recent date time
+project deliverables
+ python scripts
+for fetching call details and converting into table format
+for identifying number of calls made and recent call timing
+tools used
+vs code google drive and ms excel
+languagetechniques used
+python programming language data analytics with numpy and pandas python datetime
+skills used
+data analytics python mathematics
+databases used
+local data from ms excel sheet
+what are the technical challenges faced during project execution
+first one was the api data in json format with other unwanted data so it was a little difficult for us to identify the number of calls and other information from direct json data
+the date format in the api data is not appropriate for us  to handle because the date is  stored in string format it was difficult to compare dates with one another and identify recent ones
+how the technical challenges were solved
+for the first technical challenge we first took only useful details from apis json format and converted these details in tabular format in python we can easily handle tables with pandas dataframe and can apply whatever operation we want to collect details
+for the second one we know that it would be difficult to handle dates in string format so we first converted dates to a proper datetime format using pythons datetime module it has a lot of built in functionalities which can easily compare dates with one another  so from comparison we have identified recent dates of calls
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+the future of telehealth services
+april  
+autogpt setup
+may  
+monetization of data  innovate to harvest the full value of
+june  
+rising it cities and its impact on the economy environment infrastructure
+august  
+load more
+recommended insights
+impact of newly discovered coronavirus on the global economy
+rise of internet demand and its impact on communications and alternatives
+obstacles to datadriven healthcare
+interpret the coefficients in regression models

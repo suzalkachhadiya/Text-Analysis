@@ -1,0 +1,172 @@
+itle netclan
+source url httpsinsightsblackcoffercommarketingsalesandfinancialdatabusinessdashboardwinkreport
+
+
+home
+our success stories
+marketing sales and financial data business dashboard wink report
+client background
+client
+a leading retail firm in australia
+industry type
+retail
+services
+ecommerce retail business marketing
+organization size
+
+project objective
+bringing in data from many sourcesgoogle analytics  servicem and xero etc and making business dashboard kpis in wink report
+project description
+for building business dashboards in wink report  collect data from the following sources 
+servicem
+xero
+facebook
+google ads
+communiqa
+exploreanalyze the underlying data tables from each data source make useful reports using different tables from different data sources based on clients requirement set up formulas in each report to calculate desired fields add a custom visualization to each report for making dashlets add dashlets to newly created dashboards
+our solution
+for collecting the data from the sources servicem  xero  facebook  google ad native connectors have been used  available in the wink report it fetches the following datatables from around the given data sources 
+servicem connector 
+assets
+client
+invoices
+job allocations
+jobs
+materials
+payments
+xero connector 
+bank transaction items
+budget vs actual
+employees
+payments
+payslip
+products
+purchase orders
+purchase invoices
+sales invoices
+transaction
+facebook connector 
+facebook ad insights
+google ads connector 
+ad insights
+google analytics connector 
+ecommerce campaign
+totals
+data pipeline
+ for collecting data from communiqa website 
+httpswwwcommuniqacomau
+  web scraping has been used as there is no connector available for communiqa to wink report by scraping communiqa  we get the following data 
+account  date  total calls  total unanswered calls  total engaged calls  total answered calls  total minutes etc
+then  we have merged different tables from different sources to get desired reports store all reports belonging to the same dashboard in a separate folder do this for all the dashboard  then setup formula for calculating desired fields add appropriate visualization to each report for each folder then  finally add all dashlets belonging to the same folder to a newly created dashboard
+project deliverables
+below are the services that we provided to client after completion of this project 
+data pipelinecommuniqa to wink report
+  a data pipeline connecting communiqa to wink report to sync in the following data tables 
+csr calls account  date  total calls  total unanswered calls  total engaged calls  total answered calls  total minutes etc
+company performance dashboard
+ it contains following visualizations 
+kpis 
+sales this month
+leads booked today
+sales today
+revenue this month
+cash payment this month
+conversion rate
+open warranty jobs
+bar charts 
+scheduled jobs by category
+sales by month
+revenue by month
+tables 
+open jobs from last monthjob id  opened date  status invoice amount amount paid
+filtersslicer 
+date range
+job status
+date groupingdailymonthlyyearly
+lead generation dashboard
+
+kpis 
+total website traffic this month
+average daily website traffic this month
+no of conversion this month
+total marketing investment this month
+marketing budget tracking
+cost per acquisition
+line charts 
+link clicks and conversion by month
+total marketing spend by month
+bar chart 
+lead generation count by source
+pie chart 
+lead generation source by invoice amount
+filtersslicer 
+date range
+job status
+lead conversion dashboard
+
+kpis 
+all employees monthly sales target
+all employees monthly conversion rate
+filtersslicer 
+date range
+job status
+company leadstarget dashboard
+
+kpis 
+total hipages lead today
+total hipages lead this month
+total oneflare lead today
+total oneflare lead this month
+total google ads lead today
+total google ads lead this month
+total facebook ads lead today
+total facebook ads lead this month
+company daily sales target
+company monthly sales target
+filtersslicer 
+date range
+job status
+tools used
+wink report
+languagetechniques used
+python
+web scraping
+skills used
+data analytics
+data visualization
+programming in python
+data structure  algorithm
+web scraping
+file handling
+what are the technical challenges faced during project execution
+merging reports from different data sources
+ faced the issue of making the cross report from different data sources
+take live parameter input daily in dashboards from user
+ taking live user parameter input daily to feed in wink report dashboard so that dashboard kpis can change accordingly
+how the technical challenges were solved
+merging reports from different data sources
+ resolved this issue by using merge report configuration using this we were able to join tables from different data sources like  left join  right join  union etc
+take live parameter input daily in dashboards from user
+ to resolve this issue  we added a custom field in reports with input tag users can enter their parameter in this custom field and all dashlets in the dashboard would update automatically
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+onpage seo
+september  
+an agentbased model of a virtual power plant vpp
+september  
+elastic kibana specialist to create dashboard  visualization
+may  
+big data and analytics to help form political leaders win election
+april  
+load more
+recommended insights
+ai bot driven by graphdb neoj for a leading healthcare tech
+central school system logistics optimization
+role of big data in healthcare
+hr analytics dashboard

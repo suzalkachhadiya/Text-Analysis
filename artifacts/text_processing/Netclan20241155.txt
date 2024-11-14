@@ -1,0 +1,74 @@
+itle netclan
+source url httpsinsightsblackcoffercomdataetllocalserviceadsleadstobigquery
+
+
+home
+our success stories
+data etl local service ads leads to bigquery
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+upload daily data from google local service ads dashboard to bigquery database
+project description
+extracts data from lsa dashboard for the last  hours
+the data is uploaded to bigquery database lsaleaddailydata
+the script runs every morning and is deployed to heroku by the name leaddetailstodb
+the data is collected only for the companies that are not marked in red in the missed messages notification automation  master file sheet
+the following data is uploaded
+number of leads
+cost per lead
+lead type
+dispute amount to be approved
+dispute amount approved
+cost per call
+our solution
+use lsa api to extract data
+clean the data to make it readable and dispose the data not needed
+upload data to a bigquery database everyday at a fixed time
+deploy to heroku to run the script everyday
+project deliverables
+a working deployed automated tool that runs everyday in the morning hours and uploads a report to database tool is monitored everyday
+tools used
+heroku
+lsa api
+bigquery api
+sheets api
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+bigquery   lsaleaddailydata
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+making sure that the data uploaded is for the right company
+how the technical challenges were solved
+monitoring daily logs and uploads for some time and making sure data was correct
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how will ai make decisions in tomorrows wars
+july  
+what is the repercussion of the environment due to the covid
+june  
+google lsa ads google local service ads  etl tools and
+july  
+nft data automation looksrare and etl tool
+may  
+load more
+recommended insights
+how prepared is india to tackle a possible covid outbreak
+automation etl data pipeline from mongodb to kibana elasticsearch
+the metaverse and its implications for our digital future
+advance analytics for refocusing profits

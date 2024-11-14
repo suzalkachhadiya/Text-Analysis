@@ -1,0 +1,59 @@
+itle netclan
+source url httpsinsightsblackcoffercompythonmodelfortheanalysisofsectorspecificstocketfsforinvestmentpurposesefbfbc
+
+
+home
+our success stories
+python model for the analysis of sectorspecific stock etfs for investment purposes
+client background
+client
+a leading investment firm in the usa
+industry type
+finance
+services
+investment consulting
+organization size
+
+the problem
+have an existing python model that has been built for the analysis of sectorspecific stock etfs for investment purposes need to update the existing selection criteria to adjust the selection filter and add a screening criterion that drops off one or more of the proposed holdings and to have the ability to adjust the parameters of the selection criteria to test different variables
+our solution
+the  in  fundamental model screens a fundamental ranking of stock market sectors picks the top ranked holding and continues to hold that sector as long as it remains in the top four rankings  the model holds two positions at a time  the sector ranking data is in the wcmxlxs file  we input data from the pricescsv file to pull up monthly returns  when i go to run the program i use the innewpy and that give me the current rankings for both the fundamental and technical rankings
+sometimes a sector is ranked as being fundamentally attractive because it has become cheaper because of problems going on within an industry  what i would like to do is to test out a way of screening out a sector based upon poor performance over a lookback period  here is what the new model would do
+screen for a the specific number of sectors probably between three and five based upon the fundamental ranking over an average time period currently  weeks
+choose either three four or five holdings
+exclude the holding that has the weakest performance over a specify lookback period lets start with  weeks but i would like to be able to adjust this variable
+compare the performance of various combinations seeing the return on an annual basis if possible as well as showing the maximum drawdown
+solution architecture
+deliverables
+an updated optimised python script that will filter and return technical and financial holdings with a price filter that will do price analysis on a certain lookback period
+tools used
+numpy
+pandas
+itertools
+combinations
+permutations
+languagetechniques used
+python
+business impact
+the client now can get more than  financial and technical holdings  up to maximum  holdings for both technical and financial plus the holdings were more accurate because of the new added price filter that will exclude the holding that has the weakest performance over a specify lookback period default  weeks it boosted the clients profit because of the more accurate and optimised functional filters
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how telehealth and telemedicine helping people to fight against covid
+april  
+rise of ehealth and its impact on humans by the year
+january  
+immigration datawarehouse  aibased recommendations
+september  
+marketing mix data analysis
+april  
+load more
+recommended insights
+automate the data management process
+how big data and analytics is shaping tomorrow for marketing leaders
+accounts payables analytics
+nft data automation looksrare and etl tool

@@ -1,0 +1,72 @@
+itle netclan
+source url httpsinsightsblackcoffercomnftdataautomationlooksrareandetltool
+
+
+home
+our success stories
+nft data automation looksrare and etl tool
+client background
+client
+a leading tech firm in the usa
+industry type
+it services
+services
+blockchain nft
+organization size
+
+project objective
+to scrape all the desired information regarding the nfts from a website and store them in a database to be accessed later on
+project description
+matthew brown  extract all events all time from this
+httpslooksrareorgexploreactivity
+ we can then pay you weekly to keep them up to date you can choose any technology you like as long as its updated into an sql database additional tasks may be to make an alert or dashboard from data later access api when it becomes available
+our solution
+we provided a robust solution which returned the nft data every  hours into the google big query database to do this we used selenium web driver to scrape all events as the website was dynamic and did not have a format data structure to scrape data using ajax post calls after automating the scarper the data was manipulated and constructed into a desired format into pandas dataframe which was later used to push the dataframe into the google big query database using google cloud api and credentials the data was getting collected every day and about m distinct rows were created
+project deliverables
+webcrawler and database
+tools used
+python
+selenium
+gbq
+languagetechniques used
+python
+selenium web scraper
+pandas
+google big query
+parallel processing
+databases used
+sql
+google bigquery
+web cloud servers used
+google bigquery
+what are the technical challenges faced during project execution
+the only technical challenge faced during this project was that the website used to keep changing the elements on their webpage and used to cause error though it did not use to happen regularly it happened  times in  weeks also ajax calls were not proper
+how the technical challenges were solved
+identifying the elements solved the issue also remote access to a better desktop enabled me to keep working as well as keep the code running all the time
+business impact
+supplied upto  million rows data regarding nfts
+provided a python solution with optimal functions and code to be used and automate them to save the data into a database on a daily basis
+caused a huge influx of data which can be used to make many insightful decisions regarding the nft market
+project snapshots
+project website url
+httpslooksrareorgexploreactivity
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+efficient aws infrastructure setup and management addressing security scalability and compliance
+march  
+how advertisementmarketing affects business
+november  
+new jersey based micro business sentiment analysis
+august  
+aidriven data analysis ai tool using langchain for a leading real
+march  
+load more
+recommended insights
+ai and nlpbased solutions to automate data discovery for venture capital
+is telemedicine effective in treating patients
+what is the limitation of elearning classes
+analyzing the impact of positive emotions and pandemic severity on mental

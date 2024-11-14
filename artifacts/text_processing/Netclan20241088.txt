@@ -1,0 +1,85 @@
+itle netclan
+source url httpsinsightsblackcoffercomrankingcustomerbehavioursforbusinessstrategy
+
+
+home
+our success stories
+ranking customer behaviours for business strategy
+client background
+client
+a leading retail firm in the usa
+industry type
+retail
+services
+retail business
+organization size
+
+the problem
+create an api service that will parse text include comments analyse the remarks assign a score based on sentiment or other criteria etc feed it comments and it should analyse the syntax and sentiment of the comments as well as extract key terms to add to the extended meta data of that model in order for us to know a users behaviour personal information and more meta data about their interests
+our solution
+created a flask api that will take comments as input and will textual analysis as follows
+spell and grammar check
+ we have used
+language tool python
+for this 
+languagetool
+is an opensource grammar tool also known as the spellchecker for openoffice this library allows you to detect grammar errors and spelling mistakes through a python script or through a commandline interface
+sentimental analysis
+ for sentimental analysis we used flair flair is a pretrained embeddingbased model this means that each word is represented inside a vector space words with vector representations most similar to another word are often used in the same context this allows us to therefore determine the sentiment of any given vector and therefore any given sentence
+keywords extraction
+
+for keywords extraction we used
+spacy
+which is newer than nltk or scikitlearn is aimed at making deep learning for text data analysis as simple as possible the following are the procedures involved in extracting keywords from a text using spacy
+split the input text content by tokens
+extract the hot words from the token list
+set the hot words as the words with pos tag 
+propn
+ 
+adj
+ or 
+noun
+ pos tag list is customizable
+find the most common t number of hot words from the list
+solution architecture
+deliverables
+commentscoringapi that will take commentsreviews as input and do the textual analysis on the given comment and will return the comment score based on counts of spell and grammar errors sentiments hot keywords
+tools used
+numpy
+
+pandas
+
+flask
+
+nltk
+
+spacy
+keyword extraction
+language tool python
+spell and grammar check
+flair
+sentimental analysis
+languagetechniques used
+python
+business impact
+client have a user schema that contain all the information of users that have visited there platform and heshe want to build a script that will take all the reviews of a certain user as input and than will do textual analysis on all the comments of the user  by textual analysis we mean spell and grammar check sentimental analysis and keywords extraction based on these factors our script scored each user and helped client to understand hisher users well
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+auctions data automation collection etl and management
+may  
+will machine replace the human in the future of work
+june  
+autogpt setup
+may  
+traction dashboards of marketing campaigns and posts
+september  
+load more
+recommended insights
+streamlined integration interactive brokers api with python for desktop trading application
+steps to convert a nodejs api to python for aws lambda
+global financial crisis  causeseffects and its solution
+population and community survey of america

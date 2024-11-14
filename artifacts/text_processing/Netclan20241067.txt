@@ -1,0 +1,75 @@
+itle netclan
+source url httpsinsightsblackcoffercomaiandnlpbasedsolutionstoautomatedatadiscoveryforventurecapitalandprivateequityprincipals
+
+
+home
+our success stories
+ai and nlpbased solutions to automate data discovery for venture capital and
+client background
+client
+a leading venture capital and private equity principals in the globe
+industry type
+venture capital and private equity principals
+services
+private equity venture capital data analysis fund performance alternative assets competitive intelligence limited partners customized benchmarks service providers fund of funds ma and financial services
+organization size
+
+the problem
+extract fundingrelated data from news articles from  websites such as company name funded amount participated investors and other details
+create a web app to manage the extraction of funding  data
+our solution
+there were  websites from fundingrelated articles so we couldnt make a crawler for each website so we used an inbuilt web crawler provided by elasticsearch when we have extracted articles then we need to extract funding related information company name fund amount and investors participated etc then we decided to use nlps questionanswering method in which we need to train transformers to extract fundingrelated information first we have created some keywords based approaches to create labels for each field we need to extract to train models after that we have trained distil bert model on labelled data on aws ecs gpu server we applied this approach for all the fields we need to extract we got  accuracy for the company name field and for other fields we got  accuracy
+to manage and view all the fields of extracted funding data we created a web app using python flask in this we created several pages to show extracted raw data by crawler  cleaned data after applying some cleaning functions and final output which have all the fields  we also created admin dashboard pages to show daily crawling status how many articles processed in one day total final output etc
+solution architecture
+deliverables
+flask web app
+elasticsearch crawler
+tools used
+flask spacy nltk pandas numpy transformers elasticsearch etc
+languagetechniques used
+question answering in nlp web scraping web application flask python
+models used
+distilbert model encorewebsm pre trained model of spacy
+skills used
+nlp data analysis flask web app pandas numpy transformers fastapi elasticsearch etc
+databases used
+elasticsearch database
+web cloud servers used
+aws
+what are the technical challenges faced during project execution
+the client wanted to extract data from  different websites and if we make any crawler it only works for one website so it was not possible to create a  web crawler
+how to extract funding information from an article it is very difficult to extract that type of information from normal python code by defining keywords because every website has different types of articles
+how the technical challenges were solved
+to solve web crawlerrelated issues we used elasticsearch web crawler which is very fast and can extract multiple websites at a time in this we need to create an engine and add websites that we want to scrape after that we added some keywords to extract only fundingrelated articles we set up this crawler to run every hour so we can get new articles every hour
+to extract fundingrelated information we collected articles from different websites and created labels for each field we wanted to extract after that we have finetuned the transformers distilbert model on our labeled data  we used these models to extract fundingrelated information we also created an automated python script that uses these model on every extracted article and extracts fundingrelated information
+business impact
+this fundingrelated data would be used in two ways from this project companies can find suitable investors for their startups companies can search for investors based on industry verticals etc and find investors to help their startups
+investors can use it to find a startup in which they want to invest based on their preferences like industry verticals etc
+project snapshots minimum  pictures
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how political leaders will shape tomorrow using big data  analytics
+april  
+why does your business need a chatbot
+september  
+payroll analytics
+october  
+how to connect a domain and install wordpress on microsoft azure
+february  
+load more
+recommended insights
+design  develop an app in retool which shows the progress
+business analytics in the healthcare industry
+sports prediction model for multiple sports leagues
+coronavirus effect on the hospitality industry

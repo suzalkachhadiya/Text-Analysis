@@ -1,0 +1,62 @@
+itle netclan
+source url httpsinsightsblackcoffercompowerbidashboardtodriveinsightsfromcomplexdatatogeneratebusinessinsights
+
+
+home
+our success stories
+power bi dashboard to drive insights from complex data to generate business
+client background
+client
+a leading marketing firm in the usa
+industry type
+market research
+services
+marketing consultancy
+organization size
+
+project description
+phase   in this project first of all we have made heatmap between two columns named author and data source then after two combining two tables named nydata and nodeidviews made the report of all of the data
+phase   success of story was given by if pageviews is more than  if pageviews lies between  the story was labelled as needs improvement and if it was below  the story was labelled as failure
+phase   the powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart time series chart comparison charts the data is updated every week and the report is generated automatically
+our solution
+we provided them phase  in the powerbi sql editor by combining two tables using sql queries for phase  we just used the power bi program tool and written a script in python to calculate the success of story for phase  we used the internal features of power bi to find insights of the data
+project deliverables
+we have provided a powerbi report file as deliverable for the project
+tools used
+python powerbi google chrome
+languagetechniques used
+python programming and sql queries editor
+models used
+waterfall model used in this project
+skills used
+data cleaning data preprocessing data visualisation are used in this project
+databases used
+we have used the traditional file systems as database storage
+what are the technical challenges faced during project execution
+drawing heatmap in the powerbi
+combining two tables on the basis of the pageviews
+converting the time series to data to  minute format
+how the technical challenges were solved
+we installed a new add on in the powerbi to draw heatmap for the project and used the sql editor to combine the tables on the basis of page views we used python programming to convert the time series data to  minute time gap format
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+an ai mlbased web application that detects the correctness of text
+july  
+statistical data analysis of reinforced concrete
+february  
+realtime video analytics
+april  
+easy database access
+june  
+load more
+recommended insights
+deploy nodejs app on a cloud vm such as gcp aws
+an outlook of healthcare by the year  and how it
+python automation tool api cronjob
+microsoft azure chatbot with luis language understanding

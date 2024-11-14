@@ -1,0 +1,109 @@
+itle netclan
+source url httpsinsightsblackcoffercomroasdashboardforcampaignwisegoogleadsbudgettrackingusinggoogleadsap
+
+
+home
+our success stories
+roas dashboard for campaignwise google ads budget tracking using google ads ap
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+create a roasing dashboard to fetch google ads budget spent data using google ads apicampaignwise the challenge is to develop a roas return on ad spend dashboard that efficiently retrieves and displays google ads budget spent data on a campaignwise basis using the google ads api the current system lacks a streamlined method for tracking and analyzing ad spend across various campaigns leading to difficulties in assessing performance and optimizing budget allocation the goal is to create a comprehensive dashboard that accurately fetches and visualizes budget data enabling more effective analysis and decisionmaking this involves integrating with the google ads api ensuring data accuracy and providing clear actionable insights for better campaign management
+o mini
+our solution
+get data source access
+a google ads accounts
+get access to google cloud platform
+a bigquery
+b vm
+setup google big query data warehouse
+design db schema  models
+develop python etl tool to pull data from source and save it to the data warehouse
+deploy etl tool to vm and run it as cron to update data at db frequently
+a check frequency to run
+b recommended  to  times a day
+c the etl tool should run automatically at the set intervals and update the db
+d add slack integration module for notifications on cronjob failure
+get design access of the dashboard
+implement the dashboard
+a use vuexy react template
+b list kpi to display in ui
+c list charts to display in the ui
+implement backend api needed to build the dashboard
+solution architecture
+httpsdrivegooglecomfiledygypswioqnreeomanzktanbwveanviewuspsharing
+deliverables
+etl tool
+dashboard
+documentations
+source codes
+support and maintenance
+tech stack
+tools used
+vs code
+digital ocean
+languagetechniques used
+python
+google big query
+google cloud platform
+google ads
+api
+reactjs
+nodejs
+github
+models used
+python libraries pandas
+skills used
+data scientist
+full stack developer
+databases used
+mysql
+web cloud servers used
+digital ocean
+what are the technical challenges faced during project execution
+getting the google ads campaigns data
+how the technical challenges were solved
+used the google ads apis
+project snapshots
+project website url
+httpsroasingcom
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rise of electric vehicle and its impact on livelihood by the
+august  
+how to overcome your fear of making mistakes
+august  
+efficient aws infrastructure setup and management addressing security scalability and compliance
+march  
+methodology for database discovery tool using openai llma langchain
+february  
+load more
+recommended insights
+how does artificial intelligence affect the environment
+resume matching  skill ranking for a leading it firm in
+ai and mlbased youtube analytics and content creation tool for optimizing
+ai ml and iot driven entry management and monitoring

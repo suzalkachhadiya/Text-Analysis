@@ -1,0 +1,90 @@
+itle netclan
+source url httpsinsightsblackcoffercomaibotaudiotoaudio
+
+
+home
+what we do
+ai bot audio to audio
+table of contents
+application architecture
+installation
+running the project
+file descriptions
+application architecture
+below is the overview of the architecture for an ai audiotoaudio chatbot application leveraging openai whisper and elevenlabs texttospeech tts api
+physical input voice recording
+the user provides a spoken input through a microphone
+pyaudio library is used to record the audio input saving it as a wav file
+transcribe
+the recorded wav file is fed into openai whisper for speechtotext transcription
+gpt turbo
+the transcribed text is passed to gpt turbo a large language model finetuned for various tasks
+gpt turbo generates a response text based on the input
+display response
+the generated response text is displayed for the user to read
+speech synthesis
+the response text is sent to elevenlabs tts api for texttospeech synthesis
+the api synthesizes the text into an audio file which can be in wav or mp format
+play the response audio
+the synthesized audio file is played back for the user to hear
+installation
+follow these steps to install and set up the project
+clone the repository
+git clone httpsgithubcomajaybidyarthyaibotaudiotoaudiogit
+navigate to the project directory
+cd aibottoaudio
+create a python virtual environment
+python m venv venv
+if youre using python x and the python command doesnt work try python instead
+activate the virtual environment
+on windowsvenvscriptsactivate
+on macos and linuxsource venvbinactivate
+install dependencies
+pip install r requirementstxt
+running the project
+follow these steps to run the project
+create a env file
+copy the content from the envexample file and create a new env file in the project directory populate the env file with the necessary api keys and configuration variables
+run the frontend
+python displaypy
+run the backend application
+python mainpy
+start the conversation
+once both the frontend and backend are running you can start speaking into the microphone the conversation will be displayed on the frontend interface
+clear conversation and start afresh
+if you want to clear the conversation and start a new one simply click the new conversation button on the frontend interface
+enjoy your conversation
+youre all set to interact with the project have fun chatting
+file descriptions
+heres a brief description of the files in the project
+recordpy
+this file contains functions to record audio input from the user through a microphone
+mainpy
+contains functions for the main backend operations of the application
+includes functions for transcribing audio to text using openai whisper base model speech to text
+also contains functions for generating response text from openai gpt model
+utilizes elevenlabs api for texttospeech synthesis and playback of the audio response
+displaypy
+code for the taipy frontend of the application is implemented in this file
+it handles the user interface and interaction with the backend components
+source codes httpsgithubcomajaybidyarthyaibotaudiotoaudio
+related articles
+more from author
+face recognition with deepfills framework  deepface
+development of ea robot for automated trading
+ai and mlbased youtube analytics and content creation tool for optimizing subscriber engagement and content strategy
+most popular insights
+aidriven backend for audiototext conversion and analytical assessment in pharmaceutical practice
+august  
+efficient coach allocation system for sports coaching organization
+august  
+descriptive vs inquisitive vs predictive analytics
+april  
+how does marketing influence businesses and consumers
+november  
+load more
+recommended insights
+impact of news media and press on innovation startups and investments
+will machine replace the human in the future of work
+power bi dashboard on operations transactions and marketing data embedding the
+sports prediction model for multiple sports leagues

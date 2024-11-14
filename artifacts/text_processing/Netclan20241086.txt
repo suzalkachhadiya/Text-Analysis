@@ -1,0 +1,58 @@
+itle netclan
+source url httpsinsightsblackcoffercomkpidashboardforaccountants
+
+
+home
+our success stories
+kpi dashboard for accountants
+client background
+client
+a leading accounting firm in the usa
+industry type
+finance and accouting
+services
+accounting and financial services
+organization size
+
+project objective
+the objective of the project was to create a simple and easytouse dashboard for the accounting firm tech  accountants to track their highest performers target number of clients current week sales tickets customer satisfaction leads conversion company records and finances
+project description
+our client andrew lassise wanted a kpi dashboard for tech  accountants that would help them track their business performance easily the dashboard needed to have various charts and tables that would display important kpis in a visually appealing manner
+our solution
+to achieve our clients objectives we used google data studio and google sheets to create a visually appealing and easytouse kpi dashboard we created various charts and tables that displayed the kpis that our client wanted to track we used google sheets to store the data and created visualizations using data studio
+project deliverables
+we delivered a kpi dashboard for tech  accountants that included charts and tables for tracking the highest performers target number of clients current week sales tickets customer satisfaction leads conversion company records and finances
+tools used
+google data studio and google sheets
+skills used
+data analytics
+what are the technical challenges faced during project execution
+there were no major technical challenges faced during the project execution as the data was stored in google sheets and data studio allowed us to easily create visualizations using the data
+how the technical challenges were solved
+no major technical challenges were encountered and the project was completed smoothly
+business impact
+the kpi dashboard that we created for tech  accountants allowed them to track their business performance easily and make informed decisions the dashboard helped them identify areas where they needed to improve and make changes to their business strategy accordingly
+project snapshots
+project website url
+httpslookerstudiogooglecomureportingfbfabecbbdbfpagehmgc
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+aws lex voice and chatbot
+january  
+the impact of the metaverse on financial services
+february  
+aibased algorithmic trading bot for forex
+july  
+auctions data automation collection etl and management
+may  
+load more
+recommended insights
+what is the limitation of elearning classes
+will ai replace us or work with us
+how covid is impacting payment preferences
+gaming disorder and effects of gaming on health

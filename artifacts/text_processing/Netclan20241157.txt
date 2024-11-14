@@ -1,0 +1,102 @@
+itle netclan
+source url httpsinsightsblackcoffercomstocktwitsdatastructurization
+
+
+home
+our success stories
+stocktwits data structurization
+client background
+client
+a leading financial institution in the usa
+industry type
+financial services  consulting
+services
+financial consultant
+organization size
+
+project objective
+to process two json file stocktwitslegacymsgtxt file size   gb  stocktwitslegacymsgtxt file size   gb
+to handle nested json for both files and after conversion into one merged data frame need to perform data structurization
+while accessing a json file in jupyternb i need to perform chunking as the file size is bigger and it is in json format to avoid pc standstill
+after data preprocessing i need to perform exploratory data analysis on that data
+ conditional programming to deal with data transferring to a particular folder based on the column values
+project description
+during the training period i was involved with  live projects one project named stocktwits data structurization in which i have to process huge json data which was already obtained the size of data was nearly  gb need to process the data by chunking with chunk size   rows at a time the file has nested json data within its attributes so abstracts data from the nested columns into a new dataframe completed handling complex nested json formed columns abstracted from nested json then need to handle the missing data by mapping it with another index dataset further missing values for certain attributes were handled by mean value and  substitution this task involves numerous pandas operations along with multiple python functions further done exploratory data analysis on the cleaned dataset finding correlation matrix and plotting certain seaborn graphs between strong correlated attributes
+our solution
+worked on accessing json data done tree analysis on json sample data
+both the file was too big for reading and applying some python code in jupyternb so performed chunking of stocktwitslegacymessagestxt  with chunk size   rows at a time similarly trying for the other file
+created a list of all the chunked files of json data  concat all the files in that list
+the file has nested json data within its attributes so abstracted data from the nested columns into a new dataframe completed handling complex nested json formed columns abstracted from nested json
+renamed the columns with identification eg id as entitiesid likewise for others so that while merging the data doesnt create any issue completed forming preprocessed csv file for st json file which  outputcsv
+for second file size was  gb so splitted the file into ten parts and then individually solved nested json for all these parts like done in the st file finally concat them into one then handled columns arrangements and removed unwanted columns and finally removed dictionary representation from entitysentiments column completed forming preprocessed csv file for nd json file which is outputstocktwitscsv
+the cleaned dataset finding correlation matrix and plotting certain seaborn graphs between strong correlated attributes further done exploratory data analysis on the cleaned dataset finding correlation matrix and plotting certain seaborn graphs between strong correlated attributes conditional programming to deal with data transferring to a particular folder based on the column values
+project deliverables
+categorized preprocessed csv files
+python script
+ipython nb with comments on each performed code
+tools used
+ jupyter notebook
+ anaconda
+ notepad
+ sublime text
+ brackets
+ jsonviewer
+languagetechniques used
+ python programming
+models used
+my project stocktwits data structurization developed with a software model which makes the project high quality reliable and cost effective
+ software model  radrapid application development model model
+ this project follows a rad model as our model is not forming the loop from end to the start also my project was based on prototyping without any specific planning in the rad model there is less attention paid to the planning and more priority is given to the development tasks it targets developing software in a short span of time
+ advantages of rad model
+o changing requirements can be accommodated
+o progress can be measured
+o iteration time can be short with use of powerful rad tools
+o productivity with fewer people in a short time
+o reduced development time
+o increases reusability of components
+o quick initial reviews occur
+o encourages customer feedback
+o integration from very beginning solves a lot of integration issues
+skills used
+ data mining
+ data wrangling
+ data visualization
+ python programming including oops and exception handling
+databases used
+no databases were used all the data was stored on google drive and local device
+web cloud servers used
+no cloud server were used
+what are the technical challenges faced during project execution
+ handling huge data and data cleaning
+ json data serialization
+ solving complex nested json among the data provided
+how the technical challenges were solved
+ handling huge data and data cleaning
+solved by breaking the dataset into  stream parts as the data was too huge and was not able to read easily in jupyter nb
+ json data serialization
+solved by data chunking with chunksize which means serialization of data with processing  rows at a time
+ solving complex nested json among the data provided
+viewed the structure of the part of data in json viewer then changed the data in proper standard json format after reading json data performing normalization of nested json data setting maximum level of normalization with specifying proper orient form then after normalization remaining unsolved nested json was solved using dictionary conversions and structuring the data
+project snapshots
+figure  sample input dataframe after converting outer json
+figure  sample output dataframe after solving nested json and data preprocessing
+related articles
+more from author
+ai and mlbased youtube analytics and content creation tool for optimizing subscriber engagement and content strategy
+enhancing frontend features and functionality for improved user experience and dashboard accuracy in partner hospital application
+roas dashboard for campaignwise google ads budget tracking using google ads ap
+most popular insights
+impact of newly discovered coronavirus on the global economy
+april  
+face recognition using deepface
+october  
+website tracking and insights using google analytics  google tag manager
+july  
+analyze fraudulent call data with stream analytics and visualize results in
+march  
+load more
+recommended insights
+rise of ehealth and its impact on humans by the year
+qualtrics api integration using python
+aws quicksight reporting dashboard
+why does your business need a chatbot

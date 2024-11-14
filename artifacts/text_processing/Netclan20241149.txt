@@ -1,0 +1,79 @@
+itle netclan
+source url httpsinsightsblackcoffercomgooglelocalserviceadslsadatawarehouse
+
+
+home
+our success stories
+google local service ads lsa data warehouse
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+automated tool to extract daily review data from local service ads dashboard for all clients
+project description
+extracts data from a companys google lsa page for the last  hours
+the data is uploaded to the bigquery database called lsareviewdb
+the script runs once a day and is deployed to heroku by the name lsadailyreviews
+the script runs for all companies in the google sheet lsa review automation master file
+the following data is uploaded
+date
+company name
+location
+total reviews
+verified reviews
+overall star
+reviewer name
+review date
+reviewer star
+reviewer comment
+our solution
+get list of companies to monitor along with their lsa url
+use selenium automated browsing to open the review page for each company
+web scrape the data from the review page
+prepare report
+upload to database
+project deliverables
+an automated tool that runs daily and extracts and uploads review data for all companies
+tools used
+selenium
+heroku
+sheets api
+bigquery
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising web scraping
+databases used
+bigquery   lsareviewdb
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+using selenium to automate web browsing since it takes a large amount of ram
+how the technical challenges were solved
+using the proper type of dynos and managing their allotment to lower both costs as well as memory usage
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how does big data help in finance and the growth of
+july  
+text summarizing tool to scrape and summarize pubmed medical papers
+february  
+understanding the millennial market
+april  
+ai and nlpbased solutions to automate data discovery for venture capital
+july  
+load more
+recommended insights
+evaluating logistic regression models
+data studio dashboard with a data pipeline tool synced with podio
+grafana dashboard to visualize and analyze sensors data
+is big data the same as ai

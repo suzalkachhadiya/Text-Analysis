@@ -1,0 +1,105 @@
+itle netclan
+source url httpsinsightsblackcoffercomrecommendationengineforinsurancesectortoexpandbusinessintheruralarea
+
+
+home
+our success stories
+recommendation engine for insurance sector to expand business in the rural area
+client background
+client
+a leading insurance firm in the globe
+industry type
+insurance
+services
+saas products insurance
+organization size
+
+project objective
+develop the recommendation engine
+itembased collaborative filtering based on the use case of the project
+work on streaming data platform ie bangdb
+data generation for testing the platform
+project description
+bangdb is the platform that manages the static data stored on the cluster and also works with live streaming data as hadoop does wherever the bangdb is able to manage machine learning model deployment with their inbuilt parameter and hyper tuning parameters for each model
+streaming data from the client which relates to the customer details and the numbers of products offered by the client on their platform such as insurance loans business loans and personal loans mobile recharge upi transactions done by their platform etc
+they wanted the recommendation of other services provided by them to each of their customers who are using their platform
+our solution
+this project module develops according to the clients requirements which involves itembased collaborative filtering based on customer behaviour firstly classify the customers into various segments on the basis of age location gender and product usage on the basis of rfm marketing tactics to classify the customer on the basis of their purchase history amount spend and frequency of usage of product classify them and recommend them the other services based on itembased collaborative filtering
+we generated the synthetic data  million events for the testing of the recommendation model and its accuracy for recommending the other products to customers
+project deliverables
+   kpi of the customers
+   recommendation model
+   graph databased model
+   data generation code based on python using copulabased on pytorch
+tools used
+bangdb tool ml ai nosql database supported
+graph databased
+google colab data file generation
+tableau for data visualization
+languagetechniques used
+linux cloud machine
+python
+graph database
+data visualization tools
+models used
+k means model for clustering
+recommendation engine model
+collaborative based filtering model
+skills used
+ machine learning
+ nosql database
+ graph database
+ data generation using python
+ linux
+ data visualization
+databases used
+ bangdb
+ graph database
+ microsoft mysql server
+web cloud servers used
+aws cloud service
+what are the technical challenges faced during project execution
+decide the recommendation engine based on the use case
+finding the rfm score and classifying the customers into clusters
+graph model to define the relations of customers with each service which they are using
+synthetic data generation million events and around  gb structured data
+how the technical challenges were solved
+itembased collaborative filtering solves the issue of recommendation because we are dealing with almost   services
+clustering of customers based on their similarities
+measure the rfm score and group and classify them based on their scores
+graph database provides to reduce complexity and increase the processing speed
+data generation is one of the difficult tasks and generating relational data across  different streams using copula and uuid python library function which is based on pytorch
+business impact
+it is qualitative and quantitative impact on economically where customers are a direct impact of these projects in their life
+it is suggesting to the customers what services they have to utilize from the provider and this is a direct impact of the product on the customers
+product is providing the action statement of the usage of services by the customers and impacts them economically as well
+the scope impact of product service is nationwide or statewide
+to provide these impactfull services there is a tech team of blackcoffer behind it
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+design and develop retool app for wholecellio and asana data using
+august  
+data engineering and management tool airbyte with custom data connectors to
+february  
+rise of cybercrime and its effect in upcoming future
+august  
+impress with a modern website
+april  
+load more
+recommended insights
+google local service ads lsa data warehouse
+ocr optical character recognition
+rising it cities and its impact on the economy environment infrastructure
+how small business can survive the coronavirus crisis

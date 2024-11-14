@@ -54,15 +54,15 @@ Face Recognition Using DeepFace
 MOST POPULAR INSIGHTS
 GPT/OCR API
 February 27, 2024
-Coronavirus impact on energy markets
-April 28, 2020
+How does artificial intelligence affect the environment
+August 23, 2020
+Medical Classification
+September 16, 2022
 Coronavirus: Effect on the Hospitality Industry
 April 30, 2020
-Azure Data Lake and Power BI Dashboard
-January 16, 2022
 Load more
 RECOMMENDED INSIGHTS
-Marketing Analytics to Automate Leads Call Status and Reporting
-Rise of OTT platform and its impact on entertainment industry by...
-How Metaverse is Shaping the Future?
-Statistical Data Analysis of Reinforced Concrete
+Dashboard to track the analytics of the website using Google Analytics...
+How Voice search makes your business a successful business.
+How is AI used to solve traffic management?
+Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...

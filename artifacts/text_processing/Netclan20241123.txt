@@ -1,0 +1,69 @@
+itle netclan
+source url httpsinsightsblackcoffercommetabridgesapidecentralandintegration
+
+
+home
+our success stories
+metabridges api decentraland integration  ar vr
+client background
+client
+a leading tech firm in the usa
+industry type
+it
+services
+consulting software blockchain metaverse
+organization size
+
+project objective
+to integrate with metaverse environments with the help of ec s bucket and the decentraland sdk
+project description
+move d model files from ec instance to s bucked using awssdk
+our solution
+configure  s bucket in aws account create an user for s bucket api keys and
+api secret put the api key aapi secret bucket name and bucket region in
+environment variable to use them in app install awssdk to implement s bucket
+create a function to send file from nodejs server to s bucket
+project deliverables
+aws ec instance credentials s bucket credentials code used in the project
+tools used
+vs code editor git bash terminal google chrome web browser  metamask wallet cryptocurrency blockchain bitcoin  metamask metaverse vr ar virtual reality augmented reality
+languagetechniques used
+javascript language is used  metamask wallet cryptocurrency blockchain bitcoin  metamask metaverse vr ar virtual reality augmented reality
+models used
+dcl sdk decentraland sdk for nodejs awssdk awscli
+skills used
+node js project setup dcl sdk setup aws ec instance setup with aws cli
+s bucket connection with awssdk cryptocurrency blockchain bitcoin metamask metaverse vr ar virtual reality augmented reality
+databases used
+no database is used
+web cloud servers used
+aws cloud server is used
+what are the technical challenges faced during project execution
+making the application port in ec instance available globaly
+how the technical challenges were solved
+search few blogs and videos for the solution and make it done by doing some change in
+security group in ec instance
+business impact
+as decentraland is a platform based of nft so main part of business is related to nft and cryptocurrency
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+ai agent development and deployment in jina ai
+july  
+automation etl data pipeline from mongodb to kibana elasticsearch
+june  
+how artificial intelligence can deliver real value to companies
+september  
+the metaverse and its implications for our digital future
+february  
+load more
+recommended insights
+marketing drives results with a focus on problems
+impact of covid pandemic on public transportation industries
+gptocr api
+sentiment analysis of a leading restaurants chain in the usa

@@ -1,0 +1,65 @@
+itle netclan
+source url httpsinsightsblackcoffercomcrmmondaycomviazapiertopowerbidashboard
+
+
+home
+our success stories
+crm mondaycom via zapier to power bi dashboard
+client background
+client
+a leading solar panel firm in the usa
+industry type
+energy
+services
+solar panel
+organization size
+
+project description
+mohsin has solar panel company he has setup crms for that he wanted to use crms data and want to visualize the leads in powerbi
+our solution
+first we check crms thoroughly and understand the work culture of his company it was not easy to fetch data into powerbi using api key to fetch new leads from crms we used zapier the limitation of zapier is it cannot fetch historical data into spreadsheet so we download data from crms and fetch it into spreadsheet for new leads we created zaps for every instance after that we connect the spreadsheet with powerbi and clean the data accordingly using that data we build kpis according to client need
+tools used
+api  zapier  spreadsheet  powerbi
+languagetechniques used
+m language  dax
+skills used
+api  m language  dax  powerbi
+what are the technical challenges faced during project execution
+first challenge was to fetch data from crms using api key data we were getting was uncleaned and were not able to fetch all data if there were multiple pages in the crms we will not be able to fetch all data from the pages
+how the technical challenges were solved
+technical challenge in this project was to extract data from crms so for that we used zapier connector from crms to spreadsheet but there was some limitation with zapier that it will not fetch the historical data of our crms so to solve that we download all historical data from crms and append it to the spreadsheet we were using we fetch new leads to our spreadsheet using zapier by doing this now we have all the data historical and new lead which will be pushed by zapier
+then we fetch the data to our powerbi and do some cleaning in data by using cleaned data we build the kpis for our client according to there requirements
+business impact
+client will be able keep track on his company data on powerbi and it helps them to make decisions accordingly
+project snapshots
+crms
+zapier
+powerbi dashboard
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+business analytics in the healthcare industry
+july  
+aibased algorithmic trading bot for forex
+july  
+google local service ads lsa api to google bigquery to google
+may  
+gaming disorder and effects of gaming on health
+june  
+load more
+recommended insights
+what analytics  it outsourcing engagement model is right for you
+comprehensive analysis of solana and ethereum contributors using github api with
+how to setup custom domain for google app engine application
+how political leaders will shape tomorrow using big data  analytics

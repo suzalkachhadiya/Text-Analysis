@@ -1,0 +1,72 @@
+itle netclan
+source url httpsinsightsblackcoffercomgangalainecommercebigdataetleltsolutionanddatawarehouse
+
+
+home
+our success stories
+gangalain ecommerce big data etl  elt solution and data warehouse
+client background
+client
+a leading ecommerce firm in the usa columbia india and latin america
+gangala
+promotes local shops selling a wide variety of products at great prices easily find the best offers using our price comparison tool its a win win for 
+industry type
+ecommerce
+services
+ecommerce retail business
+organization size
+
+project title
+gangalain ecommerce site gathering data of different products from various sources and providing it on a single platform
+project objective
+provide uptodate data of any given product on the website along with  prices of that product from different sites for the customer to compare and buy
+project description
+a platform in which users can get price data of any product from multiple sites the client provided us with raw data we were tasked with building a pipeline for the data build apis to get product data such as price and update them and make sure that all the data is available for the front end team to access
+our solution
+we built them a pipeline to process and clean the raw data provided we built apis to fetch the updated data of the products neoj was used as the intermediary data and mongodb was used as our primary database we also process the images of each product and remove any unwanted texts from it and add the clients watermark
+project deliverables
+a fullyupdated database with up to date data on all the products and each product having atleast  prices from different sites
+tools used
+numpy package
+json package
+csv package
+concurrent futures package for multithreading
+pyneo package to connect to neoj using python
+languagetechniques used
+python
+cypher query language cql
+apoc queries
+databases used
+neoj
+mongodb
+dataiku
+odoo
+dss
+web cloud servers used
+linode cloud servers
+what are the technical challenges faced during project execution
+we were asked to process million products per day and this was a challenge as the vms we used were not able to handle the load
+how the technical challenges were solved
+we were able to overcome the challenge by using asynchronous processing of the data thereby increasing the speed of the processing reducing the cost on the client side as well
+project website url
+httpsgangalain
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+what if the creation is taking over the creator
+june  
+lessons from the past some key learnings relevant to the coronavirus
+may  
+communication with twilioflex
+january  
+onpage seo
+september  
+load more
+recommended insights
+how we forecast future technologies
+what is the limitation of elearning classes
+how will covid affect the world of work
+splitting of songs into its vocals and instrumental

@@ -1,0 +1,64 @@
+itle netclan
+source url httpsinsightsblackcoffercomadvancedaiforthermalpersondetection
+
+
+home
+our success stories
+advanced ai for thermal person detection
+client background
+client
+a leading tech firm in the middle east
+industry type
+security
+services
+security services
+organization size
+
+the problem
+detect a person from thermal image and videos why this model was created was not told to us by the client
+our solution
+use deeplearning computer vision to train the model on custom dataset and get the results
+solution architecture
+linux 
+nvidiva rtx 
+deliverables
+trained model
+tools used
+labelimg
+yolov
+cocojson
+languagetechniques used
+python
+models used
+yolov
+skills used
+deeplearning
+computer vision
+programming
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+transforming insurance claim processing with automation  artificial intelligence
+april  
+how humans and machines are evolving to work together
+june  
+automated job data import and management solution for enhanced efficiency
+august  
+turning the professional networking data into actionable insights
+october  
+load more
+recommended insights
+the future of bank risk management
+lessons from the past some key learnings relevant to the coronavirus
+interpret the coefficients in regression models
+online barometer dashboard for smart schools system

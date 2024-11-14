@@ -1,0 +1,105 @@
+itle netclan
+source url httpsinsightsblackcoffercombuildingcustomtflitemodelsandbenchmarkingonvoxlchips
+
+
+home
+our success stories
+building custom tflite models and benchmarking on voxl chips
+client background
+client
+a leading tech consulting firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+the client aimed to explore the development and deployment of custom tensorflow lite tflite models on voxl hardware the goal was to leverage the advanced gpu and npu acceleration capabilities of voxl to optimize and benchmark these models for efficient ondevice inference this project was not only about showcasing the potential of voxl in enhancing machine learning performance but also about contributing to the broader understanding of deploying custom models on edge devices
+our solution
+load base model in onnx format started with loading a base model like yolov or yolov in onnx format
+convert onnx models to tflite format used the onnxtf parser for conversion
+quantize models for voxl chips quantized models to float format for compatibility with voxl chips
+clone voxl sdk developer environment cloned the voxl sdk developer environment and set up adb
+connect voxl chip to your computer connected the voxl chip and verified the connection
+access voxl chip shell accessed the shell of the voxl chip for model deployment and configuration
+create deb packages with custom tflite models cloned the voxltfliteserver repository copied tflite files and configured the model
+use custom deb package on voxl deployed the deb package and configured the voxl chip to run the model
+run voxltfliteserver executed voxltfliteserver to start the inference process
+verify model execution ensured the model runs without errors on the voxl chip
+solution architecture
+steps were followed as referred in the modal ai documentation no solution architecture was required here
+deliverables
+a python script implementing the cvrptw model
+test data and scripts for simulating different scenarios
+documentation explaining how to use the model and interpret the results
+tech stack
+tools used
+onnx
+tensorflow lite
+voxl sdk
+android debug bridge adb
+languagetechniques used
+python
+shell scripting
+models used
+yolov or yolov in onnx format
+mobilenet
+skills used
+machine learning model conversion and optimization
+edge device deployment and configuration
+performance benchmarking
+what are the technical challenges faced during project execution
+converting onnx models to tflite format for compatibility with the tflite runtime on voxl chips
+quantizing models to float format for compatibility with the gpu and dpu delegations on voxl chips
+setting up the voxl sdk developer environment and ensuring adb is correctly configured
+deploying custom tflite models on the voxl chip and configuring it to run the models
+benchmarking the model using the voxllogger tool and encountering issues with the latest sdk build
+how the technical challenges were solved
+used the onnxtf parser for model conversion ensuring compatibility
+quantized models to float format improving inference speed and reducing model size
+cloned the voxl sdk developer environment and followed the documentation to set up adb
+cloned the voxltfliteserver repository copied tflite files and configured the model for deployment on the voxl chip
+consulted with the voxl forums and developers for alternative methods of benchmarking due to sdk build issues
+business impact the successful deployment and benchmarking of custom tflite models on voxl chips have significantly enhanced the clients ability to optimize machine learning performance on edge devices by leveraging the advanced gpu and npu acceleration capabilities of voxl the client has been able to achieve efficient ondevice inference showcasing the potential of voxl in the machine learning domain
+business impact
+this project has not only contributed to the broader understanding of deploying custom models on edge devices but has also provided valuable insights into the performance of these models on voxl chips the process of overcoming technical challenges has further solidified the clients confidence in the capabilities of voxl and the potential of deploying custom tflite models on edge devices
+overall the manu b voxl project has been a success demonstrating the potential of voxl in enhancing machine learning performance on edge devices and contributing to the broader understanding of deploying custom models on edge devices the project has highlighted the importance of overcoming technical challenges and the value of comprehensive guides for deploying and benchmarking tflite models on voxl chips
+project snapshots
+project website url
+forum  httpsforummodalaicomtopicneedhelpsimulatingtfliteyolomodelsonmylinuxmachine
+report 
+httpsdocsgooglecomdocumentdqvuzjczukwbfubjzzabdoulbpaubilvedit
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+big data and analytics to help form political leaders win election
+april  
+marketing analytics to automate leads call status and reporting
+august  
+how ai will help the defense power of a country
+june  
+power bi datadriven map dashboard
+february  
+load more
+recommended insights
+big data platform and data lake tool
+how ai will help the defense power of a country
+healthcare ai chatbot using llama llm langchain
+streamlined integration interactive brokers api with python for desktop trading application

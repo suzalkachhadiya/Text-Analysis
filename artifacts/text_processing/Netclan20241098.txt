@@ -1,0 +1,64 @@
+itle netclan
+source url httpsinsightsblackcoffercomtransformapiintosdklibraryandwidget
+
+
+home
+our success stories
+transform api into sdk library and widget
+client background
+client
+a leading tech firm in the usa
+industry type
+it
+services
+consulting marketing healthtech
+organization size
+
+project objective
+convert api documentation into sdk library and widget expected deliverables are sdk library and widgets for
+web apps
+ios apps
+android apps
+project description
+api documentation is available for a tool that allows customers to type in their medication and find the cheapest price near them for partners who want to have it on their own site currently using the api documentation but would like to ultimately be able to send them an embeddable widget that incorporates the tool on their site
+our solution
+we created a flutter widget that uses  sdk libraries that allows the customer to type their medication and find the cheapest price near them
+this widget can be embedded in their web android and ios applications
+project deliverables
+sdk librarywidget
+sample flutter application
+tools used
+flutter
+languagetechniques used
+dart
+skills used
+knowledge of dart language
+flutter app developing
+what are the technical challenges faced during project execution
+ problems while fetching details of drugs and pharmacies
+ showing details of drugs and pharmacies in the widget
+how the technical challenges were solved
+all technical challenges are solved by proper communication with the client and by logical analyzing of data
+project snapshots
+project video
+httpswwwyoutubecomwatchvmynkdptskaabchannelblackcoffer
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+database discovery tool using openai
+january  
+big data platform and data lake tool
+august  
+big data integration  infrastructure solution
+november  
+advanced textual analytics  financial analysis industry
+june  
+load more
+recommended insights
+coronavirus effect on the hospitality industry
+building an analytics dashboard with a pdf parsing pipeline for data
+etl and mlops infrastructure for blockchain analytics
+impact of coronavirus on the indian economy

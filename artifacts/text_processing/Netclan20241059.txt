@@ -1,0 +1,82 @@
+itle netclan
+source url httpsinsightsblackcoffercomdatawarehousetogoogledatastudiolookerdashboard
+
+
+home
+our success stories
+data warehouse to google data studio looker dashboard
+client background
+client
+a leading tech firm in the usa
+industry type
+it
+services
+saas products healthcare government energy
+organization size
+
+the problem
+our client needed a google data studio dashboard for different sectors such as oil and gas government healthcare and sales analysis they want to see an analysis of data from which they can provide insights in different domains they want us to create visual kpis of meaningful insights
+our solution
+they provided us with data for different sectors using those data first we analyze the data and perform eda on data for cleaning the data after cleaning the data we performed calculations to extract insights for kpis using those kpis we build a dashboard on oil and gas government healthcare and sales analysis
+solution architecture
+to build the dashboard we follow the pipeline as follows
+data  edacleaning data  connectiongds  building kpisvisuals
+tools used
+google data studio
+skills used
+eda google data studio
+what are the technical challenges faced during project execution
+during the project execution we faced the following challenges
+the data client provided was not cleaned
+data was of four different sector which we have to analyse and visualize
+extracting insights from data
+how the technical challenges were solved
+to solve the technical challenges we provided following solutions as follow
+performed eda on data to clean it and find the missing values
+as data was from different domains we have analysed each sector and understand the culture of each domain we understand the pipeline and flow of work process
+after completing the case study we use calculations to extract the meaningful insights from data
+business impact
+using these dashboards client can visualize the sales insights and understand the workflow they can take crucial decisions based on these insights which will help them to make an impact on their sales
+project snapshots
+sales dashboard
+government dashboard
+oil and gas dashboard
+hospital analysis
+project website url
+dashboards on google data studio
+government
+httpsdatastudiogooglecomreportingddacebaaaeaccaeff
+oil
+httpsdatastudiogooglecomreportingcebabfaffcf
+healthcare
+httpsdatastudiogooglecomreportingbeacaddcfb
+sales
+httpsdatastudiogooglecomreportingecebfbbdeacccaaf
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how marketers can start integrating ai in their work
+november  
+role of big data in healthcare
+may  
+advanced ai for pedestrian crossing safety
+july  
+lessons from the past some key learnings relevant to the coronavirus
+may  
+load more
+recommended insights
+advanced textual analytics  financial analysis industry
+ai and nlpbased solutions to automate data discovery for venture capital
+realtime video analytics
+how political leaders will shape tomorrow using big data  analytics

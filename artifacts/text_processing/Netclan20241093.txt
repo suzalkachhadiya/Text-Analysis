@@ -1,0 +1,60 @@
+itle netclan
+source url httpsinsightsblackcoffercomdesigndevelopbertquestionansweringmodelexplanationswithvisualization
+
+
+home
+our success stories
+design  develop bert question answering model explanations with visualization
+client background
+client
+a leading tech firm in the usa
+industry type
+it consulting
+services
+software consulting
+organization size
+
+project description
+we need to use a pretrained bert question answering model and create a notebook that has explanations of models working with some visuals of bertviz allennlp and gradient values
+our solution
+we created a notebook first and explained the model with model view and head view visuals of bertviz library it gives similarity between words so we can easily find related words
+we used the allennlp library and created bar charts and heatmaps to show higher and lower attention words it means when it finds question related words in the context it gives higher value to those words and if words are not related it gives lower values
+we used a gradient based method to show higher and lower gradient values word according to question text and created bar charts and text color charts to show higher gradient values
+project deliverables
+a notebook which has an explanation of the bert question answering model using some visualization
+tools used
+google colab notebooks tensorflow bertviz allennlp transformers
+languagetechniques used
+python programming language deep learning nlp data visualization
+models used
+pretrained bertbaseuncased model and distilbert model both trained on squad dataset
+skills used
+data visualization deep learning nlp python
+what are the technical challenges faced during project execution
+we need to use the best pretrained model which can give good results on different questions and answers
+we were working on text data so we need to use charts which can clearly show differences between higher attention and lower attention value words
+how the technical challenges were solved
+for best pretrained we tried different berts pretrained models like distilberttrained on squad dataset distilberttrained on squad bert base uncased bert large and roberta base
+among these models we kept the best one
+for solving charts related issues we used heatmap chart bar chart with dark and light colors and text coloring method
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+data harmonization etl data cleansing  classifications
+november  
+create a knowledge graph to provide realtime analytics recommendations and a
+july  
+oil prices by the year  and how it will impact
+august  
+how big data will impact the future of business
+july  
+load more
+recommended insights
+industrial revolution   pros and cons
+big data solution to an online multivendor marketplace ecommerce business
+driving insights from the largest community for investors and traders
+an outlook of healthcare by the year  and how it

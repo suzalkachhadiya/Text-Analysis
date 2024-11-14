@@ -1,0 +1,73 @@
+itle netclan
+source url httpsinsightsblackcoffercombuildingaphysicsinformedneuralnetworkforcircuitevaluation
+
+
+home
+our success stories
+fast moving consumer goods
+building a physicsinformed neural network for circuit evaluation
+client background
+client
+a leading tech firm in the usa
+industry type
+retail
+services
+consulting
+organization size
+
+project objective
+the objective of this project was to build a physics informed neural network pinn using tensorflow which could evaluate circuits based on the parameters provided through a matlab simulation
+project description
+mohamed provided us with a dataset generated from a matlab simulation of a circuit consisting of various input parameters and the corresponding circuit performance outputs we were tasked with developing a machine learning model that could accurately predict circuit performance based on the input parameters while also incorporating the underlying physics principles that govern circuit behavior
+our solution
+our team utilized jupyter notebook google colab octave and matlab to build the pinn we used tensorflow models to build the neural network and microsoft excel to clean and preprocess the data our team employed python programming tensorflow pandas and matlab skills to build the pinn we did not use any databases for this project nor did we use any webcloud servers
+project deliverables
+the final deliverable was a functional pinn capable of evaluating circuits based on the provided parameters
+tools used
+our team used jupyter notebook google colab octave matlab and microsoft excel
+languagetechniques used
+the primary languages and techniques we used were python programming tensorflow and matlab
+models used
+we used tensorflow models to build the neural network for the pinn
+skills used
+our team utilized python programming tensorflow pandas and matlab skills to build the pinn
+databases used
+we did not use any databases for this project
+web cloud servers used
+we did not use any webcloud servers for this project
+what are the technical challenges faced during project execution
+the project was very challenging since our team did not have a background in electrical engineering it was difficult to understand the physics behind the circuit evaluation and we faced issues when using matlab to provide data for the project
+how the technical challenges were solved
+we worked with the client to gain a better understanding of the physics behind the circuit evaluation we also worked with matlab experts to help us better understand how to provide data for the project
+business impact
+the pinn we built for mohamed zamil allowed for efficient circuit evaluation and improved the overall accuracy of the evaluation process
+project website url
+httpscolabresearchgooglecomdrivehxmpjcbswjgkezngqwqwmv
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+ocr  extracting information from scanned documents
+april  
+how marketers can start integrating ai in their work
+november  
+impact of news media and press on innovation startups and investments
+january  
+how artificial intelligence can boost your productivity level
+august  
+load more
+recommended insights
+auctions data automation collection etl and management
+marketing analytics to automate leads call status and reporting
+big data and analytics to help form political leaders win election
+the future of investing

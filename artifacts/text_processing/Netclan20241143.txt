@@ -1,0 +1,68 @@
+itle netclan
+source url httpsinsightsblackcoffercomkeyauditmatterspredictivemodeling
+
+
+home
+our success stories
+key audit matters predictive modeling
+client background
+client
+a leading business school worldwide
+industry type
+rd
+services
+research  innovation
+organization size
+
+project objective
+do regression modeling on the data provided crosscountry determinants of key audit matters kams and its usefulness to investors and debt market participants
+project description
+usefulness to equity markets
+examine whether the number and content of kams varies with countrylevel determinants
+explore whether the usefulness of kams to investors varies with country level variables such as type of law enforcement etc
+examine whether adoption of the expanded auditors report associated with change in audit quality examine whether the content in the auditors report improves audit quality does this vary across countries
+is the adoption of the expanded auditors report associated with a change in audit fees
+explore whether the content of auditor report moderates the usefulness of kams to investors also check by countrylevel variables
+can the number and content of kams be used to predict restatements  onwards
+in order to do the analysis and hypothesis testing create a mapping to divide the audits into sub category and category according to the sub category and category provided in the question document clean the data before proceeding and calculate variables abret abvol car and caar according to the description provided
+our solution
+created a mapping for key audit matters to label the sub category and category of the audit for further analysis and merging with other datasets on the basis of the unique keys to create a final dataset we can use to calculate and do the hypothesis testing
+calculation of variable abret and abvol is proceeded by firstly arranging the data by unique key and then the date of the data to get the sorted data cleaning is done on the data by removing the repetitive entries from the dataset and then selected the data around the date for which the variable is to be calculated similarly calculated abvol in which extracted the data around the annual report filing date and mean value for  days interval that ends  days before earning announcement dates
+couldnt proceed because dataset provided by the client was incomplete in order to calculate abret
+languagetechniques used
+r language to create mapping for the key audit matters and save data set for question 
+python pandas library to deal with dates and extract data around annual report filing date
+skills used
+data mapping data cleaning data manipulation debugging
+databases used
+key audit matter
+gdp rule law
+audit fee
+trading data
+earning date
+report filing date
+what are the technical challenges faced during project execution
+dataset provided by the client was too big and made my system slow when the data is loaded in the environment too many datasets and variables made it bit difficult to understand and time taking
+how the technical challenges were solved
+calculated the number of unique identifiers in the large dataset and sorted those then selected the data for  unique identifier and sorted dates for it and append it to the dataframe and saved group of such unique identifiers to reduce the size of the dataset and performed the calculations in loop
+to tackle the difficulty of understanding the data i made a document tracking all the columns or variables present in the data
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+aws quicksight reporting dashboard
+january  
+rise of internet demand and its impact on communications and alternatives
+august  
+estimating the impact of covid on the world of work
+april  
+contribution of handicrafts visual arts  literature in the indian economy
+june  
+load more
+recommended insights
+impact of ai in health and medicine
+is perfection the greatest enemy of productivity
+how is login logout time tracking for employees in office done
+trading bot for forex

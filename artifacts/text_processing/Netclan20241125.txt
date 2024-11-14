@@ -1,0 +1,63 @@
+itle netclan
+source url httpsinsightsblackcoffercomimpactofnewsmediaandpressoninnovationstartupsandinvestments
+
+
+home
+our success stories
+impact of news media and press on innovation startups and investments
+client background
+client
+a leading research institution in the word
+industry type
+research rd
+services
+rd
+organization size
+
+project objective
+make data ready for predictive modelling
+making google data studio dashboard
+project description
+phase   in this project first of all we have to clean the data as the data was very noisy we have to filter out only the needed columns of the data
+phase   finding corelation between the pitchbook data and the other output files
+phase   making dashboard in google data studio for the project
+our solution
+we used pandas and numpy to clean the data and make useful for it to be used in predictive modelling we have found the corelation between the tempa msa pitchbook data and the output files like textual file aimltm file etc we have made the dashboard using the google data studio
+project deliverables
+we have provided a excel file consisting of clean data and the google data studio report
+tools used
+python google data studio google chrome
+languagetechniques used
+python programming
+models used
+waterfall model used in this project
+skills used
+data cleaning data preprocessing data visualisation are used in this project
+databases used
+we have used the traditional file systems as database storage
+what are the technical challenges faced during project execution
+cleaning the data was the major challenge faced while executing the project the data has a lot of noise it was difficult to find which data was useful and which data is not useful in this project secondly the co relation between the output files and pitchbook data there was nothing common between both the datasets so was difficult to find corelation between them
+how the technical challenges were solved
+we used pandas dataframe to clean the data and make it ready for predictive modelling and used the google data studio to find insights between the different datasets
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+why scams like nirav modi happen with indian banks
+april  
+electric vehicles ev load management system to forecast energy demand
+february  
+how telehealth and telemedicine helping people to fight against covid
+april  
+role of big data in cyber security a shotgun against rising
+june  
+load more
+recommended insights
+embedding care robots into society and practice sociotechnical considerations
+covid how have countries been responding
+enhancing model accuracy from  to over  strategies for improving
+return on advertising spend dashboard marketing automation and analytics using etl

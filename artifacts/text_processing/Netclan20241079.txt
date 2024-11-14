@@ -1,0 +1,67 @@
+itle netclan
+source url httpsinsightsblackcoffercomhandgundetectionusingyolo
+
+
+home
+our success stories
+advanced ai for handgun detection
+client background
+client
+a leading tech firm in the middle east
+industry type
+security
+services
+security services
+organization size
+
+the problem
+detecting handguns in images and videos
+our solution
+we use yolov instance segmentation model to detect and provide coordinates for handguns
+solution architecture
+linux 
+yolo
+deliverables
+trained model of yolov instance segmentation
+tools used
+openimages
+roboflow
+yolov
+languagetechniques used
+python
+models used
+yolovmask
+skills used
+deeplearning
+programming
+what are the technical challenges faced during project execution
+retrieving handgun images in bulk from opensource
+how the technical challenges were solved
+found openimages dataset with good amount of required images
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+impact of covid pandemic on public transportation industries
+june  
+advanced data visualization solutions for monitoring key business metrics with integrated
+august  
+big data analytics in healthcare
+july  
+networking platform  have a look
+march  
+load more
+recommended insights
+chatbot using voiceflow
+ai solution for a technology information and internet firm
+design and develop solution to anomaly detection classification problems
+anomaly detection and analysis for enhanced data integrity and user experience

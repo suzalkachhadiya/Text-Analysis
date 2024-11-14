@@ -1,0 +1,65 @@
+itle netclan
+source url httpsinsightsblackcoffercomaiagentdevelopmentanddeploymentinjinaai
+
+
+home
+our success stories
+ai agent development and deployment in jina ai
+client background
+client
+a leading tech firm in europe
+industry type
+it
+services
+it and consulting
+organization size
+
+the problem
+the clients object was to create ai agents for his website which the endusers will utilize for many tasks the client had some recommendations on the models are utilized
+our solution
+created a feasible models list that complements the clients requirement and when ahead and executed the executor code for every model for compatibility with jinaai deployment after implementing executor codes i created a flow to connect every executor and deployed it successfully
+deliverables
+successfully delivered executable deployed models in jina ai
+tools used
+jina ai vscode huggingface
+languagetechniques used
+python
+models used
+whisper stable diffusion gpt codex yolo coquiai pdf segmentor
+skills used
+python model apis
+databases used
+jinaai cloud
+what are the technical challenges faced during project execution
+there were minute challenges such as deployment issues and execution issues
+how the technical challenges were solved
+i resolved the issues effectively after long hours of understanding the concept because jinaai is a new growing technology that does not have many forums to solve errors and issues
+project snapshots
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rise of internet demand and its impact on communications and alternatives
+august  
+new jersey based micro business sentiment analysis
+august  
+building a realtime log file visualization dashboard in kibana
+august  
+iot ai ml to detect fire and smoke
+june  
+load more
+recommended insights
+design and develop powershell script
+an ai mlbased web application that detects the correctness of text
+interpret the coefficients in regression models
+driving insights from the largest community for investors and traders

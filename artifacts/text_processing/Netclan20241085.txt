@@ -1,0 +1,62 @@
+itle netclan
+source url httpsinsightsblackcoffercomecommercestoreanalysispurchasebehavioradspendconversiontrafficetc
+
+
+home
+our success stories
+ecommerce store analysis  purchase behavior ad spend conversion traffic etc
+client background
+client
+a leading retail firm in the usa
+industry type
+retail
+services
+retail business
+organization size
+
+project objective
+to create a welldesigned and informative dashboard for symbiome ecommerce website using data sourced from bigquery database google ads google analytics and facebook ads
+project description
+our client arik oganesian approached us with a requirement to create a dashboard for his friends ecommerce website symbiome the dashboard needed to be visually appealing and provide comprehensive insights into the websites performance we sourced data from various sources such as bigquery database google ads google analytics and facebook ads to create the dashboard we used google data studio and google sheets to link the data sources we also used sql language to extract data from bigquery database the client specifically asked for cohort retention and cohort revenue charts to be included in the dashboard with our expertise in data analytics we were able to fulfill the clients requirements and provide a dashboard that helped the client make datadriven decisions
+our solution
+we used google data studio to create the dashboard and google sheets to link the data sources to extract data from bigquery database we used sql language we created a set of charts including cohort retention and cohort revenue charts to fulfill the clients requirements
+project deliverables
+symbiome ecommerce dashboard
+tools used
+google data studio and google sheets
+languagetechniques used
+sql for bigquery
+skills used
+data analytics
+databases used
+bigquery database
+what are the technical challenges faced during project execution
+one of the major challenges we faced was extracting data from bigquery database using sql language however we were able to overcome this challenge by using our expertise in data analytics
+how the technical challenges were solved
+to solve this issue we used google data studio and google sheets to link the data sources we also used sql language to extract data from bigquery database by using these tools we were able to integrate the data from different sources and create a single comprehensive dashboard that met the clients requirements
+business impact
+the dashboard we created provided a clear view of the websites performance and helped the client to make datadriven decisions this resulted in an increase in website traffic and revenue
+project snapshots
+project website url
+httpslookerstudiogooglecomureportingccaebafdapagesiuc
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+autogpt setup
+may  
+callrail analytics  leads report alert
+august  
+how advertisement increase your market value
+november  
+online gaming adolescent online gaming effects demotivated depression musculoskeletal and psychosomatic
+june  
+load more
+recommended insights
+gender diversity and equality in the tech industry
+how small business can survive the coronavirus crisis
+connecting mongodb database to power bi dashboard dashboard automation
+steps to convert a nodejs api to python for aws lambda

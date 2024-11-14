@@ -1,0 +1,83 @@
+itle netclan
+source url httpsinsightsblackcoffercomazuredatalakeandpowerbidashboard
+
+
+home
+our success stories
+azure data lake and power bi dashboard
+client background
+overview
+stone is a video bibliographic tool for journalists and other researchers
+it allows users to capture annotate and share their journeys through digital and physical space producing verifiable logs and generating monetizeable video highlight reels that can be embedded in digital and other media  showcasing key moments and telling the story behind the story
+our mission is to address distrust and disinformation with transparency and authenticity while simultaneously tilting the information ecosystem in favour of quality original work
+research is valuable make it visible
+write in stone
+website
+httpwwwwriteinstonecom
+company size
+ employees
+headquarters
+blackheath new south wales
+founded
+
+specialties
+research transparency trust video content journalism proof of work and bibliographic standards
+project objective
+working on microsoft azure analytics services
+verifying that indicators are being gathered in an intended manner in line with gdpr provisions
+building and analyzing dashboards and specifically conversion funnels
+project description
+to determine whether the already implemented indicators in are in intended fashion separated by where these indicators are placed in the currently constituted funnel
+implement new indicators
+research logged
+average number of highlights per project
+total hours of content produced
+total hours of content watched
+daily unique visitors engaging with stone including the landing page public research pages and the research portal
+assess the dashboard set up in azure refine the existing dashboard and determine whether an alternative is preferable
+review refine and optimize the wis conversion funnels
+our solution
+built a power bi dashboard as per the requirement also built a separate dashboard for the metric data from azure
+project deliverables
+power bi dashboard which contains indicators funnels new indicatorsresearch logged average number of highlights per projects total hours of content watched etc visualizations  extracted from metric data
+tools used
+power bi
+azure
+languagetechniques used
+power bi
+dax
+kusto query
+azure
+skills used
+data collection
+data analysis
+data cleaning
+feature engineering
+querying
+visualization
+databases used
+azure database
+web cloud servers used
+azure
+what are the technical challenges faced during project execution
+difficulty in data collection
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+streamlined trading operations interface for metatrader  empowering efficient management and
+march  
+sentiment analysis of a leading restaurants chain in the usa
+october  
+coronavirus disease covid effect the impact and role of mass media
+march  
+realtime kibana dashboard for a financial tech firm
+august  
+load more
+recommended insights
+website tracking and insights using google analytics  google tag manager
+how is ai used to solve traffic management
+the emergence of data analytics
+building a physicsinformed neural network for circuit evaluation

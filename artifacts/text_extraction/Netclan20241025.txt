@@ -72,17 +72,17 @@ Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kub
 Facial Recognition Attendance System
 Face Recognition Using DeepFace
 MOST POPULAR INSIGHTS
-Streamlined Trading Operations Interface for MetaTrader 4: Empowering Efficient Management and...
-March 17, 2024
-Advanced-Data Analytics, AI, and ML for News and Media Companies
-November 21, 2020
-Resume Matching & Skill Ranking for a Leading IT Firm in...
-March 27, 2021
-How does Big Data Help in Finance and the Growth of...
-July 19, 2021
+An ETL Solution for Currency Data to Google Big Query
+September 16, 2022
+Voter Profile Analysis and Search Application for Targeted Campaign Engagement Using...
+August 25, 2024
+Data security Protect a major enterprise asset
+June 12, 2019
+Marketing Ads Leads Call Status Data Tool to BigQuery
+August 30, 2021
 Load more
 RECOMMENDED INSIGHTS
-Google Local Service Ads (LSA) Leads Dashboard
-E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
-How does artificial intelligence affect the environment
-What is the chance Homo sapiens will survive for the next...
+AI-Driven Backend for Audio-to-Text Conversion and Analytical Assessment in Pharmaceutical Practice
+Oil prices by the year 2040, and how it will impact...
+Realtime Kibana Dashboard for a financial tech firm
+Blockchain in Fintech

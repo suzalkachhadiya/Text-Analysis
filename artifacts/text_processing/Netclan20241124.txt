@@ -1,0 +1,72 @@
+itle netclan
+source url httpsinsightsblackcoffercommicrosoftazurechatbotwithluislanguageunderstanding
+
+
+home
+our success stories
+microsoft azure chatbot with luis language understanding
+client background
+client
+a leading retail firm in the usa
+industry type
+retail
+services
+ecommerce retail business
+organization size
+
+project objective
+to create an advanced chatbot using microsoft azure cognitive service to take orders from customer on behalf of a pizza restaurant and give order summary as end result to the user
+project description
+the project uses ms azure luis service for language understanding to receive order details from a customer and provide an order summary also display various menu options to the customer in a dynamic method
+our solution
+our solution is to create a chatbot on ms azure platform using their luis service in botframework composer environment use dynamic hero cards to display menu so that user can get a better experience
+project deliverables
+chatbot
+tools used
+bot framework composer
+bot emulator
+ms azure luis services
+languagetechniques used
+bot framework composer
+natural language processing
+models used
+ms azure luis
+ms azure qna
+ms azure speed sdk
+skills used
+deep learning
+web development
+cloud tech
+web cloud servers used
+microsoft azure web platform
+what are the technical challenges faced during project execution
+monthly quota for luis authoring service was reached
+tracking multiple items ordered by user
+accessing relevant images for each menu item
+how the technical challenges were solved
+switching to a more suitable pricing tier which would have to eventually switch to when move onto production phase
+creating custom functions and intents for different trackers
+using open license images from internet
+project snapshots
+project website url
+demo
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+is telehealth the future of healthcare
+april  
+airbnb  homeaway pricing recommendation
+march  
+human rights outlook
+july  
+iot  aiml solution for retail walmart big bazaar max reliance
+january  
+load more
+recommended insights
+dashboard to track the analytics of the website using google analytics
+how to overcome your fear of making mistakes
+digital transformation in oil and gas
+deploy and view react appnextjs on cloud vm such as gcp

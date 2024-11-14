@@ -1,0 +1,125 @@
+itle netclan
+source url httpsinsightsblackcoffercomcomprehensiveanalysisofsolanaandethereumcontributorsusinggithubapiwithcomparativestudyofrandomgithubprofiles
+
+
+home
+our success stories
+comprehensive analysis of solana and ethereum contributors using github api with comparative
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+perform analysis of all contributors profiles of solana and ethereum repository by collecting information through github api then perform analysis of all random  github users profile
+our solution
+to achieve this analysis first we need to extract each github users data these user data are retrieved from the most popular repository
+these are the following features which will impact on good developer
+from githubusername will fetch the all feature as follows  totalrepos  totalcontribution all repos  totalforks  totalstars  totalachievements  popularity  totalcodereview  totalissues  total comments
+total repository
+description this feature indicates the overall number of repositories owned by a github user
+impact on good developer a good developer often has a varied and substantial collection of repositories showcasing their diverse skills and experiences a higher number of repositories may indicate a proactive approach to personal and collaborative projects
+total commits
+description the total count of commits made by the github user across all repositories
+impact on good developer a higher number of commits suggests an active and consistent contribution to projects it reflects a strong work ethic and continuous engagement in coding activities
+total repository forks
+description the cumulative number of times repositories owned by the user have been forked by others
+impact on good developer forks indicate that others find the developers projects valuable it can be a measure of the influence and usefulness of their code to the community
+total stars achieved
+description the total number of stars received across all repositories
+impact on good developer stars signify appreciation and popularity a higher star count suggests that the developers work is recognized and admired by the github community
+total issue raise
+description the overall count of issues raised by the user in various repositories
+impact on good developer actively participating in issue tracking demonstrates collaboration and problemsolving skills a good developer not only writes code but also engages in discussions and issue resolution
+total code review
+description the number of code reviews conducted by the user
+impact on good developer engaging in code reviews indicates a commitment to maintaining code quality and collaborating effectively with team members
+total commits per repository
+description average number of commits per repository owned by the user
+impact on good developer this metric gives insights into the developers commitment to individual projects a wellmaintained and actively developed repository may reflect a higher level of expertise and dedication
+total addition per repository
+description average lines of code added per repository
+impact on good developer this provides insights into the depth of contributions to individual projects a good developer not only contributes but does so in a meaningful and impactful way
+total deletion per repository
+description average lines of code deleted per repository
+impact on good developer while deletions are necessary an excessive average deletion count might indicate a need for improvement in initial code quality a balanced approach to code maintenance is crucial
+total stars per repository
+description average number of stars received per repository
+impact on good developer this metric helps gauge the overall popularity and impact of individual projects a higher average star count reflects wellreceived and valuable work
+total forks per repository
+description average number of times repositories are forked
+impact on good developer a higher average fork count indicates that the developers projects are considered as starting points for other projects showcasing their influence and contribution to the opensource community
+popularity score
+popularityscore  stars  weightstars  forks  weightforks  contributions  weightcontributions  maxvalueamongallrepositories  weightpopularity
+impact score
+impactscore  numcommits  weightcommits  numreviewers  weightreviewers  numcomments  weightcomments  numissues  weightissues 
+combined score
+combined score  popularity score  impact score
+solution architecture
+deliverables
+analysis of filtered  users data   solana and ethereum user data and  random people dataset
+analysis of filtered and combined dataset
+httpsgithubcomajaybidyarthyabrarakhtargithubworkblobmaingithubanalysisonnotebookanalysisofgithubstatisticsofcombineddatasetipynb
+filtered and combined dataset
+httpsgithubcomajaybidyarthyabrarakhtargithubworkblobmaingithubanalysisondatasetfilteredandcombineddataxlsx
+analysis of  random github profiles
+httpsgithubcomajaybidyarthyabrarakhtargithubworkblobmaingithubanalysisonnotebookanalysisofrandomgithubprofileipynb
+tech stack
+tools used
+vscode ms excel
+languagetechniques used
+python github api
+skills used
+python libraries
+databases used
+none
+web cloud servers used
+none
+what are the technical challenges faced during project execution
+fetching all the github features from github api was a timeconsuming process
+how the technical challenges were solved
+i solved this problem by parallel processing and creating checkpoints to save the data collected if the api limit was exceeded
+business impact
+analyzing the profiles of contributors to solana and ethereum repositories through the github api and conducting a similar assessment of random  github users provides critical insights for strategic decisionmaking community engagement and resource optimization this analysis enables the identification of key contributors assessment of project quality and sustainability and efficient allocation of resources based on diverse skill sets it mitigates risks associated with dependency on a few contributors aids talent acquisition and retention and benchmarks the platforms competitiveness additionally it guides innovation and compliance measures and ensures business continuity by proactively addressing potential disruptions overall this indepth analysis serves as a valuable tool for enhancing the vitality innovation and longevity of blockchain projects on solana and ethereum
+project snapshots
+project website url
+httpsgithubcomajaybidyarthyabrarakhtargithubworktreemaingithubanalysison
+project video
+httpswwwloomcomsharefdfcdbafdaddc
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+negative effects of marketing on society
+november  
+realtime video analytics
+april  
+a leading firm in the usa seo and website optimization
+september  
+google local service ads lsa leads dashboard
+february  
+load more
+recommended insights
+ai and nlpbased solutions to automate data discovery for venture capital
+rise of cybercrime and its effect by the year 
+quickbooks dashboard to find patterns in finance sales and forecasts
+mitigating bank risk management

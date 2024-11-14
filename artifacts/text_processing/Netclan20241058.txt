@@ -1,0 +1,71 @@
+itle netclan
+source url httpsinsightsblackcoffercomdatafromcrmviazapiertogooglesheetsdynamictopowerbi
+
+
+home
+our success stories
+data from crm via zapier to google sheets dynamic to powerbi
+client background
+client
+a leading solar panel firm in the usa
+industry type
+energy
+services
+solar panel
+organization size
+
+the problem
+solar panel organization from america wants to keep track of sales data they want to see the leadership dashboard of their organization in terms of sales they also want to keep track of their campaigns and leads generated from sources of those campaigns they want to keep track of sales data from different sources
+our solution
+first we fetch the data from crm to powerbi clean the data of crm using dax and then perform calculations on the data using cleaned data we build kpi on powerbi
+solution architecture
+to complete the project we follow the following data flow pipeline
+data from crm  zapier  google sheet dynamic powerbi
+languagetechniques used
+powerbi dax language
+skills used
+crm zapier  powerbi google sheet
+what are the technical challenges faced during project execution
+challenges faced during the project execution 
+fetching the data from crm
+unclean data
+merging the data
+how the technical challenges were solved
+solution
+to fetch the data from crm we used zapier it is connector between two applications so that whenever a particular incident happen it will populate into another application we use zapier to connect crm and google sheets so that whenever a new lead will change or modified data will be stored into google sheets
+data in google sheets was uncleaned first we connect the google sheet with powerbi then perform eda to clean the data using dax language
+using merging of two tables by oneonone schema we solve duplicate entries of a particular lead in powerbi
+business impact
+using this dashboard client can make important decisions like from which campaign they are getting a greater number of leads and out of those leads how many are actually a sale they can keep track of their sales leadership of employee of the month in term of sales
+project snapshots
+crm
+zapier
+dashboard
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how python became the first choice for data science
+march  
+human rights outlook
+july  
+how artificial intelligence can deliver real value to companies
+october  
+digital transformation in oil and gas
+february  
+load more
+recommended insights
+ai bot driven by graphdb neoj for a leading healthcare tech
+coronavirus disease covid effect the impact and role of mass media
+how advertisementmarketing affects business
+return on advertising spend dashboard marketing automation and analytics using etl

@@ -1,0 +1,92 @@
+itle netclan
+source url httpsinsightsblackcoffercomenhancingdatacollectionforresearchinstitutionsaddressingsurveyfatigueandincorporatingverbalcommunicationforricherinsights
+
+
+home
+our success stories
+enhancing data collection for research institutions addressing survey fatigue and incorporating verbal
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+our client a leading research institution faced challenges in collecting rich engaging data through traditional survey methods participants often found surveys tedious and uninteresting leading to low response rates and limited insights additionally the client sought a way to accommodate participants who preferred verbal communication over written responses
+our solution
+to address these challenges proposed integrating generative ai technology into the qualtrics platform this would allow for dynamic aidriven conversations with participants making the survey experience more interactive and personalized additionally we suggested implementing speechtotext functionality to cater to participants who preferred vocalizing their responses
+solution architecture
+in solution involved integrating chatgpt and gemini ai models into the qualtrics environment participants could engage in conversations with the ai either by typing or speaking their prompts speech inputs were processed using geminis speechtotext capabilities enabling seamless interaction with the ai models
+deliverables
+integration of chatgpt and gemini ai with qualtrics
+speechtotext functionality for verbal responses
+enhanced participant engagement and data collection capabilities
+tech stack
+tools used
+qualtricschatgpt
+languagetechniques used
+javascript apis
+models used
+gpt
+skills used
+programming ai integration problemsolving communication adaptability testing project management
+what are the technical challenges faced during project execution
+realtime integration
+achieving seamless realtime integration of ai models with qualtrics proved challenging due to the asynchronous nature of the platforms
+speechtotext accuracy
+ensuring accurate transcription of speech inputs posed a technical challenge especially in noisy environments or with accented speech
+how the technical challenges were solved
+how the technical challenges were solved
+simulated ai model
+to overcome realtime integration challenges we implemented a simulated ai model that generated personalized responses based on user prompts
+enhanced speech processing
+we finetuned geminis speechtotext capabilities to improve accuracy and robustness enabling reliable transcription of verbal inputs
+business impact
+improved participant engagement
+the implementation of aidriven conversations led to higher participant engagement and increased survey completion rates
+richer data collection
+participants provided more detailed and nuanced responses leading to richer datasets and deeper insights for the clients research initiatives
+project snapshots
+project website url
+demo preview
+httpsyaleyulqualtricscomjfepreviewpreviewidabeafcedbaesvmrmzvlhtjtcqchlpreviewqsurveyversionidcurrent
+project video
+link
+ 
+httpswwwloomcomshareabfbdeaeabcsideaddbdcacfaee
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+google data studio dashboard for marketing ads and traction data
+january  
+ai agent development and deployment in jina ai
+july  
+obstacles to datadriven healthcare
+july  
+get answers from structural equation modeling
+april  
+load more
+recommended insights
+impact of coronavirus on the indian economy
+how will covid affect the world of work
+rise of electric vehicle and its impact on livelihood by the
+rising it cities and its impact on the economy environment infrastructure

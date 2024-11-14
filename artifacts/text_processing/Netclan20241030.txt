@@ -1,0 +1,88 @@
+itle netclan
+source url httpsinsightsblackcoffercomanalyzingtheimpactofpositiveemotionsandpandemicseverityonmentalhealthandresilienceamongentrepreneursinsightsandpredictivemodeling
+
+
+home
+our success stories
+analyzing the impact of positive emotions and pandemic severity on mental health
+client background
+client
+a leading research institution in the usa
+industry type
+rd
+products  services
+research higher education
+organization size
+
+the problem
+faced challenges in understanding the impact of positive emotions and perceived severity of the pandemic on mental health and resilience among entrepreneurs the goal was to provide a detailed analysis and predictive models to help comprehend these interactions and their implications
+our solution
+we developed a comprehensive solution involving descriptive inquisitive and predictive analytics this included formulating hypotheses performing exploratory factor analysis designing predictive models and visualizing interactions through graphs and tables our solution aimed to provide actionable insights into the relationships between positive emotions perceived severity of the pandemic and mental health
+solution architecture
+ data collection and preprocessing
+ exploratory factor analysis efa to identify key indicators
+ regression analysis to understand relationships between variables
+ structural equation modeling sem to visualize and quantify interactions
+ creation of detailed tables and figures for publication
+deliverables
+ descriptive statistics table
+ fit statistics table for hypothesized and modified models
+ sem results with coefficients and interaction effects
+ visualizations of interactions between resiliency perceived severity of the pandemic positive emotions and mental health
+ comprehensive report with charts tables results and methodology
+tech stack
+tools used
+jupyter notebook python libraries
+languagetechniques used
+python exploratory factor analysis regression analysis
+models used
+ordinary least squares ols factor analysis structural equation model sem
+skills used
+data preprocessing feature engineering statistical analysis model evaluation data visualization
+databases used
+csv files containing survey data
+what are the technical challenges faced during project execution
+we faced challenges with missing data which affected the accuracy of the models integrating different data sources and ensuring data quality were also significant hurdles
+how the technical challenges were solved
+we used data imputation techniques to handle missing values and implemented robust data cleaning processes for integration we used efficient etl extract transform load pipelines to ensure seamless data flow
+business impact
+the project provided jean kabongo with valuable insights into the factors affecting entrepreneurial resilience during the pandemic the detailed analysis and predictive models helped in understanding the key drivers of mental health and provided a foundation for further research and intervention strategies
+project snapshots
+project website url
+httpsgithubcomajaybidyarthyjeankabongoresearchproject
+project video
+create video of the project
+httpswwwloomcomshareabaeabdbdbdefsiddeabdfbbecb
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+streamlined integration interactive brokers api with python for desktop trading application
+march  
+mitigating bank risk management
+june  
+easy database access
+june  
+how machines ai automations and robohuman are effective in finance and
+may  
+load more
+recommended insights
+ai and mlbased youtube analytics and content creation tool for optimizing
+azure data lake and power bi dashboard
+will we ever colonize outer space
+ranking customer behaviours for business strategy

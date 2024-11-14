@@ -327,17 +327,17 @@ AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subsc
 Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard Accuracy in Partner Hospital Application
 ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads AP
 MOST POPULAR INSIGHTS
-Behavior Based Chi-Square model to Detect Data-Exfiltration over the Network
-May 15, 2017
-Environmental impact of the COVID-19 pandemic – Lesson for the Future
-April 30, 2021
-What is the limitation of e-learning classes?
-December 7, 2021
-Data Integration, ELT with Neo4j Graph Database
-April 8, 2021
+How you lead a project or a team without any technical...
+September 22, 2020
+How machine learning will affect your business?
+May 29, 2021
+Recommendation System Architecture
+October 28, 2021
+Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch
+June 25, 2021
 Load more
 RECOMMENDED INSIGHTS
-Data science – Create Tailored algorithms
-How Retail Industry Drive Value from Big Data?
-Estimating the impact of COVID-19 on the world of work
-How Will AI Make Decisions In Tomorrow’s Wars?
+What patients like and dislike about telemedicine?
+How advertisement/marketing affects business.
+Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...
+GPT/OCR API

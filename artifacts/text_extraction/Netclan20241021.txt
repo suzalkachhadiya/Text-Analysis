@@ -96,17 +96,17 @@ Face Recognition with Deepfills Framework – Deepface
 Analyzing the Impact of Female CEO Appointments on Company Stock Prices
 AI Chatbot using LLM, Langchain, LLama
 MOST POPULAR INSIGHTS
-Deploy MERN to google app engine, google cloud platform
-May 16, 2021
-Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...
+How advertisement/marketing affects business.
+November 19, 2022
+Anomaly Detection and Analysis for Enhanced Data Integrity and User Experience...
 August 25, 2024
-Data Studio Dashboard with a data pipeline tool synced with Podio...
-August 25, 2024
-Marketing Ads Leads Call Status Data Tool to BigQuery
-August 30, 2021
+Rise of e-health and its impact on humans by the year...
+December 29, 2022
+QuickBooks dashboard to find patterns in finance, sales, and forecasts
+September 18, 2021
 Load more
 RECOMMENDED INSIGHTS
-Big Data and Analytics to Help form Political Leaders Win Election
-Clinical Trial: Big Data & Analytics
-KPI Dashboard for Accountants
-Business Analytics in Textile Industry (Raymond Ltd.)
+Obstacles to data-driven Healthcare
+What are the key policies that will mitigate the impacts of...
+Evaluating Logistic Regression Models
+Which one is better AI or big data?

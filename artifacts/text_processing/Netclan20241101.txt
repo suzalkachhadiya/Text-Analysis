@@ -1,0 +1,75 @@
+itle netclan
+source url httpsinsightsblackcoffercomintegrationofvideoconferencingdatatotheexistingwebapp
+
+
+home
+our success stories
+integration of videoconferencing data to the existing web app
+client background
+client
+a leading tech firm in the usa
+industry type
+it  consulting
+services
+software business solutions consulting
+organization size
+
+project description
+integration of 
+rd
+party apis to clients platformclient required meetingconference data from sites like gotomeetingzoom
+our solution
+using apis fetched data from different platform and rendered data into clients application
+modifed web application with a ui to handle form data accepting dates as a timeframe  which then makes a request to the api being handled at server end and returns the meeting data from the required source
+project deliverables
+pushed code to clients github repository
+tools used
+ python
+ postman
+languagetechniques used
+ automation
+ 
+rd
+party apis
+ authenication methods
+ multithreading of function calls  authentication of api client 
+ ui component design to get dates from userend
+models used
+python framework django  requests
+skills used
+python programming apis  multithreading  web developement
+databases used
+default project postgresql
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+ ui creation for handling form data
+ managing and validating form data to process request at server end
+how the technical challenges were solved
+ created autmated functions as views in django to handle requests made to videoconferencing platform
+ which then returns meeting data as per users wish
+business impact
+ instead of extracting meeting data and adding it to all users
+any authorized user can get meeting data as his wish
+project website url
+httpswwwcodanalyticsnet
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+is telehealth the future of healthcare
+april  
+the future of bank risk management
+june  
+sentiment analysis bot for price prediction
+march  
+grafana dashboard to visualize and analyze sensors data
+february  
+load more
+recommended insights
+etl discovery tool using llma langchain openai
+an etl solution for currency data to google big query
+microsoft azure chatbot with luis language understanding
+how coronavirus impact on the hospitality industry

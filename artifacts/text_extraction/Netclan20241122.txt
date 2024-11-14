@@ -52,17 +52,17 @@ Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kub
 Facial Recognition Attendance System
 Face Recognition Using DeepFace
 MOST POPULAR INSIGHTS
-Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
-May 14, 2022
-Face Recognition with Deepfills Framework – Deepface
-October 18, 2024
-What do you think is the lesson (or lessons) to be...
-March 30, 2020
-How Metaverse is Shaping the Future?
-January 17, 2022
+Impacts of COVID 19 on Vegetable Vendors
+November 6, 2021
+Coronavirus: Impact on the Hospitality Industry
+May 1, 2020
+Marketing Analytics to Automate Leads Call Status and Reporting
+August 30, 2021
+Power BI integration with RestAPI, and SAML Integration
+June 7, 2021
 Load more
 RECOMMENDED INSIGHTS
-AI in healthcare to Improve Patient Outcomes
-Gaming Disorder and Effects of Gaming on Health.
-Role of big data & analytics in banking and finance
-Google Data Studio Pipeline with GCP/MySQL
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
+Deploy MERN to google app engine, google cloud platform
+Healthcare Data Analysis
+Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J...

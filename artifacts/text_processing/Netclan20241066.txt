@@ -1,0 +1,101 @@
+itle netclan
+source url httpsinsightsblackcoffercomaisolutionforatechnologyinformationandinternetfirm
+
+
+home
+our success stories
+ai solution for a technology information and internet firm
+client background
+client
+a leading technology information and internet firm in india
+industry type
+it
+services
+emerging technologies  and 
+organization size
+
+the problem
+the objective was to analyze research and propose data science solutions in the product based on the product design use cases and services
+our solution
+analyze each use case
+analyze product design
+analyze user type controls per use cases
+for each use case and available product design
+provide solution or scope of the data science capabilities
+list attributes needed in each of the product design screens
+list use cases are driven by the data
+for each datadriven use cases
+a research and design the data science solution
+b list needed data
+c list process
+d list models
+e list solution
+help product design team with data science use cases
+help product design team with data science solutions for each use case
+deliverables
+statement of work sow with a solution documentation
+data science use cases document
+data science solution for each use cases document
+data science methodology algorithms needed models recommended and more in a good documentation
+tools used
+google docs
+microsoft word
+drawio
+excel
+google draw
+languagetechniques
+python flask
+models used
+knearest neighbours
+kmeans clustering
+nltk
+deepavlov
+spacy
+texttiling
+eclat
+lstm
+skills used
+aptitude for functionalities
+problemsolving
+communication
+data modelling
+data pipelining
+mlops
+nlp
+recommender systems
+databases used
+amazon s
+web cloud servers used
+aws ec
+business impact
+collaboration with the client to identify the scope and use cases for the platform
+cost effective approach taken to document solutions
+regressive rd to find and document thirdparty solutions for certain use cases saving cost and time
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+facial recognition attendance system
+october  
+building a realtime log file visualization dashboard in kibana
+august  
+advanced data visualization solutions for monitoring key business metrics with integrated
+august  
+problems faced by students in online classes during covid
+december  
+load more
+recommended insights
+how does ai help to monitor retail shelf watches
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+impact of covid pandemic on tourism  aviation industries
+will ai replace us or work with us

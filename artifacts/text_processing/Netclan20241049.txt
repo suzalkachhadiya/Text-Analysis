@@ -1,0 +1,165 @@
+itle netclan
+source url httpsinsightsblackcoffercomdepartmentwisekpitrackingdashboardwithtechnicianperformanceanalysisforatozdependableservice
+
+
+home
+our success stories
+departmentwise kpi tracking dashboard with technician performance analysis for atoz dependable service
+client background
+client
+a leading retail tech firm in the usa
+industry type
+retail
+products  services
+retail businesses
+organization size
+
+the problem
+the organization has some services like sales installs and services for many departments like drain plumbing excavation hvac and bath organization wants to track some kpis based on the given monthly target and tracking should be department wise or technician wise the dashboard will show tracking the pace of kpis so that they can understand how the organization is performing in each department in terms of number of jobs revenue etc and also they want to understand  how technicians are working to achieve their monthly target dashboard has two basic views  one for admin persons and one for users only when an admin person logged in to the web app he will see the dashboard as an iframe and he can filter date range department technician to see the progress of department and technicians when a user logged in to the web app he will see the user dashboard view after  autofiltering his name so that he can only view his data in the dashboard
+scope of this project is limited to atoz dependable service but scaleable to auto user filter in dashboard datasource each user will see his data only in the dashboard that brings data security and integrity
+our solution
+define attributes and entities that needed to determine all the kpis for tracking
+group kpis in categories and subcategories for example as per work defined in organization can be divided into three main categories called service sales and install and each of these categories can be divided into  departments called drain bath hvac plumbing and excavation so any department will have the same kpis for the same  category you can refer the document   httpsdrivegooglecomfiledepqtbetvrkfdwkxqtejcnentxviewuspsharing
+determine calculations for each kpis
+design dashboard in looker studio and add components need to track those kpis and use those kpi calculations in dashboard to get actual and target values
+determine the admin view and users view of the dashboard report and create a separate dashboard for users in admin create three pages service sales and install for users create  separate dashboard each belongs to one of the main category
+add datasource for each of the main categories service sales and install assign these datasource to the correct page same data source will be reused in users dashboard
+determine what type of charts needed to full fill the client requirement add them and configure accordingly
+create embedded url and provide those to the developer team to use as iframe in the primary product wwwatozscoreboardcom
+create a user filter parameter default params for the user dashboard and make this as json string and pass it to the embed url through backend code so when a user will log in to the web app they will see a filtered dashboard which will only show his filter data from data source
+deliverables
+ frontend component 
+login page
+signup page
+change password
+homepage login user  user dashboard
+homepage admin  admin dashboard
+add actual forms  install actual sales actual service actual
+add target forms  install target sales target service target
+list view  install actual sales actual service actual
+list view   install target sales target service target
+
+backend components in mainviewspy
+login view
+signup view
+change password view
+reset password by email view email service needed
+install createview updateview deleteview implemented but not used
+sales createview updateview deleteview implemented but not used
+service createview updateview deleteview implemented but not used
+install target createview updateview deleteview
+salestarget createview updateview deleteview
+servicetarget createview updateview deleteview
+staticfolder in vm  demowwwpublicwebapp
+tech stack
+tools used
+django  lookerstudio
+languagetechniques used
+python html css jquery bootstrap
+skills used
+data visualisation database optimized queries form validations tracking algorithms
+databases used
+postgresql
+web cloud servers used
+linode vm
+what are the technical challenges faced during project execution
+
+admin dashboard
+
+overview
+ provides an overall view of the monthly performance of all departments
+tracking
+ allows admins to track the progress and performance of individual employees within each department
+analytics
+ offers detailed analytics and reports on departmental and employee performance metrics
+
+employee dashboard
+
+goals and targets
+ displays specific goals and targets for employees to achieve
+performance tracking
+ enables employees to monitor their progress towards their goals
+how the technical challenges were solved
+dashboard has two basic views  one for admin persons and one for users only when an admin person logged in to the web app he will see the dashboard as an iframe and he can filter date range department technician to see the progress of department and technicians when a user logged in to the web app he will see the user dashboard view after  autofiltering his name so that he can only view his data in the dashboard
+scope of this project is limited to atoz dependable service but scaleable to auto user filter in dashboard datasource each user will see his data only in the dashboard that brings data security and integrity
+to add actual data user can add data in actual form of their assigned category and only admin can add actual entry of any user also admin can add and  view targets of install sales and service after adding month targets users can see their targets and user can track their own performance and admin can track all users performance
+business impact
+implementing a comprehensive tracking system with both an admin dashboard and an employee dashboard will have significant positive impacts on the business including
+enhanced performance management
+
+improved oversight
+ admins can easily monitor departmental and individual performance ensuring that goals are met and identifying areas for improvement
+datadriven decisions
+ access to detailed analytics enables informed decisionmaking allowing for timely interventions and resource allocation
+increased employee accountability
+
+clear objectives
+ employees have a clear understanding of their goals and targets fostering a sense of responsibility and ownership over their work
+realtime feedback
+ continuous tracking and feedback help employees stay on track and make necessary adjustments to meet their objectives
+boosted productivity
+
+motivation
+ transparent performance metrics and progress tracking motivate employees to perform at their best
+goal alignment
+ ensures that individual goals are aligned with departmental and organizational objectives driving overall productivity
+enhanced communication and transparency
+
+open communication
+ facilitates open communication between management and employees regarding performance expectations and achievements
+transparency
+ promotes a culture of transparency where employees are aware of how their contributions impact the organizations success
+operational efficiency
+
+streamlined processes
+ reduces the administrative burden of performance tracking freeing up time for more strategic activities
+proactive management
+ enables proactive management of performance issues before they escalate maintaining high levels of operational efficiency
+overall the implementation of this tracking system will lead to a more motivated and productive workforce better alignment of individual and organizational goals and ultimately enhanced business performance and growth
+project snapshots
+project website url
+atozdashboard web app 
+atozscoreboardcom
+atozdashboardadmin  
+httpswwwatozscoreboardcomadmin
+atozdashboardadmin 
+httpslookerstudiogooglecomreportingcbeefbfdcbaabcfcead
+atozdashboardinstalluser 
+httpslookerstudiogooglecomreportingcaecdadecebf
+atozdashboardsalesuser 
+httpslookerstudiogooglecomreportingeddcaeaafdecdae
+atozdashboardserviceuser 
+httpslookerstudiogooglecomreportingeeebbbffbbfc
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+android mobile apps portfolio
+june  
+using graph technology to create single customer view
+july  
+advanced ai for pedestrian crossing safety
+july  
+modeling  simulation for drug development  formulation
+january  
+load more
+recommended insights
+embedding care robots into society and practice sociotechnical considerations
+how ai will help the defense power of a country
+predictive modelling ai ml dashboards in power bi
+ai bot driven by graphdb neoj for a leading healthcare tech

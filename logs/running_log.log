@@ -17,3 +17,317 @@
 [2024-11-14 11:33:36,795: INFO:main: ===>>> stage Data Ingestion stage completed <<<===
 
 x==========x]
+[2024-11-14 12:06:31,245: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:06:31,245: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:08:30,908: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:08:30,908: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:08:30,918: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:13:06,038: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:13:06,042: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:13:06,042: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:16:51,509: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:16:51,509: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:16:51,509: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:18:04,999: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:18:05,005: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:18:05,005: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:18:39,760: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:18:39,764: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:18:39,764: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:19:35,383: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:19:35,391: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:19:35,392: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:20:36,073: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:20:36,073: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:20:36,080: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:21:59,177: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:21:59,183: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:21:59,183: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:25:12,594: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:25:12,594: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:25:12,599: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 12:25:30,121: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 12:25:30,121: INFO:common: createD Directory at:artifacts]
+[2024-11-14 12:25:30,128: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:00:21,568: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:00:21,568: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:00:21,572: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:01:46,381: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:01:46,386: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:01:46,386: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:02:15,649: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:02:15,655: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:02:15,655: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:34:01,398: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:34:01,402: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:34:01,404: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:35:39,022: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:35:39,036: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:35:39,038: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:36:45,390: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:36:45,390: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:36:45,390: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:38:11,164: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:38:11,164: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:38:11,164: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:38:29,337: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:38:29,337: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:38:29,337: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:39:34,463: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:39:34,463: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:39:34,475: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:41:06,591: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:41:06,591: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:41:06,591: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 13:43:17,342: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 13:43:17,347: INFO:common: createD Directory at:artifacts]
+[2024-11-14 13:43:17,350: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 14:00:04,024: INFO:main: ===>>> Data Ingestion stage started <<<===]
+[2024-11-14 14:00:04,024: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:00:04,024: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:00:04,024: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 14:01:15,283: ERROR:main: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))]
+Traceback (most recent call last):
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 1073, in _create
+    self.do_handshake()
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 1073, in _create
+    self.do_handshake()
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 12, in <module>
+    obj.main()
+  File "C:\DataScience\Projects\Text_analysis\src\text_analysis\pipeline\stage_01_text_extraction.py", line 15, in main
+    data_ingestion.extract_text()
+  File "C:\DataScience\Projects\Text_analysis\src\text_analysis\components\text_extraction.py", line 21, in extract_text
+    response=requests.get(url,headers=HEADERS)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\suzal\anaconda3\envs\envTA\lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+[2024-11-14 14:02:55,280: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:02:55,285: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:02:55,285: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 14:03:30,367: INFO:main: ===>>> Text Extraction stage started <<<===]
+[2024-11-14 14:03:30,367: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:03:30,367: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:03:30,367: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 14:08:42,367: INFO:main: ===>>> stage Text Extraction stage completed <<<===
+
+x==========x]
+[2024-11-14 14:08:42,367: INFO:main: ===>>> Text Processing Stage started <<<===]
+[2024-11-14 14:08:42,367: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:08:42,367: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:08:42,382: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 14:08:43,861: INFO:main: ===>>> stage Text Processing Stage completed <<<===
+
+x==========x]
+[2024-11-14 14:30:09,733: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:30:09,735: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:30:09,737: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 14:33:04,037: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:33:04,037: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:33:04,054: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 14:34:02,044: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 14:34:02,044: INFO:common: createD Directory at:artifacts]
+[2024-11-14 14:34:02,044: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 17:30:44,991: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:30:44,995: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:30:44,995: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 17:38:52,135: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:38:52,135: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:38:52,135: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 17:54:12,324: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:54:12,324: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:54:12,340: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 17:55:05,070: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:55:05,077: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:55:05,082: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 17:56:23,617: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:56:23,617: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:56:23,634: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 17:58:03,445: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 17:58:03,445: INFO:common: createD Directory at:artifacts]
+[2024-11-14 17:58:03,445: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:02:06,321: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:02:06,321: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:02:06,321: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:02:46,197: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:02:46,197: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:02:46,211: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:03:45,337: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:03:45,337: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:03:45,345: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:04:48,925: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:04:48,925: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:04:48,925: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:05:30,121: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:05:30,121: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:05:30,129: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:06:28,442: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:06:28,442: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:06:28,447: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:11:12,359: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:11:12,364: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:11:12,364: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:11:44,035: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:11:44,035: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:11:44,035: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:19:58,533: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:19:58,538: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:19:58,540: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:26:58,073: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:26:58,073: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:26:58,083: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:28:23,167: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:28:23,167: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:28:23,173: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:28:49,230: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:28:49,230: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:28:49,237: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:29:03,301: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:29:03,310: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:29:03,313: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:37:44,239: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:37:44,239: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:37:44,239: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:38:59,945: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:38:59,953: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:38:59,955: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:44:37,667: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:44:37,683: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:44:37,683: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:45:12,912: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:45:12,912: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:45:12,912: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:47:18,987: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:47:18,987: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:47:18,987: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 18:48:49,914: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:48:49,917: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:48:49,917: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:52:20,780: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:52:20,787: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:52:20,790: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:55:28,844: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:55:28,844: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:55:28,859: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 18:59:06,375: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 18:59:06,381: INFO:common: createD Directory at:artifacts]
+[2024-11-14 18:59:06,384: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 19:04:53,870: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:04:53,872: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:04:53,873: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 19:06:17,784: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:06:17,787: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:06:17,787: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 19:19:55,408: INFO:main: ===>>> Text Extraction stage started <<<===]
+[2024-11-14 19:19:55,408: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:19:55,408: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:19:55,408: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 19:25:29,090: INFO:main: ===>>> stage Text Extraction stage completed <<<===
+
+x==========x]
+[2024-11-14 19:25:29,090: INFO:main: ===>>> Text Processing Stage started <<<===]
+[2024-11-14 19:25:29,098: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:25:29,100: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:25:29,100: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 19:25:31,333: INFO:main: ===>>> stage Text Processing Stage completed <<<===
+
+x==========x]
+[2024-11-14 19:25:31,333: INFO:main: ===>>> stage Text analysis Stage started <<<===]
+[2024-11-14 19:25:31,349: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:25:31,349: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:25:31,349: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 19:25:31,349: ERROR:main: name 'os' is not defined]
+Traceback (most recent call last):
+  File "main.py", line 29, in <module>
+    obj.main()
+  File "C:\DataScience\Projects\Text_analysis\src\text_analysis\pipeline\stage_03_text_analysis.py", line 15, in main
+    text_analysis.text_analysis()
+  File "C:\DataScience\Projects\Text_analysis\src\text_analysis\components\text_analysis.py", line 171, in text_analysis
+    for processed_filename, raw_filename in zip(os.listdir(processed_text_path),os.listdir(raw_text_path)):
+NameError: name 'os' is not defined
+[2024-11-14 19:36:08,795: INFO:main: ===>>> Text Extraction stage started <<<===]
+[2024-11-14 19:36:08,811: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:36:08,811: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:36:08,811: INFO:common: createD Directory at:artifacts/text_extraction]
+[2024-11-14 19:45:01,488: INFO:main: ===>>> stage Text Extraction stage completed <<<===
+
+x==========x]
+[2024-11-14 19:45:01,503: INFO:main: ===>>> Text Processing Stage started <<<===]
+[2024-11-14 19:45:01,503: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:45:01,511: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:45:01,511: INFO:common: createD Directory at:artifacts/text_processing]
+[2024-11-14 19:45:03,867: INFO:main: ===>>> stage Text Processing Stage completed <<<===
+
+x==========x]
+[2024-11-14 19:45:03,867: INFO:main: ===>>> stage Text analysis Stage started <<<===]
+[2024-11-14 19:45:03,867: INFO:common: yaml file: config\config.yaml loaded successfully]
+[2024-11-14 19:45:03,867: INFO:common: createD Directory at:artifacts]
+[2024-11-14 19:45:03,867: INFO:common: createD Directory at:artifacts/text_analysis]
+[2024-11-14 19:45:07,435: INFO:main: ===>>> stage Text analysis Stage completed <<<===
+
+x==========x]

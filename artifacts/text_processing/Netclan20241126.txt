@@ -1,0 +1,90 @@
+itle netclan
+source url httpsinsightsblackcoffercomawsquicksightreportingdashboard
+
+
+home
+our success stories
+aws quicksight reporting dashboard
+client background
+overview
+as a singapore and australia based startup drive lah known as drive mate in australia is a peertopeer car sharing platform where you can rent a large variety of cars always nearby at great value all trips on drive lah are comprehensively insured through our insurance partners so car owners dont have to worry about their insurance the idea is simple car ownership is expensive in singapore per month yet only use the car  of the time  cars are mostly parked with drive lah you can reduce the cost of ownership by renting it out when you dont need it in a safe way renters can rent those cars when they are not used by their owners at good value
+in a fastgrowing nonownership economy where taxi food beauty is available ondemand drive lah is envisioning to take the lead in distance travel and simplifying car access
+website
+httpwwwdrivelahsg
+company size
+ employees
+founded
+
+project objective
+automating the process to get updated metrics every week
+evaluate the following performance metrics which will be used on aws quick sight for performance evaluations
+total cancellations
+cancellations by host
+weekly guest success rate
+monthly active users maus
+monthly active listings mals
+total approved  live listings
+approved  live instantbookings
+approved  live dl go
+delivery booking listings
+weekly active listings wals
+successful hdm
+unsuccessful hdm
+booking acceptance rate
+total requested trips
+new listings made live
+percentage of live listings made active
+map location metrics table with postal districts
+dl live cars  dl lm active cars
+host experience team weekly dashboard
+new weekly listings dashboard
+two transaction metrics
+build code for extracting daily agent activity report on daily basis
+our solution
+for performance metrics we suggested that we will code for each metric  will store them in a table on aws rds which will be directly synced to the aws quick sight for performance evaluations
+for automating the process to get updated tables of metrics every week we suggested to use a virtual machine on which we can upload all code files  can run a cron job for each file to automatically get updated on specified time every week
+tools used
+jupyter notebook
+pycharm
+mysql workbench
+aws quicksight
+language used
+python
+database used
+amazon relational database service rds
+what are the technical challenges faced during project execution
+tried with aws lambda function to update tables on aws rds but lambda function was unable to run complete code
+how the technical challenges were solved
+suggested to use a virtual machine on which we can upload our code files  can run cron job for automatically updating tables on regularly basis
+project snapshots
+metrics from listings table
+host experience metric
+new live listings of last  days
+line chart of total cancellations  cancellations by host
+line chart of monthly active users maus
+area chart of percentage of live listings made active
+line chart of number of dl go listings  number of instant booking listings
+line chart of monthly active listings mals
+line chart of new listings made live
+vertical bar chart of total approved  live listings
+project video link
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+data security protect a major enterprise asset
+june  
+human rights outlook
+july  
+analyzing the impact of female ceo appointments on company stock prices
+august  
+data science  create tailored algorithms
+june  
+load more
+recommended insights
+departmentwise kpi tracking dashboard with technician performance analysis for atoz dependable
+how telehealth and telemedicine helping people to fight against covid
+metaanalysis in healthcare research
+coronavirus impact on the hospitality industry

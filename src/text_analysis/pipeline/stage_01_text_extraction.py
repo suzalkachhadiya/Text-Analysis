@@ -2,7 +2,7 @@ from src.text_analysis.logging import logger
 from src.text_analysis.config.configuration import ConfigurationManager
 from src.text_analysis.components.text_extraction import TextExtraction
 
-STAGE_NAME="Data Ingestion Stage"
+STAGE_NAME="Text Extraction Stage"
 
 class TextExtractionPipeline:
     def __init__(self):

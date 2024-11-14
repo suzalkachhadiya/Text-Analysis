@@ -1,0 +1,97 @@
+itle netclan
+source url httpsinsightsblackcoffercomdashboardtotracktheanalyticsofthewebsiteusinggoogleanalyticsandgoogletagmanager
+
+
+home
+our success stories
+dashboard to track the analytics of the website using google analytics and
+client background
+client
+a automobile firm in india
+industry type
+automobile
+services
+retail automobile
+organization size
+
+project objective
+the project objectives are as follows
+assisting the client with the setup for google analytics google tag manager which helps them in tracking the analytics of the website
+dashboards on website analysis presenting the important metrics and analysis related to websites
+project description
+this project includes assisting the client to study the user flow and behaviour flow of the users on the websites it had one main website and three other sub websites to analyse the button clicks impressions and understanding the users behaviour on the website many events were to be tracked and converted to a dashboard in google data studio to make it simpler to understand
+this project was created to give this data in a way that companies can readily understand through the use of visualisations the graphs will show the increasedecrease in any of the metrics as well as the manner in which the increasedecrease occurs it will display all of the crucial data monthly or even by date range to help you keep track of the changes that occur
+our solution
+the main aim of this project is to display the event flow user flow and behaviour flow through dashboards and analyse them to work on the areas of improvements
+google analytics
+google analytics is integral to tracking and measuring data from a number of digital platforms but especially web metrics and customer behaviour for example through google analytics you can see when people drop out of the buying process perhaps they abandon while on the cart page which would then inform your decisions on how to improve the checkout process
+because google analytics measures traffic from a variety of devices and sources and integrates with other online platforms such as google ads it is a handy tool to get an overview of your businesss digital analytics
+google tag manager
+google tag manager is a tag management system tms that allows you to quickly and easily update measurement codes and related code fragments collectively known as tags on your website or mobile app once the small segment of tag manager code has been added to your project you can safely and easily deploy analytics and measurement tag configurations from a webbased user interface
+when tag manager is installed your website or app will be able to communicate with the tag manager servers you can then use tag managers webbased user interface to set up tags establish triggers that cause your tag to fire when certain events occur and create variables that can be used to simplify and automate your tag configurationsa tag manager container can replace all other manuallycoded tags on a site or app including tags from google ads google analytics floodlight and rd party tags
+google data studio dashboards
+the dashboards preview the important metrics related to the websites using graphs tables to understand the trends patterns in the users
+the following steps were carried out for the project
+get the important metrics for website performance like the number of users visiting the websites the average session duration graphs related to the user acquisition like number of new users vs the returning users this is related to the main website
+for the sub websites track the number of users clicking on specific buttons through this i understand the user flow compare between the number of users entering the website and those clicking on buttons
+track the metrics related to goal conversion like goal completions goal conversion rate goal completion rate and different goals and present it using visualisations
+provide data insights in the end providing scope of improvements and recommendations
+project deliverables
+the main deliverable for this project were dashboards on google data studio depicting important metrics related to website performance there were three sub websites for which there were two types of views each each of the views had several buttons related to the product the project was about finding the user flow and event flow on the views
+tools used
+google analytics to track events goal conversions and analyse the traffic sourcesmedium the top viewed pages and the top cities and countries
+google tag manager to set up the tags and triggers of button clicks page visits as events in google analytics
+google data studio to visually represent important metrics like impressions clicks goal completions using google analytics
+skills used
+digital analysis
+data analysis
+data visualisations
+google analytics
+what are the technical challenges faced during project execution
+the main technical challenge faced was that there were multiple events setup in google analytics for one event and thus identifying a particular one was difficult
+how the technical challenges were solved
+we had to communicate with the client to clarify about the event names although this took some time but it was necessary since accurateness of data is very essential for the project
+business impact
+this analysis helps to improve website performance understanding user behavior understanding the impact of business campaigns and improvising the uiux to increase their potential users
+having insight into your clients behaviour and demographics can help you make decisions about serving them the right products at the right time for maximum chances of a sale such data could include a clients persona such as their age location and areas of interest
+some of the common metrics that are important in digital analytics include
+dashboard metrics
+
+some examples are pages per visit bounce rate and average duration of each visit
+conversion rate
+this indicates whether the goal of your website was achieved be it a sale of a product a free giveaway or a subscription to a newsletter
+sourcemedium analysis
+this analysis helps in understanding the traffic sources and medium on the website this helps the businesses to work on strengthening the traffic sources to get better reach to the target audience
+traffic analysis
+the overall traffic analysis for the website provides information regarding the important metrics like usersavg session duration and goal completions according to different sourcemedium this will help the  business to analyse different traffic channels performances
+project snapshots
+figure  tracking of buttons for triber virtual studio
+figure  triber goal conversions
+figure  kiger  experience website tracking
+figure  traffic medium analysis
+figure  overview of dashboard metrics
+figure  kiger studio experience website
+project website url
+website url
+httpswwwrenaultcoin
+dashboard url
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+how will covid affect the world of work
+april  
+the rise of the ott platform and its impact on the
+august  
+future of ai and machine roles in the medical sector
+june  
+ai agent development and deployment in jina ai
+july  
+load more
+recommended insights
+ai in healthcare to improve patient outcomes
+blockchain in fintech
+ios mobile applications portfolio
+enhancing model accuracy from  to over  strategies for improving

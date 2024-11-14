@@ -1,0 +1,92 @@
+itle netclan
+source url httpsinsightsblackcoffercomgooglelsaadsgooglelocalserviceadsetltoolsanddashboards
+
+
+home
+our success stories
+google lsa ads google local service ads  etl tools and dashboards
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+ads marketing campaign consulting
+organization size
+
+the problem
+the client has a google lsa ads manager account with about  accounts and wishes to collect data available through the google lsa api daily the client wishes to set up a private databases that is automatically created for newly added accounts and stores all of the collected data lead and phone call data finally all collected data must be presented through the google looker studio dashboards with the design layouts as suggested by the client
+our solution
+the solution involves a number of pythonbased etl tools that are responsible for fetching the data from googles lsa api daily and updating the same in the google bigquery databases
+two different tools run are
+mcc data fetching tool
+lead record data fetching tool
+the fetched data is stored in bigquery databases on the clientprovided googlemanager account
+carefully curated google looker studio dashboards implemented with clientsuggested theme layout which are updated upon client request represent a number of kpis and graphs indicating major data trends
+the designed dashboards have a number of datacontrolling filters that filter the data accountwise and datewise
+solution architecture
+deliverables
+heroku deployed python tools
+google looker studio dashboards
+bigquery database
+maintenance service
+tools used
+python
+google bigquery
+heroku
+google looker studio
+git
+heroku cli
+languagetechniques used
+python
+googlesql bigquery supported sql
+looker modeling language looker ml
+git commands
+skills used
+data engineering skill to fetch data as per client needs
+data processing to make it suitable for dashboards databases
+dashboard designing and data presentation skills
+tool deployment
+database manipulation
+data piplining
+databases used
+google bigquery
+web cloud servers used
+heroku cloud application platform
+what are the technical challenges faced during project execution
+google lsa api is slow high data fetching timelines
+bigquery jobs fail causing inconsistencies
+how the technical challenges were solved
+entire data fetching operation requires  hrs daily  separate tools run in asynchronously and populate two different databases the data is grouped in the dashboards
+regular weekly and monthly data refreshes update any inconsistent data
+business impact
+business clients are able to access important kpis without the need to understand the complexities involved behind the scenes
+allows clients to track their performances responsiveness
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+python model for the analysis of sectorspecific stock etfs for investment
+december  
+departmentwise kpi tracking dashboard with technician performance analysis for atoz dependable
+august  
+how to access amazon seller central or vendor central data in
+march  
+are initial big data efforts focused on gaining insights from existing
+august  
+load more
+recommended insights
+clinical trial big data  analytics
+data management etl and data automation
+how will covid affect the world of work
+impact of covid pandemic on public transportation industries

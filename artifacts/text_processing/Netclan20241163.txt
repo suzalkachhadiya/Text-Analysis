@@ -1,0 +1,53 @@
+itle netclan
+source url httpsinsightsblackcoffercomamazonbuybotanautomationaitooltoautocheckouts
+
+
+home
+our success stories
+amazon buy bot an automation ai tool to autocheckouts
+client background
+client
+a leading consulting firm in the usa
+industry type
+consulting
+services
+management consultant
+organization size
+
+project objective
+the main objective of this project is to build the automation tool to buy product on amazon
+project description
+this project is basically completed using selenium and python all we have done is write a python script for automation using selenium
+make some clicks use logics to check item is in stock or not if the item is in stock then it buys the product otherwise repeat the process again
+our solution
+a simple python code which uses selenium web driver to do all work
+project deliverables
+python code
+tools used
+selenium webdriver
+languagetechniques used
+python
+skills used
+web scraping
+selenium
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+big data  analytics to help voters know their political leaders
+march  
+an ai mlbased web application that detects the correctness of text
+july  
+methodology for database discovery tool using openai llma langchain
+february  
+a leading law firm in the usa website seo  optimization
+september  
+load more
+recommended insights
+supplier insights and decision supports for the ecommerce outlets
+an etl solution for an internet publishing firm
+realtime dashboard to monitor infrastructure activity and machines
+coronavirus impact on the hospitality industry

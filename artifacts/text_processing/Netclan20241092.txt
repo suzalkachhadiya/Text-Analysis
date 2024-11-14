@@ -1,0 +1,63 @@
+itle netclan
+source url httpsinsightsblackcoffercommedicalclassification
+
+
+home
+our success stories
+medical classification
+client background
+client
+a leading tech firm in the usa
+industry type
+it consulting
+services
+software consulting
+organization size
+
+project objective
+classify the medical research paper into  if the medical research paper cannot be used in future medical research and  if the medical research paper can be used in research based on some researchrelated phrases
+train an mldl model on classified data
+project description
+we have given an excel sheet of medical research paper text and provided some phrases to identify research papers that can be used for future medical research if the phrase is not present in a research paper then it will not be used for research after annotation we need to find the best mldl model to train research data and evaluate the model on test data
+our solution
+we have created a python script that can compare all medical research paper text to research phrases and annot  if research phrases are not present in a medical research paper and  if research phrases present in medical research paper
+after annotation we have trained different machine learning and deep learning models like bert base uncased using tensorflow bert large xgboost classifier random forest classifier and logistic regression among these models we have chosen the best accuracy  parameters model in our case the bertbase model performed good and gave  test accuracy
+project deliverables
+mldl model which is trained on medical research classification data to classify other medical research papers
+tools used
+google colab notebooks tensorflow pytorch transformers ms excel
+languagetechniques used
+python machine learning deep learning data science natural language processing nlp
+models used
+tensorflowbert model pytorch lstm model random forest classifier xgboost classifier logistic regression
+skills used
+machine learning deep learning nlp python programming
+databases used
+used ms excel data
+what are the technical challenges faced during project execution
+there are various technical challenges faced during project execution
+the research paper has a huge amount of text data so the model was giving space errors in colab notebooks
+find the best threshold value which gives best test accuracy
+how the technical challenges were solved
+to solve space error we have trained the model with lower batch size so this solved the error
+to find the best threshold value we created the roc auc curve and precision  recall curve and checked best points where accuracy will be higher
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+ai ml and iot driven entry management and monitoring
+june  
+what is the limitation of elearning classes
+december  
+prediction model for online casino
+april  
+face recognition with deepfills framework  deepface
+october  
+load more
+recommended insights
+monetization of data  innovate to harvest the full value of
+an etl tool to pull data from shiphero to google bigquery
+audify music player website in mern stack
+how advertisementmarketing affects business

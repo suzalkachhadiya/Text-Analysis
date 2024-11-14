@@ -1,0 +1,75 @@
+itle netclan
+source url httpsinsightsblackcoffercommarketingautomationtooltonotifyleaddetailstoclientsoveremailandphone
+
+
+home
+our success stories
+marketing tool to notify leads to clients over email and phone
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+prepare a daily report for data from local service ads dashboard and email to client
+project description
+extracts data from the lsa dashboard for the last  hours
+the data is sent to the client email in the form of a daily report using sendgrid
+the script runs every morning and is deployed to heroku by the name leaddetailstoemail
+the data is collected only for the companies that are not marked in red in the missed messages notification automation  master file sheet
+the following data is uploaded
+number of leads
+cost per lead
+lead type
+dispute amount to be approved
+dispute amount approved
+cost per call
+our solution
+use lsa api to extract data
+clean the data to make it readable and dispose the data not needed
+get the email id of each company from the given sheet
+send an email to the client using sendgrid
+deploy to heroku
+project deliverables
+a working deployed automated tool that runs everyday in the morning hours and sends a report to the client tool is monitored everyday
+tools used
+heroku
+lsa api
+sendgrid
+sheets api
+languagetechniques used
+python
+skills used
+data extraction cleaning and summarising
+databases used
+data is not stored and is sent directly to the client
+web cloud servers used
+heroku
+what are the technical challenges faced during project execution
+ensuring a companys data does not go to another company
+how the technical challenges were solved
+testing on multiple dummy email ids
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rise of telemedicine and its impact on livelihood by 
+january  
+auvik connectwise integration in grafana
+july  
+data integration for marketers
+november  
+advantages and disadvantages of elearning during the covid for students and
+december  
+load more
+recommended insights
+efficient supply chain assessment overcoming technical hurdles for web application development
+how voice search makes your business a successful business
+ocr optical character recognition
+google local service ads lsa data warehouse

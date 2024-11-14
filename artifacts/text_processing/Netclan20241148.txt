@@ -1,0 +1,72 @@
+itle netclan
+source url httpsinsightsblackcoffercomtractiondashboardsofmarketingcampaignsandposts
+
+
+home
+our success stories
+traction dashboards of marketing campaigns and posts
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing
+services
+marketing consulting
+organization size
+
+project objective
+for the linkedin posts that received the highest engagement which keywords phrases and hashtags were most commonly used and also view the data according to impressions and likes
+project description
+we are testing aws comprehend i performed a key phrase analysis of our linkedin posts we have an output file now we need your help to visualize the data so that we can interpret it
+i also have the original export file from linkedin i want to answer this business question
+for the linkedin posts that received the highest engagement which keywords phrases and hashtags were most commonly used
+i want to match up engagement rate with key phrase analysis the business question is this for the linkedin posts that received the highest engagement what were the most common keywords phrases and hashtags used
+beyond matching to engagement rate please check if there is a way to also view the data according to impressions and likes
+our solution
+data driven dashboards which will give the summary of most used words keywords phrases and also analysis of posts as per their interaction with their audience
+project deliverables
+two dashboard links in which
+first dashboard
+represents key phrase analysis of the output by aws comprehend
+second dashboard
+represents the linked in data analysis
+tools used
+python google data studio
+languagetechniques used
+python
+skills used
+python and data studio
+databases used
+mongodb
+web cloud servers used
+google data studio
+what are the technical challenges faced during project execution
+one of the major problem was to match the output of aws comprehend data with the data of excel sheet to find out which posts received maximum interactions and make a dashboard out of it
+how the technical challenges were solved
+working on the outputjson file in code editor and comparing it to the linked in data sheet to check the accuracy of the output file with each post
+project snapshots minimum  pictures
+project website url
+ key phrase analysis dashboard
+httpsdatastudiogooglecomreportingefbabbffbaaeaeb
+ linked in data analysis dashboard
+httpsdatastudiogooglecomreportingeccfbdefe
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+design and develop a product recommendation engine based on the features
+february  
+elk stack  elastic queries
+august  
+rise of telemedicine and its impact on livelihood by 
+january  
+rise of ehealth and its impact on humans by the year
+december  
+load more
+recommended insights
+big data and analytics to help form political leaders win election
+advanced patient data analysis solution for trend identification and improved healthcare
+face recognition with deepfills framework  deepface
+impact of covid coronavirus on the indian economy

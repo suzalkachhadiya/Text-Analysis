@@ -1,0 +1,162 @@
+itle netclan
+source url httpsinsightsblackcoffercomgoogledatastudiopipelinewithgcpmysql
+
+
+home
+our success stories
+google data studio pipeline with gcpmysql
+client background
+client
+a leading it firm in europe
+industry type
+it
+services
+ecommerce retail business marketing consulting
+organization size
+
+project objective
+creating a data pipeline to sync live data from fieldpulse to google data studio using gcpmysql
+project description
+there is a virtual machine up and running and mysql in google cloudgcp get the following live data from fieldpulse to google data studiogds for making business dashboard in gds 
+job data
+tag data
+team member data
+team data
+such that if data changes in fieldpulse  gds dashboard should update automatically
+our solution
+for fetching data from fieldpulse 
+data pipeline fieldpulse to gcp mysql
+  we have created a data pipeline that uses web scraping to fetch data from fieldpulse it makes a get request to the fieldpulse api  and the api returns raw data convert this into json format then in dataframe now  create new tables in gcp mysql and insertupdate the data accordingly
+insertion  updation of data 
+insertion 
+if any data fetched from fieldpulse is not present in their respective database table  then  insert that data in the table
+updation 
+if any data fetched from fieldpulse is present in their respective database table  then update that data in the table
+deploy the above data pipeline in gcp vm instance
+  deploy the above data pipeline in gcp vm so that data gets updated every hour from fieldpulse to mysql
+for getting data from gcp mysql to google data studiogds 
+connecting gcp mysql to google data studio
+  connect gcp mysql to gds as follows 
+open a new report
+click on add data
+choose mysql connector
+enter following fields 
+host name or ip  
+xxxxxxxxxxxx
+database             
+xyz
+username            
+xyz
+password             
+
+enable ssl
+upload
+servercapem
+certificate
+upload
+clientcertpem
+certificate
+upload
+clientkeypem
+certificate
+click authenticate
+add whatever table you want
+build visualization
+project deliverables
+below are the services that we provided to client after completion of this project 
+deployed data pipeline in gcp
+  a data pipeline connecting fieldpulse
+httpswebappfieldpulsecom
+ to gcp mysql that is deployed on a clients gcp vm instance it updates the data in mysql every hour it extracts the following data tables from fieldpulse 
+job data
+tag data
+team member data
+team data
+maintaining a log file in google cloud 
+there is a log file in cloud to resolve unexpected error quickly if any  log file stores following details 
+last pipeline synced time
+error type if any
+error location if any
+work order data 
+job id
+work order no
+tags titles
+starttime
+jobtype
+created by
+status
+invoicestatus
+assigned teams name
+projectid
+assignmentcount
+assignabletype
+notes
+customernotes
+customerfirstname
+customerlastname
+location
+assignedteammembers name
+endtime
+createdat
+job tag data 
+tag ids
+companyid
+mongoid
+title tag name
+type
+color
+createdat
+updatedat
+deletedat
+setup to connect gcp mysql to google data studiogds
+  provided a setup to connect gcp mysql to gds easily client can access his live data from mysql to gds and make visualizations out of it
+tools used
+google colab
+languagetechniques used
+python
+web scraping
+mysql
+skills used
+programming in python
+data structure  algorithm
+web scraping
+file handling
+google cloud
+google data studio
+databases used
+mysql
+web cloud servers used
+google cloud platform gcp
+what are the technical challenges faced during project execution
+getting data from fieldpulse 
+as there is no open source packagelibrary in python for accessing fieldpulse api  we struggled a lot to get the desired data from fieldpulse
+setting up connection from gcp mysql to gds 
+due to firewall and vpn  connection was not set up as ip address changes while using vpn it was showing an error every time someone tries to connect to mysql from their google studio account
+how the technical challenges were solved
+getting data from fieldpulse 
+we did use web scraping for this we explored all the api addresses we connected to each possible address and got the data then explored the data made a list of addresses which contains data of our interest also data is stored in a scattered and cascaded manner in fieldpulse with ids so  we had to fetch a lot of extra tables and then join multiple tables to get a desired data table
+setting up connection from gcp mysql to gds 
+to resolve this issue  we did as below 
+set up the ip address in gcp mysql security to   so that any system can access it vpn issue resolved
+enabled the ssl in gcp mysql to prevent it from unauthorized access
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+qualtrics api integration using python
+august  
+ai ml and iot driven entry management and monitoring
+june  
+ai agent development and deployment in jina ai
+july  
+data engineering and management tool airbyte with custom data connectors to
+february  
+load more
+recommended insights
+monetization of data  innovate to harvest the full value of
+data integration elt with neoj graph database
+grafana dashboard  oscar awards
+coronavirus impact on the hospitality industry

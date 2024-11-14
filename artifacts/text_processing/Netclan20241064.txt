@@ -1,0 +1,155 @@
+itle netclan
+source url httpsinsightsblackcoffercomadnetworksmarketingcampaigndatadashboardinlookergoogledatastudio
+
+
+home
+our success stories
+ad networks marketing campaign data dashboard in looker google data studio
+client background
+client
+a leading financial firm in dubai
+industry type
+financial services
+services
+banking financial services card payments mobile payments digital bank and fintech
+organization size
+
+the problem
+build dashboards unifying all the platforms in use google ads fb ads appsflyer mixpanel etc
+in order to be able to track everything in the funnel from traffic source to total installs paid organic and by channel
+our solution
+track the app data analytics using various platforms
+prepare the data sources  find and build data connectors for google data studio
+developed  pages of dashboard reports creating templates to importing data sources and perform various visualisations
+maintained and tracked dashboard reports and helped the client with intelligence from these reports
+deliverables
+
+updating the ios datasheet
+
+fixing the incoming data for androids
+
+correcting a calculation error
+
+finding an alternative to provide automated data update directly to google data studio for ios
+
+updates done to all the dashboards
+
+created new dashboards
+
+created a consolidated dashboard
+
+added required visualizations and conected to data sources
+
+created new data sources
+
+managing the consolidated dashboard with daily data monitoring
+
+funnel report for consolidated dahboard
+
+google analytics installed on website through tag manager
+
+resolving errors
+
+work on automation for ad acccounts
+
+developed a new dashboard
+
+ad accounts data automated
+
+work towards android data automation
+
+altering of blended data joins as per gds updates
+
+personalisation of dashboards
+
+current dashboard updated with google events and widget changes
+
+added apple search ads dashboard
+
+firebase funnel report dashboard developed
+
+card topups funnel report dashboard developed
+
+porter metrics custom dashboards for trial
+
+registration firebase funnel and percentage added
+
+updates for all the dashboards running until now and addition of kpi to the new firebase dashboards
+
+user info for firebase dashboard and retention report
+
+registration funnel cardtopups kyc funnel dashboard
+
+fixing and updating user info firebase dashboard and began working on the tiktok dashboard
+
+tiktok dashboard developed and populated with data from porter metrics
+tools used
+google data studio
+google analytics ga and universal analytics
+google tag manager
+big query
+firebase
+appsflyer
+mixpanel
+google spreadsheets
+languagetechniques used
+google standard sql dialect bigquery
+apps script
+skills used
+analytical aptitude
+problemsolving
+communication
+knowledge about sql
+knowledge in digital marketing and strategies
+google cloud services
+creating data pipelines
+databases used
+bigquery
+google spreadsheets
+firebase
+web cloud servers used
+google cloud platform
+what are the technical challenges faced during project execution
+communityinbuilt connectors for appstore connect didnt exist
+connector for apple search ads couldnt be found
+data tracking from google play console due to the timezone lag in data updation
+facebook connector issues
+how the technical challenges were solved
+worked towards building the custom connector by using apple api for appstore connect and search ads
+utilised big query to call and store  accurate data from google play console and be used as a connector in gds
+made use of inhouse built facebook connector and google sheet addon to track and keep connector inaccuracy check
+business impact
+helped the client to view a consolidated report of all their ad campaigns
+calculated and executed analytics metrics which helped to track various app events and helped the business to take decisions on ux
+consulted the client and collaborated with them in marketing and ad campaign strategies helped them cut their marketing expenses over less efficient marketing platforms
+created funnel reports and suggested insights on app traffic to take decisions on important landing pages
+project snapshots
+project website url
+httpsdatastudiogooglecomreportingafcbedfccfaddf
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rise of chatbots and its impact on customer support by the
+january  
+structural equation modeling sem
+april  
+sentiment analysis bot for price prediction
+march  
+building an analytics dashboard with a pdf parsing pipeline for data
+august  
+load more
+recommended insights
+chatbot using voiceflow
+roas dashboard for campaignwise google ads budget tracking using google ads
+advanced ai for trading automation
+streamlined equity waterfall calculation and deal management system

@@ -1,0 +1,62 @@
+itle netclan
+source url httpsinsightsblackcoffercomalgorithmictradingformultiplecommoditiesmarketslikeforexmetalsenergyetc
+
+
+home
+our success stories
+algorithmic trading for multiple commodities markets like forex metals energy etc
+client background
+client
+a leading trading firm in the usa
+industry type
+finance
+services
+trading consulting software
+organization size
+
+the problem
+a trading site will have all the required features allowing users to trade in multiple commodities markets like forex agriculture metals energy etc
+our solution
+designed the website with technical indicators and the ability to trade in live market plus allows the user to create hisher own strategy to backtest functionalities like all types of technical indicators
+trend following
+mean reversion
+relative strength
+volume
+momentum
+strategies are specific scripts which are able to send modify execute and cancel buy or sell orders and simulate real trading right on your chart backtesting is the process of recreating the work of your strategies on historical data essentially all of your past strategic work forward testing allows for the recreation of your strategy work in real time all while your charts refresh their data
+solution architecture
+deliverables
+a fully functional trading platform that lets you customize technical indicators create charts and analyse financial assets these indicators are patterns lines and shapes that millions of traders use every day platform designed is entirely browserbased with no need to download a client allowing the user to use all types of indicators
+trend following
+mean reversion
+relative strength
+volume
+momentum
+tools used
+numpy
+pandas
+languagetechniques used
+python
+business impact
+clients want a social media network analysis platform and mobile app for traders and investors so we designed a website with all the clients requirements where traders investors educators and market enthusiasts can connect to share ideas and talk about the market by actively participating in community engagement and conversation you can accelerate your growth as a trader and your ability to trade in the live market plus allows the user to create hisher own strategy to backtest a fully functional trading platform that lets you customize technical indicators create charts and analyze financial assets these indicators are patterns lines and shapes that millions of traders use every day platform designed is entirely browserbased with no need to download a client allowing the user to use all types of indicators
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+online barometer dashboard for smart schools system
+february  
+crm mondaycom via zapier to power bi dashboard
+july  
+what is the limitation of elearning classes
+december  
+how robots can help in elearning platforms
+july  
+load more
+recommended insights
+how robots can help in elearning platforms
+coronavirus the unexpected challenge for the european union
+ai chatbot using llm langchain llama
+deploy nodejs apps to google app engine google cloud platform

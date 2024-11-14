@@ -1,0 +1,343 @@
+itle netclan
+source url httpsinsightsblackcoffercomhealthcareaichatbotusingllamallmlangchain
+
+
+home
+our success stories
+healthcare ai chatbot using llama llm langchain
+client background
+client
+a leading healthcare tech firm in the usa
+industry type
+healthcare
+products  services
+healthcare solution
+organization size
+
+problem statement
+overview
+the ai chatbot is required to assist eye care patients with various tasks including booking appointments tracking lens order statuses reviewing patient dues sending statements and answering general questions about their eye exams and the practice
+requirements
+use of opensource llm models like llama with training on custom data
+implementation of qa from custom static data
+saas deployment to serve multiple hospitalspractices
+demonstration of sample chats using the customtrained model early in the project
+deployment on optimized servers preferably cpubased for execution gpubased acceptable for training
+periodic testing transition and demos before payment release
+provision of apis for communication with databases to fetch dynamic data
+solution
+solution overview
+develop and deploy a customtrained ai chatbot using an opensource llm model such as llama to assist eye care patients this solution will be implemented as a saas offering enabling multiple hospitals and practices to utilize the chatbot the project will include the training of the llm model on custom data development of apis for dynamic data interaction and deployment on optimized servers
+steps
+model training
+train the llama model with custom data specific to eye care patient queries
+api development
+develop apis to communicate with the hospitals database for dynamic data retrieval appointment booking order status patient dues
+deployment
+deploy the chatbot as a saas solution using optimized servers cpu for execution gpu for training
+testing and demo
+conduct periodic testing and demos to ensure functionality and transition smoothly
+sample chat demonstration
+provide sample chats to demonstrate the effectiveness of the customtrained model
+technology used
+llm model
+llama or another suitable opensource llm model trained with custom data only
+backend
+python preferred with a possibility of using c for backend implementation if feasible
+deployment
+optimized cpubased servers for execution with gpubased servers for initial model training
+apis
+customdeveloped apis for database interaction
+deliverables
+customtrained llm model
+a llama model trained with custom eye care data
+apis
+apis to handle appointment bookings order status checks patient dues reviews and statement sending
+saas deployment
+deployment of the chatbot as a saas solution accessible by multiple hospitalspractices
+sample chats
+demonstration of the chatbots effectiveness with sample chats using the customtrained model
+documentation
+detailed documentation of the technology stack apis deployment steps and user guide
+business impact
+improved patient experience
+patients can easily book appointments track orders and get answers to their queries leading to higher satisfaction
+operational efficiency
+automation of routine tasks reduces the workload on staff allowing them to focus on more critical tasks
+cost savings
+utilizing opensource tools and optimized servers minimizes costs avoiding recurring expenses associated with licensed software
+scalability
+saas deployment allows multiple hospitalspractices to use the chatbot enhancing scalability and reach
+datadriven insights
+custom apis enable realtime data interaction providing valuable insights into patient interactions and operational metrics
+by leveraging the power of opensource llm models and custom training this ai chatbot will significantly enhance patient interaction and operational efficiency for eye care providers
+sample chat scenarios
+milestone  chat samples
+appointments
+sample  booking an appointment
+patient
+hello this is john doe i would like to book an appointment at the eyecare location as soon as possible im experiencing issues with my vision here are my details
+name
+john doe
+dob
+january  
+preferred appointment date
+june  
+preferred time
+morning if possible
+reason for visit
+blurred vision and eye discomfort
+please call me back at your earliest convenience to confirm the appointment or suggest an alternative time you can reach me at the contact number provided above thank you
+best regards
+john doe
+chatbot
+thank you for sharing the details could you please provide a phone number and email address
+patient
+
+helloblackcoffercom
+chatbot
+can you please confirm the following details
+phone number
+
+email
+helloblackcoffercom
+patient
+yes its correct
+chatbot
+thanks for the details we have sent you an otp on the registered email and phone number can you please enter the otp
+patient
+
+if location name is not found in our location api the chatbot will ask for location again if found the chatbot saves the location id for further use
+chatbot
+thank you for the validation please choose a provider from the list
+ales bru
+juhn smith
+adam blake
+patient
+ill go with ales bru
+validation of entered data check if all required details are given check for available slots with provided preference
+chatbot
+thanks i see the following open slots on june  
+ am   am
+ am   am
+ pm   pm
+patient
+ill take the  am slot
+chatbot
+alright can you please confirm the following details
+patient information
+name
+john doe
+date of birth
+january  
+contact number
+ 
+email
+helloblackcoffercom
+appointment details
+date
+june  
+time
+ am
+provider
+ales bru
+reason for visit
+blurred vision and eye discomfort
+patient
+looks good
+if the patient says data is not correct ask which data is incorrect and have the user reenter
+chatbot
+your appointment is scheduled thanks for choosing eyecare location is there anything else i can help you with
+patient
+nothing as of now
+chatbot
+thanks have a great day
+sample  pediatric patient with vision issues
+patient
+hello this is olivia brown id like to book an eye examination appointment for my child at the eyecare hospital my child has difficulty seeing the board at school here are the details
+parents name
+olivia brown
+childs name
+lily brown
+dob
+june  
+preferred appointment date
+next tuesday
+preferred time
+afternoon if possible
+reason for visit
+difficulty seeing the board at school
+please call me back at your earliest convenience to confirm the appointment or suggest an alternative time you can reach me at the contact number provided above thank you
+best regards
+olivia brown
+ 
+chatbot
+thank you for sharing the details could you please provide an email address and date of birth
+patient
+helloblackcoffercom
+ dob is december  
+chatbot
+can you please confirm the following contact details
+phone number
+ 
+email
+helloblackcoffercom
+dob
+
+patient
+yes its correct
+chatbot
+thanks for the details we have sent you an otp on the registered email and phone number can you please enter the otp
+patient
+
+validation of entered data
+get list of providers
+chatbot
+thank you for the validation please choose a provider from the list
+dr emily thompson
+dr mark davis
+dr susan lee
+patient
+ill go with dr emily thompson
+validation of entered data check if all required details are given
+api should convert next tuesdays date and send date to api
+check for available slots with provided preference
+chatbot
+let me check the availability of the appointment
+chatbot
+i see the following open slots on june  
+ pm
+ pm
+ pm
+patient
+lets book the  pm appointment
+chatbot
+alright can you please confirm the following details
+patient information
+parents name
+olivia brown
+childs name
+lily brown
+date of birth
+december  
+contact number
+ 
+appointment details
+date
+june  
+time
+ pm
+provider
+dr emily thompson
+reason for visit
+difficulty seeing the board at school
+patient
+yes they are correct
+api call
+chatbot
+your appointment is scheduled thanks for choosing eyecare location is there anything else i can help you with
+patient
+nothing as of now
+chatbot
+thanks have a great day
+sample  struggling to get required information from patient
+patient
+hello i need to book an appointment
+chatbot
+sure i can help with that could you please provide your name date of birth phone number email and reason for your visit
+patient
+its john
+chatbot
+thank you john can i have your full name first and last and date of birth
+patient
+uh john i think its in your system
+chatbot
+to ensure we have the correct information ill need your full name first and last and date of birth this helps us locate your records accurately
+patient
+oh okay its johnathan smith i was born on april  
+validation of data
+chatbot
+thank you could you please provide a contact number and email
+patient
+um hold on i think its   and i dont have an email address
+validation of data
+chatbot
+thank you just to confirm your contact number is   correct
+patient
+yes thats right
+validation of data
+chatbot
+thanks for the details we have sent you an otp on the registered phone number can you please enter the otp
+patient
+
+validation of data entered
+get list of providers
+chatbot
+thank you for the validation please choose the reason for your visit from the following
+show cards
+patient
+selects one card
+chatbot
+great do you have any preferred dates and times for your appointment
+patient
+anytime next week is fine
+chatbot
+okay let me check our availability for next week do you prefer mornings or afternoons
+patient
+uh mornings i guess
+validation of data
+get list of providers
+api call to get providers
+chatbot
+please choose a provider from the list
+dr robert anderson
+dr laura bennett
+dr michael clark
+patient
+ill choose dr robert anderson
+check for available slots with provided preference
+chatbot
+i see the following open slots for next week
+monday  am
+wednesday  am
+friday  am
+patient
+lets book the monday  am appointment
+chatbot
+alright can you please confirm the following details
+patient information
+name
+johnathan smith
+date of birth
+april  
+contact number
+ 
+appointment details
+date
+monday next week june  
+time
+ am
+provider
+dr robert anderson
+reason for visit
+bl
+related articles
+more from author
+ai and mlbased youtube analytics and content creation tool for optimizing subscriber engagement and content strategy
+enhancing frontend features and functionality for improved user experience and dashboard accuracy in partner hospital application
+roas dashboard for campaignwise google ads budget tracking using google ads ap
+most popular insights
+how you lead a project or a team without any technical
+september  
+how machine learning will affect your business
+may  
+recommendation system architecture
+october  
+automation etl data pipeline from mongodb to kibana elasticsearch
+june  
+load more
+recommended insights
+what patients like and dislike about telemedicine
+how advertisementmarketing affects business
+building an analytics dashboard with a pdf parsing pipeline for data
+gptocr api

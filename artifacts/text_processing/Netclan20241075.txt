@@ -1,0 +1,73 @@
+itle netclan
+source url httpsinsightsblackcoffercomcreateaknowledgegraphtoproviderealtimeanalyticsrecommendationsandasinglesourceoftruth
+
+
+home
+our success stories
+create a knowledge graph to provide realtime analytics recommendations and a single
+client background
+client
+a leading tech firm in the usa
+industry type
+retail
+services
+retail business
+organization size
+
+the problem
+the client was using nosql database which was slow and did not provide realtime response for complex queries the data had many connections and it was difficult to represent them in nosql or relational databases
+our solution
+create a knowledge graph and provide realtime analytics and recommendations using machine learning
+solution architecture
+neoj was installed on a cloud vm based on linodes
+deliverables
+knowledge graphs and data pipelines are used to populate the graph
+apis to perform crud operations in realtime
+tools used
+neoj
+postman
+languagetechniques used
+python
+json
+models used
+noderelationship model
+skills used
+programming
+data engineering
+data analytics
+databases used
+neoj
+web cloud servers used
+linode
+what are the technical challenges faced during project execution
+integration of firestore with neoj without any native integration method or driver
+how the technical challenges were solved
+the challenge was solved by using api to retrieve data from firestore
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+why does your business need a chatbot
+september  
+iot ai ml to detect fire and smoke
+june  
+aidriven data analysis ai tool using langchain for a leading real
+march  
+hr analytics dashboard
+october  
+load more
+recommended insights
+political intelligence database
+how advanced analytics are redefining banking
+dowjonesindustrialaverage time series data analysis analysis and results of data
+impacts of covid  on streets sides food stalls

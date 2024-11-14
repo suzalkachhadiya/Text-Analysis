@@ -1,0 +1,84 @@
+itle netclan
+source url httpsinsightsblackcoffercomwebdataconnector
+
+
+home
+our success stories
+web data connector
+client background
+client
+a leading marketing tech firm in australia
+industry type
+marketing
+services
+marketing solutions
+organization size
+
+project objective
+to make a software code that takes data from a source and ingests it into a database present on a server the scripts should automatically execute after regular intervals of time
+project description
+the client had several data sources that were updated with new data regularly the client wanted software that triggers itself automatically and takes data from those data sources and ingests it into a database that is hosted on a linode server also the date parameters in the query should be changed dynamically using the current date further we had to assist in setting up the tableau bi tool on the clients pc and connect the postgres database to the tableau
+our solution
+we setup a linux server on linode
+install postgres on this linux server
+create a database and create a new user grant this new user all privileges on the database
+create a table within the database this table has columns with datatypes as specified by the client
+write a python script that makes get request to the client specified data source and store the response in json format
+inside the python script itself establish  a connection to our postgres database using the pscopg module and user credentials
+ingest the data into postgres using insert query in python script
+write code to get the todays date using the datetime module using this calculate yesterdays date now we can use these as parameters inside our query to the data source
+move these python files to our server
+install and setup cron on our server
+add the task to run specified python files at regular intervals to cron
+repeat steps  to  for every new data source
+project deliverables
+python script
+working linode server with cron installed
+tableau installation and connection to postgres
+project documentation
+tools used
+linode server
+vs code
+languagetechniques used
+python
+bash
+psql
+skills used
+python programming
+postgres sql
+linux scripting
+databases used
+postgres
+web cloud servers used
+linode
+what are the technical challenges faced during project execution
+avoiding duplicates was a challenge
+since client was living in australia all the timezone on server and in code were changed to aedt
+how the technical challenges were solved
+used uniqueid column to check for duplicates
+used pytz module to change timezones
+business impact
+this solution helps in maintaining a copy of all data sources inside our postgres database also the data is  available since data inside the postgres is updated regularly graphs in the tableau are also up to date
+project snapshots
+project website url
+httpsgithubcomxprowebconnectorfortableu
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+problems faced by students in online classes during covid
+december  
+ai conversational bot using rasa
+february  
+big data analytic in construction  real estate
+june  
+solution to quadratic assignment problems qap using ant colony system
+february  
+load more
+recommended insights
+turning the professional networking data into actionable insights
+rise of ehealth and its impact on humans by the year
+contribution of handicrafts visual arts  literature in the indian economy
+marketing tool to notify leads to clients over email and phone

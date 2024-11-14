@@ -1,0 +1,51 @@
+itle netclan
+source url httpsinsightsblackcoffercombudgetsaleskpidashboardusingpowerbi
+
+
+home
+our success stories
+budget sales kpi dashboard using power bi
+project description
+weekly data  clustered bar chart for weekly budget  actual value  weekly total budget  actual value completed
+ytd data  clustered bar chart for monthly budget  actual value  monthly total budget  actual value completed
+sales history  stacked chart for yearly sales with each month sales  total yearly sale completed
+dashlet  weekly data  total weekly budget  total weekly actual   weekly budget completed
+dashlet  ytd data  total ytd budget  total ytd actual   ytd budget completed
+dashlet  sales history  total sales completed
+filters  select area  select city  select years completed
+data visualization deliverables
+presentation
+map
+dashboard
+api integration
+data visualization tools
+kibana
+google data studio
+microsoft excel
+microsoft power bi
+data visualization languages
+javascript
+sql
+python
+dax
+demo
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+optimize the data scraper program to easily accommodate large files and
+may  
+human rights outlook
+july  
+how to setup custom domain for google app engine application
+february  
+efficient data integration and userfriendly interface development navigating challenges in web
+march  
+load more
+recommended insights
+google lsa ads google local service ads  etl tools and
+problems faced by students in online classes during covid
+etl discovery tool using llma langchain openai
+how advanced analytics are redefining banking

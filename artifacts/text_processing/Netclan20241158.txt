@@ -1,0 +1,99 @@
+itle netclan
+source url httpsinsightsblackcoffercomsentimentalanalysisonshareholderletterofcompanies
+
+
+home
+our success stories
+sentimental analysis on shareholder letter of companies
+client background
+client
+a leading financial firm in the usa
+industry type
+financial services  consulting
+services
+financial consultant
+organization size
+
+project objective
+project sentimental analysis on shareholder letter of companies objective was to predict the sentiments columns shareholder letter in terms of polarity and subjectivity finally classification of data into positive negative and neutral tone
+project description
+the project sentimental analysis on shareholder letter of us companies task involved data cleaning on shareholder letters of different companies which includes lemmatization lower case conversion removing special character n  t  punctuations numbers  single character and tokenization to generate polarity and subjectivity columns for the letter   letter  columns using the textblob library of nltk based on the polarity categorizing it into positive neutral    negative
+our solution
+letter text length variation
+contraction mapping on dataset
+replacing missing value with some neutral tone string like none so that cleaning doesnt generate any issue
+data cleaning and preprocessing which involves 
+i  lemmatisation
+ii lower case conversion
+iii  removing special character
+iv  removing n  t etc
+v  remove punctuations numbers  single character removal
+vi  forming list of letter data using tqdm
+tokenization and word count
+used textblob library which is part of nltk for sentiment analysis
+created polarity and subjectivity column for the letter  letter columns
+based on the polarity of letter  created a lettertype column with values positive  neutral    negative category
+project deliverables
+output ipython file
+preprocessed dataset
+tools used
+ jupyter notebook
+ anaconda
+ notepad
+ sublime text
+ brackets
+ python 
+languagetechniques used
+python
+machine learning
+nlp natural language processing
+models used
+my project sentimental analysis on shareholder letter of companies developed with a software model which makes the project high quality reliable and cost effective
+ software model  waterfall model
+ for project sentimental analysis on shareholder letter of us companies is a waterfall model as our model is not forming the loop from end to the start using textblob which predicts sentiments polarity and subjectivity as the output following the waterfall model
+skills used
+pandas operations
+data chunking and integration
+data visualization
+databases used
+no database is used to complete this project
+web cloud servers used
+no web cloud server was required for this work
+what are the technical challenges faced during project execution
+i have worked before on tasks similar to this so there were no challenges faced but the data cleaning was a bit different and required time to complete
+how the technical challenges were solved
+as discussed no technical challenges were faced during this project
+project snapshots
+figure  input data schema
+figure  output data schema
+figure  sample input dataset
+figure  is pandas dataframe which was fetched from google cloud database there were  columns and  rows
+figure  sample output dataset
+figure  is output pandas dataframe after data cleaning and modeling of sentiment identification there are  columns and  rows
+figure  sentiments assignment based on polarity
+figure  represents the identification of sentiments and tone based on polarity and subjectivity polarity then sentiment type is positive  if the polarity sentiment type is negative and if the polarity sentiment type is neutral
+figure   histogram representation of length of shareholder letter 
+figure  is histogram plot between length of shareholder letter  among the final output dataset
+figure   histogram representation of length of shareholder letter 
+figure  is histogram plot between length of shareholder letter  among the final output dataset
+figure  flow chart
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+role of big data in academia
+may  
+marketing tool to notify leads to clients over email and phone
+august  
+statistical simulation
+march  
+crm mondaycom via zapier to power bi dashboard
+july  
+load more
+recommended insights
+elk stack  elastic queries
+what jobs will robots take from humans in the future
+recommendation engine for insurance sector to expand business in the rural
+mvp for a software that analyses content from audio pharmabased

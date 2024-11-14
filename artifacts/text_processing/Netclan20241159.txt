@@ -1,0 +1,110 @@
+itle netclan
+source url httpsinsightsblackcoffercompopulationandcommunitysurveyofamerica
+
+
+home
+our success stories
+population and community survey of america
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing services  consulting
+services
+marketing consultant
+organization size
+
+project objective
+project population and community survey of america objective were to perform data abstraction data structurization data preprocessing data cleaning and combining data from all the years listed and finally presenting insights of the data by exploratory data analysis
+project description
+for project population and community survey of america task involved fetching json and unformatted csv data from numerous web links further needed to process data handling nested json data conversion of json data in dataframe performing certain pandas operation for feature selection and structuring data concat all this data into one csv file then handle missing value by mapping with another dataset finally perform certain data visualization and exploratory data analysis
+our solution
+module  data abstraction
+the process of data abstraction involves collecting data from numerous web links from year  to  and viewing the data using json viewer in tree format
+module  data chunking and integration
+was unable to process data in pandas so performed data chunking with chunksize  rows at a time for year  likewise performed for all other years data till  and finally combined all the dataframes into one containing all data from year  to 
+module  handling complexity of nested data  format the unformatted csv files
+handling unformatted csv in proper comma separated format so that data frame can be formed dataframe produced after merging for all the years from  to  contains a lot of nested json data among certain attributes so performed normalization of nested json forming newcolumns naming them based on their attributes key
+ module  data cleaning and preprocessing
+involves handling missing value contraction mapping with another dataset to fill the missing statezipcode column handling inf and inf within the dataset for some attributes and forming a new column populationratio based on passing formula among other attributes
+ module  data analysis
+this step involves forming a correlation matrix to understand the relation between numeric attributes performed exploratory data analysis on strong correlated attributes to understand patternrelation between them
+project deliverables
+after completion of project we provided
+final preprocessed csv files
+three ipython files
+preprocessed dataset from year  to 
+preprocessed dataset from year  to 
+data visualization and eda
+tools used
+ jupyter notebook
+ anaconda
+ notepad
+ sublime text
+ brackets
+ python 
+ json viewer
+languagetechniques used
+ python
+ etl techniques
+ advanced excel formatting
+models used
+my project population and community survey of america developed with a software model which makes the project high quality reliable and cost effective
+ software model  radrapid application development model model
+ this project follows a rad model as our model is not forming the loop from end to the start also my project was based on prototyping without any specific planning in the rad model there is less attention paid to the planning and more priority is given to the development tasks it targets developing software in a short span of time
+ advantages of rad model
+o changing requirements can be accommodated
+o progress can be measured
+o iteration time can be short with use of powerful rad tools
+o productivity with fewer people in a short time
+o reduced development time
+o increases reusability of components
+o quick initial reviews occur
+o encourages customer feedback
+o integration from very beginning solves a lot of integration issues
+skills used
+pandas operations
+data chunking and integration
+data visualization
+exploratory data analysis
+databases used
+no database is used in this project only used google drive for storing and transferring data
+web cloud servers used
+no web server is used
+what are the technical challenges faced during project execution
+data cleaning and filling out missing values by data mapping with another dataset as the data was not in proper format in the another dataset
+how the technical challenges were solved
+data cleaning was done using a few built in pandas operations to deal with missing values ordering data columns data formatting changing of data types and many more filling of remaining missing data from columns using outer join among the datasets and using map function of python
+project snapshots
+figure  input data schema for year 
+figure  output data schema from year  to 
+figure  dataset for year 
+figure  is pandas dataset of year  which has  rows and  columns which was fetched from authenticated survey web portal data obtained were in json format which were converted into pandas dataframe likewise there are dataframes created from year  to 
+figure   output preprocessed dataset
+figure  is an output preprocessed dataset from  to  which has  rows and  columns
+figure  describing numeric data of preprocessed dataset
+figure  bar plot of attribute statename
+figure  represents the bar plot among the statename on the final output dataset from year  till 
+figure  kde graph for all numeric population data column of dataset
+figure  represents the kernel density estimate plotkde among all population estimate data columns for the preprocessed dataset kde plot is a method for visualizing the distribution of observations in a dataset analogous to a histogram kde represents the data using a continuous probability density curve in one or more dimensions plotted many more graphs apart this between highly correlated attributes like pair plot box plot line plot etc
+figure  flow chart
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+is telemedicine effective in treating patients
+april  
+financial modeling of the investment management professionals
+august  
+how is ai used to solve traffic management
+august  
+gaming disorder and effects of gaming on health
+june  
+load more
+recommended insights
+should celebrities be allowed to join politics
+advanced ai for handgun detection
+development of ea robot for automated trading
+integrating and deriving insights from the cost of equity

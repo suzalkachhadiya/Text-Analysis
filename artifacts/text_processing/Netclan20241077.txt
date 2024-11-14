@@ -1,0 +1,69 @@
+itle netclan
+source url httpsinsightsblackcoffercomadvancedaiforroadcamthreatdetection
+
+
+home
+our success stories
+advanced ai for road cam threat detection
+client background
+client
+a leading tech firm in the middle east
+industry type
+security
+services
+security services
+organization size
+
+the problem
+detect the threat level of accidents between a pedestrian and a car
+our solution
+use deeplearning computer vision and logic to detect the threat level as defined by the client
+solution architecture
+linux 
+deliverables
+program which detects the threat level
+pretrained model
+tools used
+yolov
+deepsort
+opencv
+languagetechniques used
+python
+models used
+yolov
+skills used
+programming
+computer vision
+deep learning
+what are the technical challenges faced during project execution
+integration of object tracking algorithm with object detection algorithm
+writing of logic to detect the threat level
+how the technical challenges were solved
+the technical challenge was sorted by testing experimenting and later on finding and modifying an already existing repository to use as a baseline for our code for integration
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+rising it cities and their impact on the economy environment infrastructure
+august  
+crm mondaycom via zapier to power bi dashboard
+july  
+how prepared is india to tackle a possible covid outbreak
+april  
+impacts of covid  on vegetable vendors
+november  
+load more
+recommended insights
+time series analysis and trend forecasting solution for predicting news trends
+role of big data in academia
+global economy effected by coronavirus
+qualtrics api integration using python

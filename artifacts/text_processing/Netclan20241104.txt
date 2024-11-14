@@ -1,0 +1,88 @@
+itle netclan
+source url httpsinsightsblackcoffercomdataintegrationandbigdataperformanceusingelkstack
+
+
+home
+our success stories
+data integration and big data performance using elasticsearch
+client background
+client
+a leading tech firm in the usa
+industry type
+it  consulting
+services
+software business solutions consulting
+organization size
+
+project objective
+migrate existing databases from postgres to elastic search since elasticserach performs better in search operations in addition to this all of the backend javascript also needed to be changed in order to query the new elasticsearch database
+project description
+the clients website was a visualization tool it also had gui to add filters to make the visualizations at least  records needed to be pulled from the postgres database whose size would be around mbs this would take a lot of time nearly  secs adding filters would take additional time so our task was to move the entire database over to elasticsearch from postgres since it is way more faster in search operations and also filtering data since the database was changed we also had to write new backend code that would now query the elasticsearch database
+our solution
+setup elk stack elasticsearch logstash kibana on aws ec instance
+write a pipeline file conf file which is used to ingest data from postgres to elasticsearch the datatypes of cloumns unique constraints datetime formats etc are all defined in this file this is executed with the help of logstash
+once the data is inserted it can be queried in the kibanas built in query compiler here we can check the veracity of the data
+identify the code in the backend that needs to be changed
+replace this code with new code that would now query elasticserach we use elasticquerybuilder module for this
+testing postgres and elasticsearch performance
+project deliverables
+setup elk stack elasticsearch logstash kibana on aws ec instance
+pipeline ie logstash file
+new working backend code for elasticsearch
+commands to check elastic data
+customizable logstash pipeline
+tools used
+elasticsearch
+postman
+kibana
+logstash
+python
+javascript
+amazon web services
+postgres
+docker
+git bucket
+github
+languagetechniques used
+javascript
+json
+domainspecific language for elasticsearch
+bash
+skills used
+elasticsearch query knowledge
+postgres query knowledge
+networking
+javascript
+backend web stack
+databases used
+postgres
+elasticsearch
+web cloud servers used
+amazon web services aws
+what are the technical challenges faced during project execution
+sometimes for large responses from elasticsearch  size above mb time taken was above  secs
+how the technical challenges were solved
+to solve the above mentioned problem we used gzip in the request urls header this significantly reduced the execution times
+business impact
+earlier postgres infrastructure which took around  secs now too consistently less than  secs to perform filter and search operations this would contribute to a better user experience
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+recommendation system for posts and articles
+june  
+dynamic brandcentric dashboard for automotive dealerships pdf to financial insights with
+august  
+analytical solution for a tech firm
+july  
+data integration elt with neoj graph database
+april  
+load more
+recommended insights
+google local service ads lsa data warehouse
+advanced ai for thermal person detection
+google data studio dashboard for marketing ads and traction data
+efficient processing and analysis of financial data from pdf files addressing

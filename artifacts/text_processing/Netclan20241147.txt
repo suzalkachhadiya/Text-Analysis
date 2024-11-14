@@ -1,0 +1,76 @@
+itle netclan
+source url httpsinsightsblackcoffercomrealestatedatawarehouse
+
+
+home
+our success stories
+real estate data warehouse
+client background
+client
+a leading real estate firm in the eu
+industry type
+real estate
+services
+real estate
+organization size
+
+project objective
+the objective of this project is to build a data warehouse from a website given search and filter criteria
+project description
+the objective of this project is to collect data from a website given search and filter criteria
+data brief
+crawl all the information for the property adverts once a week and store them in a database
+data language english
+filters
+federal states
+contains a list of the federal states in germany to crawl
+httpsenwikipediaorgwikistatesofgermany
+categories to crawl
+mieten wohnung
+kaufen wohnung
+kaufen anlageobjekte
+kaufen grundstck
+our solution
+we have developed a python tool that crawls and scrapes all the apartment listings for all the states in germany under each category namely mieten wohnungen kaufen wohnungen kaufen anlageobjekte and kaufen grundstuck the scrapy library has been used to crawl and scrape beautiful soup could have also been used for the scraping purpose but for the sake of consistency scrapy has been used for both purposes
+scrapy is an application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications like data mining information processing or historical archival
+even though scrapy was originally designed for
+web scraping
+ it can also be used to extract data using apis such as
+amazon associates web services
+ or as a general purpose web crawler
+four spiders have been created for each category to be scraped every spider crawls all the states in germany and scrapes all the apartment listings for important data every spider creates a separate json file to store all its data this data is then converted to csv using another python script called conversion
+the python tool has been completely automated and only needs the controller script to be run the script also has the capability of running every two weeks automatically
+project deliverables
+four csv files one for each category
+mieten wohnungencsv
+kaufen wohnungencsv
+kaufen anlageobjektecsv
+kaufen grundstuckcsv
+languagetechniques used
+python
+web crawling  scraping
+skills used
+data scraping
+data crawling
+advanced python programming
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+are we any closer to preventing a nuclear holocaust
+october  
+embedding care robots into society and practice sociotechnical considerations
+december  
+big data  analytics to help voters know their political leaders
+march  
+streamlined equity waterfall calculation and deal management system
+march  
+load more
+recommended insights
+resume matching  skill ranking for a leading it firm in
+electric vehicles ev load management system to forecast energy demand
+algorithmic trading for multiple commodities markets like forex metals energy etc
+google local service ads lsa api to google bigquery to google

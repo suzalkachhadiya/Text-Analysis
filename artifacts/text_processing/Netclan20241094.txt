@@ -1,0 +1,59 @@
+itle netclan
+source url httpsinsightsblackcoffercomdesignanddevelopsolutiontoanomalydetectionclassificationproblems
+
+
+home
+our success stories
+design and develop solution to anomaly detection classification problems
+client background
+client
+a leading tech firm in the usa
+industry type
+it consulting
+services
+software consulting
+organization size
+
+project description
+we need to create a notebook with solutions to binary classificationrelated anomaly detection problems we need to use machine learning and deep learning models which have greater than  accuracy
+our solution
+we created a notebook for anomaly detection we used  to  machine learning and deep learning models but only   different types of auto encoder models that were giving greater than  accuracy we trained all  models on one classification data which have anomalies and evaluated trained models on test data
+project deliverables
+a notebook that has solutions for anomaly detection related classification problems and accuracy should be above 
+tools used
+google colab notebooks tensorflow google drive
+languagetechniques used
+python programming language machine learning deep learning data analysis and data visualization
+models used
+auto encoder and variational auto encoder
+skills used
+python data analysis data visualization machine learning deep learning
+databases used
+ms excel
+what are the technical challenges faced during project execution
+most of the anomaly detection models work with regression type data and this problem was classification problem so we need to deal with classification data
+getting high accuracy is also a tough challenge for us because there are only a few models which work well on anomaly detection related classification problems
+how the technical challenges were solved
+so we have limited models for this problem so we used only classification models like autoencoders isolation forest and one class svm
+only autoencoder was giving high accuracy so we worked with different types of autoencoders like variational autoencoder and normal autoencoder
+project snapshots
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+seo tool  ai and data driven
+march  
+impact of indian economy due to covid
+april  
+impact of news media and press on innovation startups and investments
+january  
+automate the data management process
+august  
+load more
+recommended insights
+analytics in healthcare industry
+how does metaverse work in the financial sector
+grafana dashboard to visualize and analyze sensors data
+data management for a political saas application

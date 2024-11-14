@@ -1,0 +1,79 @@
+itle netclan
+source url httpsinsightsblackcoffercombertbasedclassificationofindividualsandorganizationsintotwocategoriesusingnaturallanguageprocessing
+
+
+home
+our success stories
+bertbased classification of individuals and organizations into two categories using natural language
+client background
+client
+a leading it  tech firm in the usa
+industry type
+it
+products  services
+it consulting it support saas
+organization size
+
+the problem
+this project aims to classify people and different organizations into two categories using bertbased models for natural language processing
+our solution
+utilized pretrained bertbased models for text classification
+finetuned the models on the sample dataset of the provided dataset for optimal performance
+implemented an evaluation metric to assess the models accuracy
+giving the classification report and accuracy
+solution architecture
+deliverables
+peopleorgclassificationusingbertipynb
+tech stack
+tools used
+kaggle notebook
+languagetechniques used
+python deep learning
+models used
+bert based classifier
+skills used
+data science
+what are the technical challenges faced during project execution
+the problem was the higher gpu limit is required to process the big dataset
+how the technical challenges were solved
+we shifted our notebook from google colab to kaggle notebook as it offers more gpu usage limits also we took sample data from a given big dataset and processed it quickly
+business impact
+the project successfully implemented a text classification solution using bertbased models the model achieved promising results in classifying people into organizational categories the documentation outlines the steps from data loading to model training and evaluation providing a comprehensive project overview
+project snapshots
+project website url
+httpsdrivegooglecomfiledsylohokwieitzalvbjvrjkjdlrmviewuspsharing
+project video
+httpswwwloomcomsharedfcedeadfcfac
+summarize
+summarized httpsblackcoffercom
+this project was done by the blackcoffer team a global it consulting firm
+contact details
+this solution was designed and developed by blackcoffer team
+here are my contact details
+firm name blackcoffer pvt ltd
+firm website wwwblackcoffercom
+firm address  eextension shaym vihar phase  new delhi 
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+data science  create tailored algorithms
+june  
+efficient coach allocation system for sports coaching organization
+august  
+data management etl and data automation
+august  
+will technology eliminate the need for animal testing in drug development
+october  
+load more
+recommended insights
+how does artificial intelligence affect the environment
+ai in healthcare to improve patient outcomes
+react native apps in the development portfolio
+ios mobile applications portfolio

@@ -1,0 +1,70 @@
+itle netclan
+source url httpsinsightsblackcoffercomadvancedaiforpedestriancrossingsafety
+
+
+home
+our success stories
+advanced ai for pedestrian crossing safety
+client background
+client
+a leading tech firm in the middle east
+industry type
+security
+services
+security services
+organization size
+
+the problem
+traffic signals are inefficient because even if there are no cars or no pedestrians on the road it still works on a timer and stops the traffic or pedestrian unnecessarily
+our solution
+we provide a computer visionlogic to manipulate the traffic signal to work such that it turns red only when x number of pedestrians are waiting to cross the signal
+solution architecture
+yolov pose estimation
+opencv
+deliverables
+the program detects pedestrians and gives alerts to traffic signals to turn red or stay green
+yolov pose model weights
+tools used
+yolov
+opencv
+languagetechniques used
+python
+computer vision
+models used
+yolov pose estimation
+skills used
+programming
+computer vision
+deep learning
+what are the technical challenges faced during project execution
+there was no existing solution and we had to create the logic from scratch
+how the technical challenges were solved
+researching computer vision learning new techniques and experimentation
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+automate the data management process
+august  
+how ai will help the defense power of a country
+june  
+due to the covid the repercussion of the environment
+june  
+rise of ehealth and its impact on humans by the year
+january  
+load more
+recommended insights
+do all social media is owned by meta
+aiml and predictive modeling
+impact of indian economy due to covid
+gaming disorder and effects of gaming on health

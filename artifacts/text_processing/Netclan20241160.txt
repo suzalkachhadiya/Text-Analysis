@@ -1,0 +1,130 @@
+itle netclan
+source url httpsinsightsblackcoffercomgooglelsaapidataautomationanddashboarding
+
+
+home
+our success stories
+google lsa api data automation and dashboarding
+client background
+client
+a leading marketing firm in the usa
+industry type
+marketing services  consulting
+services
+marketing consultant
+organization size
+
+project objective
+for this project objective was to perform api data abstraction using google lsa api in gcp automation of data fetching and storing in bigquery on daily basis storing historical data for all active companies fetching customer report then storing data on daily basis in bigquery also storing historical data for all companies perform linear regression modelling on historical data for all companies and storing the modeling summary in google sheet in a structured manner basecamp automation with lsa daily data creating  bi dashboard in data studio for live historical modelling and customer report data for all companies
+project description
+for this project task was to obtain an account report and detailed lead report for a specific dates and customerid using google local service ads api service in google cloud platform further need to integrate with google bigquery database storing mcc data for all companies on a daily basis then storing historical data for all active companies also notifying clients through email and passing messages containing daily account data in a message format to basecamp message board and campfire of respective company projects through its api all with python programming further deploying the script on heroku server for automating all this task then creating bi dashboard in data studio connecting with bigquery and creating live dashboard historical dashboard for all companies
+on historical data for all companies linear regression modelling needs to perform and to create modelling dashboard for all companies in data studio further needs to do  exploratory data analysis for all companies on historical data
+to store customer account report for message lead and phone lead on a daily basis script needs to be created and deployed in heroku and also need to store historical data for these companies and finally create data studio dashboard on it
+creating sales representation dashboard for two companies which involves multiple reports and blending of multiple data sources from big query
+our solution
+ module  api data abstraction
+which first includes generation of the access token and refresh token with the scope of google adword api for the authentication and connecting with google lsa api then fetching daily data in json format for particular account name based on customerid assigned in api url while fetching data likewise generating a script that would handle data generation for all other active accounts based on their customer id
+ module  data imputation and storing
+converting the json data to the pandas data frame forming a list of data frame for all the active accounts by looping them then deriving certain more attributes based on their handling the missing and inf values finally storing the data in google big query database within the respective table for all accounts using bigquery api
+ module  data storing in bigquery and notification automation
+the task was to automate notifications sent to email and to basecamp and the data transferred to the database on a daily basis by deploying the script to heroku server setting time parameters based on the new york time zone
+ module  automation tools created till now
+i lsaaccountreportdailybigquery tool for automation of account report for all companies on a daily basis scheduling it at  am in the los angeles timezone
+ii lsaaccountreporthistoricalapi tool  for storing historical data for companies for the last few years till the end date which we set
+iii basecamplsaautomation this is used to pass the lsa data in a message format to campfire for respective companies groups and store lsa data combined for all companies to messageboard and campfire at one automation python group in basecamp
+iv lsadaterange tool used to store missed out data for all the companies for a few sets of days or months as per the need
+v lsamainsheetautoupdation tool for auto updation of main sheet  lsa client lead  google sheet as daily data are fetched on the basis of this list so it is required to auto update this sheet for all the new companies entered would store information of those like company name account id and database name
+vi lsadailycustomerreport tool created to store lsa customer report for all companies in database customerreportphonelead  customerreportmessagelead on daily basis
+vii historicallsacustomerreport tool  created to store lsa customer report for all companies in database customerreportphonelead  customerreportmessagelead storing historical data for year 
+ module  data studio bi dashboards created
+i historical dashboard
+ii live dashboard
+ii customer report dashboard
+iii modelling report dashboard
+iv sales representation dashboard
+project deliverables
+data studio dashboard main sheet
+all codes for the deployed tools and for modelling eda and test purpose 
+tools used
+ pycharm
+ jupyter notebook
+ anaconda
+ heroku
+ notepad
+ google sheet api
+ google lsa api on gcp
+ google bigquery
+ sublime text
+ brackets
+ jsonviewer
+languagetechniques used
+ python
+ sql
+models used
+my project google adword lsa api reports automation into google big query database and basecamp developed with a software model which makes the project high quality reliable and costeffective
+ software model radrapid application development model model
+ this project follows a rad model as our model is not forming the loop from end to the start also my project was based on prototyping without any specific planning in the rad model there is less attention paid to the planning and more priority is given to the development tasks it targets developing software in a short span of time
+ advantages of rad model
+o changing requirements can be accommodated
+o progress can be measured
+o iteration time can be short with the use of powerful rad tools
+o productivity with fewer people in a short time
+o reduced development time
+o increases reusability of components
+o quick initial reviews occur
+o encourages customer feedback
+o integration from the very beginning solves a lot of integration issues
+skills used
+ api data abstraction
+ data mining and statistical modelling
+ data wrangling
+ deployment for automation
+ data visualization
+ sql
+ machine learning
+ python programming including oops and exception handling
+databases used
+ google firestore just for testing purpose
+ google bigquery
+web cloud servers used
+google bigquery cloud database with up to  tb of free storage is being used
+what are the technical challenges faced during project execution
+ scheduling automation of python script
+ data exceptions and duplication in bigquery tables
+ refresh token expiration after  days
+ data exception due to inactive companies or not updation of lsa main sheet
+ basecamp projectid issue for transferring data to multiple companies projects
+ data studio time series plot data mismatch due to multiple account id
+how the technical challenges were solved
+ scheduling automation of python script
+python library blockingscheduler were used and the timezone variable tz was set to los angeles in heroku
+ data exceptions and duplication in bigquery tables
+structuring sql query to deal with all the database issues which were being used in bigquery to solve those issues
+ refresh token expiration after  days
+initially auth playground was used for generating refresh token which was getting expired after every  days so to last it longer for more than a year we are now using the refresh token which was generated using python script where proper token endpoints and many other headers were defined before generating the refresh token
+ data exception due to inactive companies or not updation of lsa main sheet
+data exception occurred while api data abstraction for few of the companies which were solved by adding more nested try and except statements after understanding issues also lsa clients lead main sheet was not being updated by other members due to which we missed out data for few of the companies which were solved by creating script which will automatically update the mainsheet when an error occurred
+ basecamp projectid issue for transferring data to multiple companies projects
+this issue was solved by creating basecamp main sheet where data was fetched now by mapping the account id of fetched data using lsa main sheet and project id of all the basecamp companies
+ data studio time series plot data mismatch due to multiple account id
+solved by adding many parameters like setting the metrics which will do a summation of all the companies on a particular day for all the account id
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+lessons from the past some key learnings relevant to the coronavirus
+may  
+role of big data in healthcare
+may  
+transforming insurance claim processing with automation  artificial intelligence
+april  
+coronavirus impact on the hospitality industry
+april  
+load more
+recommended insights
+will technology eliminate the need for animal testing in drug development
+power bi integration with restapi and saml integration
+lessons from the past some key learnings relevant to the coronavirus
+rise of cybercrime and its effect by the year 

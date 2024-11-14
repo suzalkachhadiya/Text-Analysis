@@ -123,17 +123,17 @@ Development of EA Robot for Automated Trading
 AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy
 Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard Accuracy in Partner Hospital Application
 MOST POPULAR INSIGHTS
-Data ETL: Local Service Ads Leads to BigQuery
-August 30, 2021
-Google Data Studio Dashboard for Marketing, ads and Traction data
-January 16, 2022
-Sentiment Analysis Bot for Price Prediction
-March 10, 2021
-How advertisement increase your market value?
-November 20, 2022
+Descriptive vs Inquisitive vs Predictive Analytics
+April 4, 2019
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
+July 21, 2023
+How Metaverse will change your life?
+February 3, 2022
+Golden Record – A knowledge graph database approach to unfold discovery...
+July 22, 2023
 Load more
 RECOMMENDED INSIGHTS
-Global Economy effected by Coronavirus
-Streamlining Time Calculation in Warehouse Management: Leveraging ShipHero API and Google...
-Off-Page SEO
-Immigration Datawarehouse & AI-based recommendations
+A Leading Hospitality Firm in the USA, Website SEO & Optimization
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
+How does Big Data Help in Finance and the Growth of...
+Pharmaceutical Data Power BI Report

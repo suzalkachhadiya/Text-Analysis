@@ -1,0 +1,73 @@
+itle netclan
+source url httpsinsightsblackcoffercomusinggraphtechnologytocreatesinglecustomerview
+
+
+home
+our success stories
+using graph technology to create single customer view
+client background
+client
+a leading retail firm in newzealand
+industry type
+retail
+services
+retail business
+organization size
+
+the problem
+companies face issue of having a single customer under various rows with slightly different information in the same database this causes unwanted duplication and inaccurate statistics it also results in inaccurate ad targeting and financial loss
+our solution
+we leverage graph technology to create a single customer view by using complex cypher queries  and graph algorithms
+solution architecture
+we have an azure vm on which we have installed the neoj database deployment architecture is a single instance because of using the community version of the software
+deliverables
+populated neoj database
+required cypher queries
+tools used
+neoj
+graphlytics
+languagetechniques used
+java
+cypher query
+models used
+noderelationship model
+skills used
+data analytics
+data engineering
+data science
+databases used
+neoj
+web cloud servers used
+azure
+what are the technical challenges faced during project execution
+only  difficulty was faced in this project and that was to migrate data from elasticsearch to neoj
+how the technical challenges were solved
+research and experimentation
+project snapshots
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+portfolio website dashboard saas applications web apps
+july  
+role of big data in healthcare
+may  
+modeling  simulation for drug development  formulation
+january  
+advanced ai for trading automation
+july  
+load more
+recommended insights
+how the covid crisis is redefining jobs and services
+transform api into sdk library and widget
+how big data and analytics is shaping tomorrow for marketing leaders
+seo tool  ai and data driven

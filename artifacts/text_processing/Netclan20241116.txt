@@ -1,0 +1,63 @@
+itle netclan
+source url httpsinsightsblackcoffercomdatabasenormalizationsegmentationwithgoogledatastudiodashboardinsights
+
+
+home
+our success stories
+database normalization  segmentation with google data studio dashboard insights
+client background
+client
+a leading marketing firm in the usa
+industry type
+market research
+services
+marketing consultancy
+organization size
+
+project objective
+to combine the different datasets
+to make dashboards for each and every dataset individually
+project description
+phase   in this project first of all we have to combine different datasets individually to make single file for each source
+phase   make good looking reports for each file individually
+our solution
+we used pandas dataframe to combine different files to make single file for each source we used google data studio to make good looking and better reports with good ui
+project deliverables
+we have provided a google data studio report file as deliverable for the project
+tools used
+python google data studio google chrome
+languagetechniques used
+python programming and sql queries editor
+models used
+sdlc model used in this project we have used the sdlc model as analysis design implementation testing and maintenance
+skills used
+data cleaning data preprocessing data visualisation are used in this project
+databases used
+we have used the traditional file systems as database storage
+what are the technical challenges faced during project execution
+combining data sets into single file
+making good looking ui dashboards
+how the technical challenges were solved
+i used pandas dataframe to combine different datasets and made a single file of every individual source i used google data studio to make dashboard for the project
+project snapshots
+project video
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+what is the limitation of elearning classes
+december  
+how to secure ssl nginx with lets encrypt on ubuntu cloud
+august  
+how to access amazon seller central or vendor central data in
+march  
+data etl local service ads leads to bigquery
+august  
+load more
+recommended insights
+design  develop bert question answering model explanations with visualization
+impact of covid coronavirus on the indian economy
+data integration elt with neoj graph database
+impact of indian economy due to covid

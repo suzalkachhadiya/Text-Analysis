@@ -1,0 +1,68 @@
+itle netclan
+source url httpsinsightsblackcoffercomcardetectioninsatelliteimages
+
+
+home
+our success stories
+car detection in satellite images
+client background
+client
+a leading retail firm in the usa
+industry type
+retail
+services
+retail business
+organization size
+
+project objective
+the objective of this project was to detect cars in satellite images and highlight them using a bounding box
+project description
+the client steffen schneider approached us with a requirement to develop a python project that dealt in the field of computer vision the main aim of the project was to detect cars present in a satellite image and highlight them using a bounding box to achieve this we decided to use the darknet model and train it on yolov dataset of cars in satellite images
+our solution
+we used google colab for coding and training the darknet model kaggle was used to download the yolov dataset of cars in satellite images we preprocessed the dataset and trained the model on it once the model was trained we tested it on sample satellite images and it worked perfectly fine finally we created a script that detected the cars in an image and highlighted them using a bounding box
+project deliverables
+the final deliverable was a ipython notebook presented on google colab
+tools used
+google colab kaggle slackfor communication
+languagetechniques used
+python
+models used
+darknetcv model
+skills used
+python programming aiml
+what are the technical challenges faced during project execution
+the main challenge we faced was related to the preprocessing of the yolov dataset of cars in satellite images the dataset was large and had to be cleaned and formatted before it could be used for training the model
+how the technical challenges were solved
+we used python programming skills and developed a script that automated the preprocessing of the dataset this saved us a lot of time and allowed us to focus on training the model
+business impact
+the project was a success and the client was very happy with the final product the car detection model worked perfectly fine on sample satellite images and could be used for further development of an application that could detect cars in realtime
+project website url
+httpscolabresearchgooglecomdriveaoehdzdpilwlfxgjvtwjtne
+project video
+contact details
+here are my contact details
+email ajayblackcoffercom
+skype asbidyarthy
+whatsapp  
+telegram asbidyarthy
+for project discussions and daily updates would you like to use slack skype telegram or whatsapp please recommend what would work best for you
+related articles
+more from author
+integrating machine learning code into kubeflow pipeline  kuberflow mlops kubernetes
+facial recognition attendance system
+face recognition using deepface
+most popular insights
+online barometer dashboard for smart schools system
+february  
+all you need to know about online marketing
+may  
+what is data exfiltration
+may  
+google local service ads lsa leads dashboard
+february  
+load more
+recommended insights
+rise of ott platform and its impact on entertainment industry by
+rise of cybercrime and its effect by the year 
+efficient processing and analysis of financial data from pdf files addressing
+rising it cities will impact the economy environment infrastructure and city
